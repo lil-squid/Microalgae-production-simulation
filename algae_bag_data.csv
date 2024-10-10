@@ -1,0 +1,1947 @@
+﻿date,year,Species,strain,sppc,inoculation date,bag_length_days,quality number,quality (S/F),rack (ANAL),position (1-12),notes
+1/20/20,y2020,M,Gamma,Mono-Gamma,1/17/20,3,3,NA,B,12,Airline popped out overnight
+1/21/20,y2020,CC,Beta,CC-Beta,1/17/20,4,5,NA,D,12,Airline popped during lunch
+1/23/20,y2020,Ch,Beta,Chgra-Beta,1/17/20,6,1,F,B,7,"crashed, clear"
+1/23/20,y2020,Ch,Beta,Chgra-Beta,1/17/20,6,1,F,B,8,"crashed, clear"
+1/23/20,y2020,Ch,Gamma,Chgra-Gamma,1/17/20,6,1,F,B,9,"crashed, clear"
+1/23/20,y2020,Ch,Gamma,Chgra-Gamma,1/17/20,6,1,F,B,10,"crashed, clear"
+1/28/20,y2020,C,Beta,C-ISO-Beta,1/20/20,8,3,S,C,9,big white chunks
+1/28/20,y2020,C,Beta,C-ISO-Beta,1/20/20,8,3,S,C,10,big white chunks
+1/28/20,y2020,M,Gamma,Mono-Gamma,1/24/20,4,1,S,H,12,"crashed, clear, weird blobs and pH 4.99"
+1/28/20,y2020,Ch,Gamma,Chgra-Gamma,1/25/20,3,1,S+F,B,11,"crashed, clear and foamy"
+1/28/20,y2020,Ch,Gamma,Chgra-Gamma,1/25/20,3,1,S+F,B,12,"crashed, clear and foamy"
+1/28/20,y2020,CC,Alpha,CC-Alpha,1/24/20,4,,S+F,H,1,"crashed, clear and foamy"
+1/29/20,y2020,Ch,Beta,Chgra-Beta,1/25/20,4,1,S+F,B,9,"clear, foamy"
+1/29/20,y2020,Ch,Beta,Chgra-Beta,1/25/20,4,1,S+F,B,10,"clear, foamy"
+1/29/20,y2020,M,Gamma,Mono-Gamma,1/25/20,4,1,S,D,12,"clear, scuzz lines"
+1/29/20,y2020,Ch,Alpha,Chgra-Alpha,1/25/20,4,1,S+F,F,1,"clear, foamy"
+1/29/20,y2020,Ch,Alpha,Chgra-Alpha,1/25/20,4,1,S+F,F,2,"clear, foamy"
+1/29/20,y2020,Ch,Beta,Chgra-Beta,1/25/20,4,1,S+F,F,3,"clear, foamy"
+1/29/20,y2020,Ch,Beta,Chgra-Beta,1/25/20,4,1,S+F,F,4,"clear, foamy"
+1/29/20,y2020,Ch,Beta,Chgra-Beta,1/26/20,3,1,S+F,F,5,"clear, foamy"
+1/29/20,y2020,Ch,Beta,Chgra-Beta,1/26/20,3,1,S+F,F,6,"clear, foamy"
+1/29/20,y2020,Ch,Alpha,Chgra-Alpha,1/26/20,3,1,S+F,F,7,"clear, foamy"
+1/29/20,y2020,Ch,Alpha,Chgra-Alpha,1/26/20,3,1,S+F,F,8,"clear, foamy"
+1/29/20,y2020,M,Beta,Mono-Beta,1/26/20,3,1,S,F,12,"clear, scuzzy"
+1/29/20,y2020,CC,Alpha,CC-Alpha,1/26/20,3,1,S,H,5,"chunky, scuzz"
+1/29/20,y2020,CC,Gamma,CC-Gamma,1/26/20,3,1,S,H,6,"scuzz, clear"
+1/29/20,y2020,CC,Gamma,CC-Gamma,1/26/20,3,1,S,H,7,"scuzz, clear"
+1/29/20,y2020,CC,Gamma,CC-Gamma,1/26/20,3,1,S,H,8,"scuzz, clear"
+1/29/20,y2020,CC,Gamma,CC-Gamma,1/26/20,3,1,S,H,9,"scuzz, clear"
+1/30/20,y2020,CC,Beta,CC-Beta,1/25/20,5,1,S,J,1,"completely clear, white scuzz"
+1/30/20,y2020,C,Beta,C-ISO-Beta,1/15/20,15,5,S,G,4,corner popped
+1/31/20,y2020,T,Gamma,T-ISO-Gamma,1/15/20,16,0,S,A,2,crashed
+1/31/20,y2020,T,Gamma,T-ISO-Gamma,1/15/20,16,0,S,A,1,crashed
+2/1/20,y2020,C,Alpha,C-ISO-Alpha,1/15/20,17,0,S,C,6,crashed
+2/1/20,y2020,C,Alpha,C-ISO-Alpha,1/15/20,17,0,S,C,5,crashed
+2/1/20,y2020,C,Gamma,C-ISO-Gamma,1/15/20,17,0,S,C,4,crashed
+2/1/20,y2020,C,Gamma,C-ISO-Gamma,1/15/20,17,0,S,C,3,crashed
+2/1/20,y2020,C,Gamma,C-ISO-Gamma,1/15/20,17,0,S,C,2,crashed
+2/2/20,y2020,T,Gamma,T-ISO-Gamma,1/16/20,17,0,S,A,7,crashed
+2/2/20,y2020,T,Gamma,T-ISO-Gamma,1/20/20,13,0,S,A,9,crashed
+2/2/20,y2020,T,Gamma,T-ISO-Gamma,1/20/20,13,0,S,A,11,crashed
+2/3/20,y2020,T,Alpha,T-ISO-Alpha,1/15/20,19,1,S,A,4,crashed
+2/3/20,y2020,T,Alpha,T-ISO-Alpha,1/16/20,18,1,S,A,8,crashed
+2/3/20,y2020,T,Gamma,T-ISO-Gamma,1/20/20,14,1,S,A,12,crashed
+2/3/20,y2020,C,Gamma,C-ISO-Gamma,1/15/20,19,1,S,C,1,crashed
+2/3/20,y2020,CC,Gamma,CC-Gamma,1/15/20,19,1,S,D,8,crashed
+2/3/20,y2020,T,Beta,T-ISO-Beta,1/16/20,18,1,S,A,5,"crashed, clear, scuzzy"
+2/3/20,y2020,C,Alpha,C-ISO-Alpha,1/20/20,14,1,S,C,7,"clear, scuzzy, chunks"
+2/3/20,y2020,CC,Gamma,CC-Gamma,1/15/20,19,1,S+F,D,2,clear
+2/3/20,y2020,C,Beta,C-ISO-Beta,1/15/20,19,1,S,G,1,"light, scuzzy, chunks"
+2/3/20,y2020,C,Beta,C-ISO-Beta,1/15/20,19,1,S,G,2,"light, scuzzy, chunks"
+2/3/20,y2020,C,Alpha,C-ISO-Alpha,1/15/20,19,1,S,G,3,clear
+2/3/20,y2020,C,Alpha,C-ISO-Alpha,1/21/20,13,1,S,G,10,"light, scuzzy, chunks"
+2/5/20,y2020,T,Gamma,T-ISO-Gamma,1/20/20,16,1,S,A,10,"clear, scuzzy"
+2/5/20,y2020,Ch,Gamma,Chgra-Gamma,1/25/20,11,9,NA,B,8,"bottom seal popped, accidentally drained"
+2/5/20,y2020,Ch,Gamma,Chgra-Gamma,2/1/20,4,1,S+F,B,9,"clear, white scuzz"
+2/6/20,y2020,C,Alpha,C-ISO-Alpha,1/20/20,17,1,S,C,8,"clear, chunky"
+2/6/20,y2020,C,Alpha,C-ISO-Alpha,1/21/20,16,2,S,G,6,"chunky, loose scuzz"
+2/7/20,y2020,Ch,Alpha,Chgra-Alpha,1/17/20,21,2,S,B,3,chunky
+2/7/20,y2020,C,Gamma,C-ISO-Gamma,1/21/20,17,1,S,G,8,chunky
+2/9/20,y2020,T,Beta,T-ISO-Beta,1/25/20,15,1,S,E,3,"crashed, clear, scuzzy at bottom"
+2/10/20,y2020,Ch,Alpha,Chgra-Alpha,2/4/20,6,1,S,F,1,"crashed, clear, scuzzy at bottom"
+2/10/20,y2020,T,Alpha,T-ISO-Alpha,1/30/20,11,4,S,E,6,"corner popped, scuzz lines"
+2/12/20,y2020,C,Gamma,C-ISO-Gamma,1/30/20,13,NA,S,C,10,airline popped overnight
+2/12/20,y2020,C,Gamma,C-ISO-Gamma,1/30/20,13,1,S,C,9,"crashed, scuzz lines"
+2/12/20,y2020,CC,Gamma,CC-Gamma,1/15/20,28,1,S,D,7,crashed
+2/12/20,y2020,CC,Gamma,CC-Gamma,1/15/20,28,1,S,D,1,crashed
+2/13/20,y2020,T,Beta,T-ISO-Beta,1/16/20,28,1,S,A,6,"crashed, clear, scuzzy top and bottom"
+2/13/20,y2020,C,Beta,C-ISO-Beta,1/30/20,14,1,S,C,11,"crashed, chunky"
+2/13/20,y2020,C,Beta,C-ISO-Beta,1/30/20,14,1,S,C,12,"crashed, chunky"
+2/13/20,y2020,T,Alpha,T-ISO-Alpha,1/30/20,14,1,S,E,9,"crashed, chunky"
+2/13/20,y2020,T,Alpha,T-ISO-Alpha,1/30/20,14,1,S,E,10,"crashed, chunky"
+2/13/20,y2020,C,Beta,C-ISO-Beta,1/30/20,14,1,S,G,11,"crashed, chunky"
+2/13/20,y2020,T,Alpha,T-ISO-Alpha,1/15/20,29,1,S,A,3,"crashed, chunky"
+2/17/20,y2020,M,Alpha,Mono-Alpha,2/6/20,11,1,S,B,12,"chunks, light"
+2/17/20,y2020,C,Gamma,C-ISO-Gamma,2/5/20,12,2,S,C,4,"chunks, light"
+2/17/20,y2020,C,Gamma,C-ISO-Gamma,2/1/20,16,1,S,C,5,"chunks, clear"
+2/17/20,y2020,C,Gamma,C-ISO-Gamma,2/1/20,16,1,S,C,6,"big fluffy chunks, clear"
+2/17/20,y2020,CC,Alpha,CC-Alpha,1/15/20,33,1,S,D,9,"chunky, light"
+2/17/20,y2020,T,Beta,T-ISO-Beta,1/24/20,24,1,S,E,2,clear
+2/17/20,y2020,C,Beta,C-ISO-Beta,1/30/20,18,1,S,G,12,"light, chunky"
+2/17/20,y2020,M,Gamma,Mono-Gamma,2/11/20,6,1,S,H,12,big fluffy chunks
+2/19/20,y2020,C,Alpha,C-ISO-Alpha,2/7/20,12,1,S,C,8,chunky
+2/20/20,y2020,CC,Gamma,CC-Gamma,2/7/20,13,1,F,H,10,"clear, crashed"
+2/20/20,y2020,C,Gamma,C-ISO-Gamma,2/10/20,10,1,S,G,2,"chunky, light"
+2/20/20,y2020,C,Delta,C-ISO-Delta,2/10/20,10,1,S,G,4,"chunky, light"
+2/20/20,y2020,C,Delta,C-ISO-Delta,2/10/20,10,1,S,G,5,"chunky, light"
+2/20/20,y2020,C,Beta,C-ISO-Beta,1/15/20,36,1,NA,G,3,orange
+2/20/20,y2020,C,Alpha,C-ISO-Alpha,1/15/20,36,1,NA,G,6,orange
+2/20/20,y2020,C,Alpha,C-ISO-Alpha,1/21/20,30,1,NA,G,9,orange
+2/21/20,y2020,T,Beta,T-ISO-Beta,1/24/20,28,1,S,E,1,"crashed, bad smell, scuzz lines"
+2/21/20,y2020,M,Alpha,Mono-Alpha,1/25/20,27,1,S,J,12,"crashed, clear"
+2/22/20,y2020,C,Delta,C-ISO-Delta,2/5/20,17,1,S,C,7,"crashed, clear and scuzz"
+2/22/20,y2020,C,Gamma,C-ISO-Gamma,2/10/20,12,1,S,G,1,"crashed, clear and scuzz"
+2/23/20,y2020,T,Alpha,T-ISO-Alpha,2/7/20,16,1,S,A,2,"crashed, clear, scuzz lines, chunks"
+2/25/20,y2020,T,Gamma,T-ISO-Gamma,2/7/20,18,3,S,A,1,"scuzz bottom, sticky"
+2/25/20,y2020,T,Delta,T-ISO-Delta,2/5/20,20,3,S,A,7,"scuzz bottom, sticky"
+2/25/20,y2020,T,Gamma,T-ISO-Gamma,2/10/20,15,3,S,A,9,"scuzz bottom, sticky"
+2/25/20,y2020,T,Delta,T-ISO-Delta,2/10/20,15,3,S,A,11,"scuzz bottom, sticky"
+2/25/20,y2020,C,Beta,C-ISO-Beta,2/18/20,7,5,S,C,3,sticky brown and white bottom lines
+2/25/20,y2020,T,Alpha,T-ISO-Alpha,1/30/20,26,2,S,E,5,"scuzz bottom, sticky"
+2/25/20,y2020,M,Beta,Mono-Beta,2/10/20,15,3,S,D,12,"scuzz bottom, sticky"
+2/26/20,y2020,T,Gamma,T-ISO-Gamma,2/10/20,16,2,S,A,10,scuzz bottom
+2/26/20,y2020,T,Delta,T-ISO-Delta,2/10/20,16,3,S,A,12,scuzz bottom
+2/27/20,y2020,C,Delta,C-ISO-Delta,2/18/20,9,1,S,C,2,"light, chunks, dark scuzz loose"
+2/27/20,y2020,C,Gamma,C-ISO-Gamma,2/18/20,9,1,S,C,1,"light, chunks, dark scuzz loose"
+2/28/20,y2020,Ch,Alpha,Chgra-Alpha,1/17/20,42,3,S,B,6,big chunks
+3/5/20,y2020,CC,Beta,CC-Beta,3/4/20,1,10,NA,H,11,accidentaly drained
+3/5/20,y2020,M,Alpha,Mono-Alpha,2/11/20,23,2,S,I,12,"crashed, dark scuzz, clear"
+3/6/20,y2020,T,Delta,T-ISO-Delta,2/17/20,18,1,S,A,3,"crashed, light, chunky"
+3/6/20,y2020,T,Gamma,T-ISO-Gamma,3/1/20,5,2,S,A,9,chunky
+3/6/20,y2020,T,Delta,T-ISO-Delta,2/25/20,10,2,S,E,6,chunky
+3/6/20,y2020,M,Alpha,Mono-Alpha,2/26/20,9,2,S,D,12,"cloudy, white chunks"
+3/7/20,y2020,CC,Beta,CC-Beta,2/25/20,11,1,S,J,10,"jelly, sudden chunks"
+3/9/20,y2020,T,Gamma,T-ISO-Gamma,2/17/20,21,1,S,A,5,"crashed, clear, chunks"
+3/9/20,y2020,T,Alpha,T-ISO-Alpha,2/18/20,20,1,S,A,6,"crashed, clear, chunks"
+3/9/20,y2020,T,Gamma,T-ISO-Gamma,2/25/20,13,2,S,E,4,"crashed, clear, chunks"
+3/9/20,y2020,T,Gamma,T-ISO-Gamma,1/30/20,39,1,NA,E,8,"clear, crashed"
+3/10/20,y2020,T,Gamma,T-ISO-Gamma,1/30/20,40,1,S,E,7,"clear, crashed"
+3/10/20,y2020,T,NA,T-ISO-NA,2/25/20,14,1,S,E,5,"clear, crashed, chunky"
+3/13/20,y2020,T,Delta,T-ISO-Delta,3/4/20,9,1,S,A,11,"chunky, crashed"
+3/13/20,y2020,C,Delta,C-ISO-Delta,2/26/20,16,2,S,C,3,"chunky, crashed"
+3/13/20,y2020,CC,Delta,CC-Delta,2/10/20,32,1,F,J,5,"clear, crashed"
+3/13/20,y2020,CC,Delta,CC-Delta,2/10/20,32,1,F,J,6,"clear, crashed"
+3/13/20,y2020,T,Beta,T-ISO-Beta,2/17/20,25,1,S,A,4,"light, chunky"
+3/13/20,y2020,C,Alpha,C-ISO-Alpha,3/1/20,12,1,S,C,1,"light, chunky"
+3/13/20,y2020,C,Beta,C-ISO-Beta,3/1/20,12,1,S,C,2,"light, chunky"
+3/13/20,y2020,C,Delta,C-ISO-Delta,2/26/20,16,1,S,C,4,"light, chunky"
+3/13/20,y2020,C,Gamma,C-ISO-Gamma,3/2/20,11,1,S,C,5,"light, chunky"
+3/13/20,y2020,M,Gamma,Mono-Gamma,2/18/20,24,2,S,H,12,"clear, scuzzy"
+3/16/20,y2020,M,Beta,Mono-Beta,2/20/20,25,1,S,B,12,"clear, scuzzy, chunks"
+3/16/20,y2020,CC,Beta,CC-Beta,1/15/20,61,2,NA,D,3,chunky
+3/16/20,y2020,T,Delta,T-ISO-Delta,3/8/20,8,1,S,E,1,"light, very scuzzy"
+3/16/20,y2020,M,Alpha,Mono-Alpha,2/19/20,26,1,S,K,12,"clear, crashed"
+3/17/20,y2020,T,Beta,T-ISO-Beta,3/2/20,15,1,S,A,10,"clear, crashed"
+3/17/20,y2020,C,Gamma,C-ISO-Gamma,3/11/20,6,1,S,C,7,"clear, crashed"
+3/17/20,y2020,C,Delta,C-ISO-Delta,3/11/20,6,1,S,C,8,"clear, crashed"
+3/17/20,y2020,Ch,Alpha,Chgra-Alpha,2/20/20,26,2,F,I,2,"clear, crashed"
+3/18/20,y2020,C,Alpha,C-ISO-Alpha,3/8/20,10,1,S,G,1,chunky
+3/18/20,y2020,C,Beta,C-ISO-Beta,3/8/20,10,1,S,G,2,chunky
+3/18/20,y2020,C,Gamma,C-ISO-Gamma,3/13/20,5,1,S,G,3,chunky
+3/20/20,y2020,C,Delta,C-ISO-Delta,3/6/20,14,1,S,C,6,"light, chunky"
+3/23/20,y2020,T,Gamma,T-ISO-Gamma,3/13/20,10,1,S,A,3,"light, crashed"
+3/23/20,y2020,T,Gamma,T-ISO-Gamma,3/11/20,12,2,S,E,8,"light, crashed"
+3/23/20,y2020,Ch,Gamma,Chgra-Gamma,2/29/20,23,1,S,F,10,"light, crashed"
+3/23/20,y2020,Ch,Beta,Chgra-Beta,2/29/20,23,1,S,F,11,"light, crashed"
+3/23/20,y2020,CC,Gamma,CC-Gamma,3/8/20,15,1,S,H,11,"light, crashed"
+3/23/20,y2020,Ch,Delta,Chgra-Delta,3/8/20,15,1,S,I,4,"light, crashed"
+3/23/20,y2020,M,Delta,Mono-Delta,2/26/20,26,2,S,J,12,"light, chunky"
+3/25/20,y2020,Ch,Delta,Chgra-Delta,2/29/20,25,1,S,F,9,"tiny swirling chunks, crashed"
+3/26/20,y2020,CC,Gamma,CC-Gamma,2/1/20,54,2,S+F,H,6,"very sticky and foamy, light"
+3/28/20,y2020,T,Alpha,T-ISO-Alpha,3/18/20,10,8,S,A,6,drained overnight
+3/28/20,y2020,CC,Delta,CC-Delta,3/18/20,10,2,S+F,D,3,chunky and gross
+3/28/20,y2020,CC,Alpha,CC-Alpha,2/7/20,50,2,S,H,8,scuzz growing on walls
+3/28/20,y2020,Ch,Gamma,Chgra-Gamma,3/18/20,10,1,S,I,7,crashed
+3/28/20,y2020,CC,Alpha,CC-Alpha,3/18/20,10,1,NA,L,7,crashed
+3/29/20,y2020,CC,Alpha,CC-Alpha,3/4/20,25,1,S+F,L,11,"crashed, dark scuzz chunks, swirling chunks"
+3/29/20,y2020,CC,Gamma,CC-Gamma,3/16/20,13,1,S+F,J,6,"crashed, dark scuzz chunks, swirling chunks"
+3/29/20,y2020,CC,Alpha,CC-Alpha,2/18/20,40,1,S+F,J,7,"crashed, dark scuzz chunks, swirling chunks"
+4/1/20,y2020,C,Alpha,C-ISO-Alpha,3/18/20,14,2,S,C,1,very chunky
+4/1/20,y2020,CC,Beta,CC-Beta,1/17/20,75,1,S+F,D,1,crashed
+4/1/20,y2020,CC,Delta,CC-Delta,2/29/20,32,2,S,D,1,"light, very sticky"
+4/1/20,y2020,M,Beta,Mono-Beta,2/10/20,51,2,S,F,12,"light, scuzz all up walls"
+4/1/20,y2020,CC,Delta,CC-Delta,2/21/20,40,1,S,H,10,"crashed, scuzzy walls"
+4/1/20,y2020,Ch,Delta,Chgra-Delta,3/18/20,14,2,S+F,I,2,"light, chunky"
+4/1/20,y2020,CC,Beta,CC-Beta,2/25/20,36,1,S,J,11,"crashed, scuzzy"
+4/1/20,y2020,Ch,Delta,Chgra-Delta,3/13/20,19,1,S,K,3,"crashed, scuzzy"
+4/1/20,y2020,Ch,Alpha,Chgra-Alpha,3/13/20,19,1,S,K,2,"crashed, scuzzy"
+4/2/20,y2020,Ch,Gamma,Chgra-Gamma,2/1/20,61,1,S,B,10,"chunky, mold spots"
+4/2/20,y2020,CC,Alpha,CC-Alpha,1/15/20,78,2,S+F,D,10,"chunky, lgiht"
+4/2/20,y2020,CC,Beta,CC-Beta,1/15/20,78,3,S+F,D,4,chunky
+4/2/20,y2020,Ch,Delta,Chgra-Delta,2/14/20,48,2,S,F,6,chunky
+4/3/20,y2020,T,Alpha,T-ISO-Alpha,2/26/20,37,1,S,A,7,"chunky, light, crashed"
+4/3/20,y2020,Ch,Gamma,Chgra-Gamma,1/15/20,79,1,S+F,B,2,"chunky, light, crashed"
+4/3/20,y2020,Ch,Gamma,Chgra-Gamma,1/25/20,69,2,S,B,7,"chunky, light, crashed"
+4/3/20,y2020,Ch,Alpha,Chgra-Alpha,2/3/20,60,1,S,B,11,"chunky, light, crashed"
+4/3/20,y2020,C,Delta,C-ISO-Delta,3/24/20,10,1,S,C,4,"chunky, light, crashed"
+4/3/20,y2020,C,Gamma,C-ISO-Gamma,3/24/20,10,1,S,C,5,"chunky, light, crashed"
+4/3/20,y2020,CC,Gamma,CC-Gamma,3/1/20,33,1,S,D,1,"chunky, light, crashed"
+4/3/20,y2020,CC,Alpha,CC-Alpha,1/15/20,79,1,S+F,D,5,"chunky, light, crashed"
+4/3/20,y2020,CC,Alpha,CC-Alpha,1/15/20,79,1,S+F,D,6,"chunky, light"
+4/3/20,y2020,CC,Delta,CC-Delta,2/14/20,49,1,S+F,D,7,"chunky, light"
+4/3/20,y2020,CC,Gamma,CC-Gamma,2/14/20,49,1,S+F,D,8,"chunky, light"
+4/3/20,y2020,Ch,Alpha,Chgra-Alpha,2/14/20,49,1,S+F,F,7,"chunky, light"
+4/3/20,y2020,Ch,Gamma,Chgra-Gamma,2/18/20,45,1,S,F,8,"chunky, light"
+4/3/20,y2020,CC,Beta,CC-Beta,1/24/20,70,1,S+F,H,3,"chunky, light"
+4/3/20,y2020,CC,Beta,CC-Beta,2/6/20,57,1,S+F,H,7,"chunky, light"
+4/3/20,y2020,CC,Beta,CC-Beta,2/7/20,56,1,S+F,H,9,"chunky, light"
+4/3/20,y2020,Ch,Delta,Chgra-Delta,2/20/20,43,1,S+F,I,1,"chunky, light"
+4/3/20,y2020,Ch,Gamma,Chgra-Gamma,2/20/20,43,1,S+F,I,3,"chunky, light"
+4/3/20,y2020,Ch,Gamma,Chgra-Gamma,3/25/20,9,2,S,I,4,"chunky, light"
+4/3/20,y2020,Ch,Delta,Chgra-Delta,3/26/20,8,2,S,I,10,"chunky, light"
+4/3/20,y2020,CC,Beta,CC-Beta,1/25/20,69,2,S,J,2,"chunky, light"
+4/3/20,y2020,Ch,Gamma,Chgra-Gamma,3/13/20,21,1,S,K,4,"SUPER chunky, light"
+4/3/20,y2020,CC,Beta,CC-Beta,3/24/20,10,2,S,L,4,"SUPER chunky, light"
+4/3/20,y2020,CC,Delta,CC-Delta,3/11/20,23,2,S+F,L,8,"SUPER chunky, light"
+4/3/20,y2020,CC,Alpha,CC-Alpha,3/11/20,23,2,S+F,L,10,"SUPER chunky, light"
+4/4/20,y2020,CC,Delta,CC-Delta,3/29/20,6,1,S,H,11,crashed
+4/4/20,y2020,Ch,Beta,Chgra-Beta,3/25/20,10,1,S,I,9,crashed
+4/4/20,y2020,T,Beta,T-ISO-Beta,3/18/20,17,1,S,A,10,"chunky, crashed"
+4/5/20,y2020,C,Alpha,C-ISO-Alpha,3/24/20,12,1,S,C,6,"chunky, crashed"
+4/5/20,y2020,T,Alpha,T-ISO-Alpha,3/25/20,11,1,S,E,2,"chunky, crashed"
+4/5/20,y2020,CC,Beta,CC-Beta,2/6/20,59,1,S+F,H,1,"chunky, crashed"
+4/7/20,y2020,Ch,Beta,Chgra-Beta,3/18/20,20,1,S,I,8,"crashed, light, sticky top and bottom"
+4/7/20,y2020,Ch,Beta,Chgra-Beta,3/13/20,25,1,S,K,1,"crashed, light"
+4/8/20,y2020,T,Beta,T-ISO-Beta,3/25/20,14,1,S,E,1,"crashed, light, sticky top and bottom"
+4/9/20,y2020,Ch,Alpha,Chgra-Alpha,3/29/20,11,1,NA,F,9,"crashed, light, sticky top and bottom"
+4/9/20,y2020,Ch,Beta,Chgra-Beta,3/4/20,36,1,S+F,B,6,"crashed, light, sticky top and bottom"
+4/9/20,y2020,CC,Gamma,CC-Gamma,3/29/20,11,1,NA,D,3,"crashed, light, sticky top and bottom"
+4/9/20,y2020,CC,Gamma,CC-Gamma,3/18/20,22,1,S,J,10,"crashed, light, sticky top and bottom"
+4/10/20,y2020,Ch,Alpha,Chgra-Alpha,1/17/20,84,1,S,B,4,"crashed, light"
+4/10/20,y2020,Ch,Beta,Chgra-Beta,2/14/20,56,1,S+F,F,5,"crashed, light"
+4/10/20,y2020,CC,Beta,CC-Beta,3/18/20,23,1,S+F,L,6,"super gross, sticky, chunks"
+4/11/20,y2020,CC,Beta,CC-Beta,3/11/20,31,2,S+F,L,9,light and chunky
+4/11/20,y2020,Ch,Alpha,Chgra-Alpha,3/18/20,24,1,S,I,6,crashed
+4/11/20,y2020,T,Gamma,T-ISO-Gamma,4/4/20,7,1,S,E,3,crashed
+4/11/20,y2020,T,Delta,T-ISO-Delta,4/4/20,7,1,S,E,4,crashed
+4/11/20,y2020,C,From Plate,C-ISO-From Plate,4/4/20,7,2,S,C,5,super chunky
+4/12/20,y2020,T,Delta,T-ISO-Delta,3/17/20,26,1,S,A,4,light and chunky
+4/16/20,y2020,T,Gamma,T-ISO-Gamma,3/17/20,30,1,NA,A,5,extremely light and scuzz
+4/17/20,y2020,CC,Beta,CC-Beta,4/7/20,10,1,S,D,5,"clear, crashed, scuzz"
+4/18/20,y2020,CC,Alpha,CC-Alpha,2/5/20,73,1,S,D,2,"clear, crashed, scuzz"
+4/18/20,y2020,CC,Alpha,CC-Alpha,4/7/20,11,1,S,D,6,"clear, crashed, scuzz"
+4/18/20,y2020,Ch,Alpha,Chgra-Alpha,1/17/20,92,1,S+F,B,5,"clear, crashed, scuzz"
+4/18/20,y2020,Ch,Delta,Chgra-Delta,4/4/20,14,1,S+F,B,1,"clear, crashed, scuzz"
+4/18/20,y2020,CC,Alpha,CC-Alpha,2/1/20,77,1,S+F,A,5,"clear, crashed, scuzz and fuz"
+4/18/20,y2020,Ch,Alpha,Chgra-Alpha,3/18/20,31,1,S,I,6,"clear, crashed, scuzz"
+4/18/20,y2020,Ch,Beta,Chgra-Beta,2/14/20,64,1,F,F,5,"clear, crashed, fuzz"
+4/18/20,y2020,T,Delta,T-ISO-Delta,4/4/20,14,1,S,E,4,"clear, crashed, scuzz"
+4/18/20,y2020,T,Alpha,T-ISO-Alpha,4/4/20,14,1,S,E,3,"clear, crashed, scuzz"
+4/18/20,y2020,T,Alpha,T-ISO-Alpha,3/17/20,32,1,S,A,5,"clear, crashed, scuzz"
+4/18/20,y2020,T,Delta,T-ISO-Delta,3/17/20,32,1,S+F,A,4,"clear, crashed, scuzz and fuz"
+4/18/20,y2020,CC,Delta,CC-Delta,4/7/20,11,1,S+F,D,7,"clear, crashed, scuzz and fuz"
+4/18/20,y2020,Ch,Alpha,Chgra-Alpha,1/17/20,92,1,S+F,B,4,"clear, crashed, scuzz and fuz"
+4/18/20,y2020,C,Plate,C-ISO-Plate,4/4/20,14,1,S,C,5,"clear, crashed, scuzz"
+4/19/20,y2020,Ch,Alpha,Chgra-Alpha,4/4/20,15,1,S+F,B,10,"clear, crashed, scuzz and fuz"
+4/19/20,y2020,Ch,Alpha,Chgra-Alpha,3/6/20,44,1,S,B,3,"clear, crashed, scuzz"
+4/19/20,y2020,CC,Alpha,CC-Alpha,2/19/20,60,1,S,J,9,"clear, crashed, scuzz"
+4/20/20,y2020,T,Beta,T-ISO-Beta,3/13/20,38,1,S,A,1,crashed
+4/20/20,y2020,T,Alpha,T-ISO-Alpha,3/13/20,38,1,S,A,2,crashed
+4/20/20,y2020,T,Delta,T-ISO-Delta,3/24/20,27,1,S,A,3,crashed
+4/20/20,y2020,T,Alpha,T-ISO-Alpha,2/26/20,54,1,S,A,8,crashed
+4/20/20,y2020,T,Alpha,T-ISO-Alpha,3/6/20,45,1,S,A,9,crashed
+4/20/20,y2020,T,Gamma,T-ISO-Gamma,3/23/20,28,1,S,A,11,crashed
+4/20/20,y2020,T,Alpha,T-ISO-Alpha,4/4/20,16,1,S,E,5,crashed
+4/20/20,y2020,T,Beta,T-ISO-Beta,4/4/20,16,1,S,E,6,crashed
+4/20/20,y2020,C,Delta,C-ISO-Delta,3/18/20,33,1,S,C,2,"crashed, moldy sides"
+4/20/20,y2020,C,Beta,C-ISO-Beta,3/18/20,33,1,S,C,3,"crashed, moldy sides"
+4/20/20,y2020,C,Gamma,C-ISO-Gamma,4/4/20,16,1,S,C,4,"crashed, moldy sides"
+4/20/20,y2020,C,Beta,C-ISO-Beta,4/7/20,13,1,S,C,7,"crashed, moldy sides"
+4/20/20,y2020,C,Alpha,C-ISO-Alpha,4/4/20,16,1,S,C,8,"crashed, moldy sides"
+4/20/20,y2020,C,Beta,C-ISO-Beta,4/4/20,16,1,S,C,9,"crashed, moldy sides"
+4/20/20,y2020,Ch,Gamma,Chgra-Gamma,1/15/20,96,1,S,B,1,"crashed, moldy sides"
+4/20/20,y2020,Ch,Delta,Chgra-Delta,2/10/20,70,1,S,F,1,crashed
+4/20/20,y2020,Ch,Delta,Chgra-Delta,2/10/20,70,1,S,F,2,crashed
+4/20/20,y2020,Ch,Gamma,Chgra-Gamma,2/10/20,70,1,S+F,F,3,crashed
+4/20/20,y2020,Ch,Gamma,Chgra-Gamma,2/10/20,70,1,S,F,4,crashed
+4/20/20,y2020,Ch,Gamma,Chgra-Gamma,4/11/20,9,1,S,Experiment,4,"got light, crashed"
+4/20/20,y2020,Ch,Alpha,Chgra-Alpha,4/11/20,9,1,S,Experiment,5,"got light, crashed"
+4/20/20,y2020,Ch,Beta,Chgra-Beta,4/11/20,9,1,S,Experiment,6,"got light, crashed"
+4/20/20,y2020,Ch,Gamma,Chgra-Gamma,3/8/20,43,1,S+F,I,5,crashed
+4/20/20,y2020,CC,Gamma,CC-Gamma,4/4/20,16,1,S+F,D,1,crashed
+4/20/20,y2020,CC,Beta,CC-Beta,4/4/20,16,1,S+F,D,4,crashed
+4/20/20,y2020,CC,Alpha,CC-Alpha,1/24/20,87,1,S+F,H,2,crashed
+4/20/20,y2020,CC,Beta,CC-Beta,1/24/20,87,1,S+F,H,4,crashed
+4/20/20,y2020,CC,Alpha,CC-Alpha,2/25/20,55,1,S,J,1,crashed
+4/20/20,y2020,CC,Alpha,CC-Alpha,2/10/20,70,1,S+F,J,4,crashed
+4/20/20,y2020,CC,Delta,CC-Delta,3/16/20,35,1,S+F,J,5,crashed
+4/20/20,y2020,CC,Beta,CC-Beta,2/18/20,62,1,S+F,J,8,crashed
+4/20/20,y2020,CC,Alpha,CC-Alpha,3/24/20,27,1,S+F,L,5,crashed
+4/20/20,y2020,CC,Beta,CC-Beta,3/18/20,33,1,S,L,6,crashed
+4/20/20,y2020,CC,Beta,CC-Beta,3/11/20,40,1,S,L,9,crashed
+4/21/20,y2020,Ch,Beta,Chgra-Beta,2/6/20,75,1,S,B,9,"chunky, moldy, clear"
+4/21/20,y2020,C,Alpha,C-ISO-Alpha,4/7/20,14,1,S,C,6,"chunky, crashed"
+4/21/20,y2020,Ch,Alpha,Chgra-Alpha,4/4/20,17,1,S,B,7,"chunky, crashed"
+4/21/20,y2020,Ch,Beta,Chgra-Beta,2/5/20,76,1,S,B,8,"chunky, crashed"
+4/22/20,y2020,C,Delta,C-ISO-Delta,4/4/20,18,1,S,C,1,"chunky, crashed"
+4/22/20,y2020,C,Gamma,C-ISO-Gamma,4/11/20,11,1,S,Experiment,Experiment,"clear, crashed"
+4/22/20,y2020,CC,Gamma,CC-Gamma,4/16/20,6,1,S,Experiment,Experiment,"clear, crashed"
+4/22/20,y2020,CC,Delta,CC-Delta,4/16/20,6,1,S,Experiment,Experiment,"clear, crashed"
+4/23/20,y2020,T,Delta,T-ISO-Delta,4/7/20,16,1,S,A,7,"chunky, light"
+4/23/20,y2020,CC,Alpha,CC-Alpha,2/10/20,73,1,S+F,J,3,"chunky, light"
+4/27/20,y2020,M,Beta,Mono-Beta,4/16/20,11,2,S+F,G,11,experimental: brown scuzz chunks
+4/27/20,y2020,C,Delta,C-ISO-Delta,4/11/20,16,3,S,G,10,experimental: brown scuzz chunks
+4/27/20,y2020,T,Beta,T-ISO-Beta,4/11/20,16,3,S,G,8,experimental: brown scuzz chunks
+4/27/20,y2020,T,Alpha,T-ISO-Alpha,4/11/20,16,1,S,G,7,"experimental: brown scuzz chunks, crased and chunky scuzz"
+4/27/20,y2020,Ch,Delta,Chgra-Delta,4/16/20,11,2,S,F,6,"effectedby experiment light, scuzz chunks and film"
+4/29/20,y2020,T,Gamma,T-ISO-Gamma,4/7/20,22,1,S,A,6,crashed after batch feeding
+4/29/20,y2020,M,Delta,Mono-Delta,4/16/20,13,1,S+F,G,3,experimental row and batch fed
+4/30/20,y2020,CC,Delta,CC-Delta,4/22/20,8,1,S,D,3,"white and brown scuzz, chunks"
+4/30/20,y2020,CC,Beta,CC-Beta,4/17/20,13,1,S,D,8,"white and brown scuzz, chunks"
+4/30/20,y2020,T,Beta,T-ISO-Beta,4/22/20,8,2,S,A,2,white chunks
+5/1/20,y2020,Ch,Alpha,Chgra-Alpha,4/22/20,9,1,S,B,1,"chunky, crashed"
+5/1/20,y2020,C,Alpha,C-ISO-Alpha,4/17/20,14,1,S,C,11,"chunky, crashed"
+5/3/20,y2020,Ch,Beta,Chgra-Beta,4/23/20,10,1,S,B,5,"crashed, chunks, sticky on bottom"
+5/3/20,y2020,C,Beta,C-ISO-Beta,4/17/20,16,1,S,C,10,"crashed, light, sticky on bottom"
+5/4/20,y2020,CC,Gamma,CC-Gamma,4/22/20,12,1,NA,D,2,"crashed, light"
+5/7/20,y2020,Ch,Beta,Chgra-Beta,4/22/20,15,1,S,B,2,"clear, crashed"
+5/8/20,y2020,C,Delta,C-ISO-Delta,4/17/20,21,3,S,K,10,big chunks
+5/10/20,y2020,C,Beta,C-ISO-Beta,4/23/20,17,1,S,C,2,crashed and chunky
+5/13/20,y2020,T,Delta,T-ISO-Delta,4/23/20,20,1,S,A,7,"crashed, light, scuzz on bottom and sticky on top"
+5/13/20,y2020,T,Gamma,T-ISO-Gamma,4/23/20,20,1,S,A,5,"crashed, light, scuzz on bottom and sticky on top"
+5/13/20,y2020,T,Delta,T-ISO-Delta,4/22/20,21,1,S,A,4,"crashed, light, scuzz on bottom and sticky on top"
+5/13/20,y2020,T,Gamma,T-ISO-Gamma,4/22/20,21,1,S,A,3,"crashed, light, scuzz on bottom and sticky on top"
+5/13/20,y2020,M,Beta,Mono-Beta,4/29/20,14,2,NA,D,12,"crashed, light, scuzz on bottom"
+5/15/20,y2020,T,Gamma,T-ISO-Gamma,5/1/20,14,2,S,A,6,"chunky, light"
+5/15/20,y2020,C,Alpha,C-ISO-Alpha,4/18/20,27,1,S,C,5,"chunky, light"
+5/15/20,y2020,M,Beta,Mono-Beta,4/29/20,16,1,S,C,12,"light, crashed"
+5/15/20,y2020,C,Delta,C-ISO-Delta,4/27/20,18,5,S,C,3,"needed space, small chunks"
+5/15/20,y2020,C,Gamma,C-ISO-Gamma,4/27/20,18,5,S,C,4,"needed space, small chunks"
+5/16/20,y2020,T,Gamma,T-ISO-Gamma,5/1/20,15,1,S,A,2,"chunky, light"
+5/19/20,y2020,CC,Delta,CC-Delta,5/9/20,10,1,S+F,H,1,"chunky, light, gross"
+5/20/20,y2020,C,Alpha,C-ISO-Alpha,4/23/20,27,2,S,C,1,"crashing, chunks"
+5/21/20,y2020,C,Beta,C-ISO-Beta,5/9/20,12,3,S,K,1,"small chunks, getting light"
+5/21/20,y2020,C,Beta,C-ISO-Beta,5/9/20,12,3,S,K,2,"small chunks, getting light"
+5/21/20,y2020,C,Alpha,C-ISO-Alpha,5/9/20,12,3,S,K,3,"small chunks, getting light"
+5/21/20,y2020,C,Alpha,C-ISO-Alpha,5/9/20,12,3,S,K,4,"small chunks, getting light"
+5/21/20,y2020,CC,Beta,CC-Beta,5/6/20,15,2,S,D,3,"chunky, light"
+5/21/20,y2020,M,Alpha,Mono-Alpha,5/1/20,20,2,S,B,12,"light, scuzzy"
+5/22/20,y2020,T,Beta,T-ISO-Beta,5/6/20,16,4,S,A,10,"need space, little chunks"
+5/22/20,y2020,T,Beta,T-ISO-Beta,5/6/20,16,4,S,A,11,"need space, little chunks"
+5/22/20,y2020,Ch,Gamma,Chgra-Gamma,5/1/20,21,2,S+F,B,10,chunky
+5/24/20,y2020,Ch,Gamma,Chgra-Gamma,5/1/20,23,1,S+F,B,11,"crashed, scuzz"
+5/25/20,y2020,T,Gamma,T-ISO-Gamma,5/15/20,10,1,S,A,3,"chunks, scuzz, light"
+5/25/20,y2020,T,Gamma,T-ISO-Gamma,5/15/20,10,1,S,A,4,"chunks, scuzz, light"
+5/25/20,y2020,Ch,Delta,Chgra-Delta,4/22/20,33,1,S+F,B,4,"chunks, scuzz, light"
+5/25/20,y2020,C,Delta,C-ISO-Delta,5/6/20,19,1,S,C,6,"chunks, scuzz, light"
+5/25/20,y2020,CC,Alpha,CC-Alpha,5/6/20,19,1,S+F,D,10,"chunks, scuzz, light"
+5/25/20,y2020,M,Alpha,Mono-Alpha,5/18/20,7,2,S,D,12,"chunks, scuzz, light"
+5/25/20,y2020,M,Beta,Mono-Beta,5/10/20,15,2,S,H,12,"chunks, scuzz, light"
+5/25/20,y2020,CC,Alpha,CC-Alpha,5/18/20,7,1,NA,J,4,jelly-like chunks
+5/25/20,y2020,C,Delta,C-ISO-Delta,5/6/20,19,2,S+F,C,7,"light, chunks"
+5/26/20,y2020,T,Gamma,T-ISO-Gamma,5/15/20,11,3,S,A,6,"needed space, light, scuzzy"
+5/26/20,y2020,T,Gamma,T-ISO-Gamma,5/15/20,11,3,S,A,7,"needed space, light, scuzzy"
+5/26/20,y2020,T,Gamma,T-ISO-Gamma,5/18/20,8,5,S,E,7,"needed space, scuzzy"
+5/26/20,y2020,T,Gamma,T-ISO-Gamma,5/18/20,8,5,S,E,8,"needed space, scuzzy"
+5/26/20,y2020,Ch,Beta,Chgra-Beta,5/6/20,20,4,S,F,1,"needed space, small chunks"
+5/26/20,y2020,Ch,Beta,Chgra-Beta,5/6/20,20,4,S,F,2,"needed space, small chunks"
+5/26/20,y2020,CC,Alpha,CC-Alpha,4/22/20,34,2,S+F,D,1,"chunky, jelly-like"
+5/26/20,y2020,CC,Gamma,CC-Gamma,5/1/20,25,2,S+F,D,8,"chunky, jelly-like"
+5/27/20,y2020,C,Beta,C-ISO-Beta,5/6/20,21,3,S,C,8,"light, drained for algae"
+5/27/20,y2020,C,Alpha,C-ISO-Alpha,5/6/20,21,3,S,C,10,"light, drained for algae"
+5/27/20,y2020,CC,Delta,CC-Delta,4/29/20,28,4,S+F,D,6,"light, drained for algae"
+5/27/20,y2020,CC,Delta,CC-Delta,4/29/20,28,3,S+F,D,7,"light, drained for algae"
+5/27/20,y2020,CC,Gamma,CC-Gamma,5/1/20,26,3,S+F,D,9,"light, drained for algae"
+5/27/20,y2020,CC,Alpha,CC-Alpha,5/6/20,21,3,S+F,D,11,"light, drained for algae"
+5/27/20,y2020,CC,Alpha,CC-Alpha,5/18/20,9,4,S+F,J,2,"light, drained for algae"
+5/27/20,y2020,CC,Alpha,CC-Alpha,5/18/20,9,4,F,J,3,"light, drained for algae"
+6/1/20,y2020,Ch,Delta,Chgra-Delta,4/29/20,33,1,NA,B,6,"crashed, very light"
+6/1/20,y2020,Ch,Beta,Chgra-Beta,5/18/20,14,1,F,I,4,"crashed, very light"
+6/1/20,y2020,C,Gamma,C-ISO-Gamma,5/15/20,17,1,F,K,5,"crashed, very light, scuzz on bottom"
+6/1/20,y2020,T,Delta,T-ISO-Delta,5/22/20,10,1,S,A,10,"crashed, very light, scuzz on bottom"
+6/1/20,y2020,T,Delta,T-ISO-Delta,5/22/20,10,1,S,A,11,"crashed, very light, scuzz on bottom"
+6/1/20,y2020,M,Alpha,Mono-Alpha,5/10/20,22,1,S,F,12,"crashed, chunky"
+6/1/20,y2020,CC,Beta,CC-Beta,5/18/20,14,1,F,H,10,"crashed, scuzz on bottom"
+6/1/20,y2020,C,Beta,C-ISO-Beta,5/15/20,17,1,S+F,K,6,"crashed, light, scuzzy, black chunks"
+6/1/20,y2020,C,Beta,C-ISO-Beta,5/15/20,17,1,S+F,K,7,"crashed, light, scuzzy, black chunks"
+6/3/20,y2020,T,Alpha,T-ISO-Alpha,5/18/20,16,4,S,A,12,"needed space, chunky"
+6/3/20,y2020,T,Beta,T-ISO-Beta,5/18/20,16,3,S,E,9,"needed space, chunky"
+6/3/20,y2020,T,Beta,T-ISO-Beta,5/18/20,16,3,S,E,10,"needed space, chunky"
+6/3/20,y2020,T,Delta,T-ISO-Delta,5/18/20,16,3,S,E,11,"needed space, chunky"
+6/3/20,y2020,C,Beta,C-ISO-Beta,5/15/20,19,2,S,K,8,"chunky, light"
+6/3/20,y2020,C,Beta,C-ISO-Beta,5/15/20,19,1,S,K,9,"chunky, light"
+6/3/20,y2020,C,Beta,C-ISO-Beta,5/15/20,19,1,S,K,10,"chunky, light"
+6/3/20,y2020,C,Alpha,C-ISO-Alpha,5/15/20,19,1,S,K,11,"chunky, light"
+6/3/20,y2020,C,Alpha,C-ISO-Alpha,5/15/20,19,2,S,K,12,"chunky, light"
+6/3/20,y2020,Ch,Delta,Chgra-Delta,5/9/20,25,4,S,F,4,"needed space, chunky"
+6/3/20,y2020,Ch,Beta,Chgra-Beta,5/9/20,25,4,S,F,6,"needed space, chunky"
+6/3/20,y2020,Ch,Alpha,Chgra-Alpha,5/10/20,24,2,S,F,8,"needed space, chunks, light"
+6/4/20,y2020,C,Alpha,C-ISO-Alpha,5/15/20,20,2,S,C,2,"chunky, light"
+6/4/20,y2020,C,Alpha,C-ISO-Alpha,5/15/20,20,2,S,C,3,"chunky, light"
+6/4/20,y2020,C,Beta,C-ISO-Beta,5/6/20,29,2,S,C,9,"chunky, moldy"
+6/4/20,y2020,C,Alpha,C-ISO-Alpha,5/6/20,29,2,S,C,11,"chunky, moldy"
+6/4/20,y2020,T,Beta,T-ISO-Beta,5/10/20,25,3,S,E,6,chunky
+6/4/20,y2020,T,Alpha,T-ISO-Alpha,5/10/20,25,3,S,E,4,chunky
+6/4/20,y2020,T,Alpha,T-ISO-Alpha,5/6/20,29,2,S,E,1,"chunky, gross film"
+6/4/20,y2020,CC,Beta,CC-Beta,5/18/20,17,1,S,H,8,"chunky, crashing"
+6/5/20,y2020,CC,Beta,CC-Beta,5/18/20,18,2,S,H,7,"chunky, light"
+6/5/20,y2020,CC,Beta,CC-Beta,5/18/20,18,2,S,H,9,"chunky, light"
+6/8/20,y2020,T,Alpha,T-ISO-Alpha,4/22/20,47,1,S,A,1,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Beta,T-ISO-Beta,5/18/20,21,1,S,A,2,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Gamma,T-ISO-Gamma,5/26/20,13,1,S,A,5,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Delta,T-ISO-Delta,5/26/20,13,1,S,A,6,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Alpha,T-ISO-Alpha,5/18/20,21,1,S,A,7,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Beta,T-ISO-Beta,4/27/20,42,1,S,A,9,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Alpha,T-ISO-Alpha,5/10/20,29,1,S,E,3,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Beta,T-ISO-Beta,5/10/20,29,1,S,E,5,"tropical storm evacuation, crashed"
+6/8/20,y2020,T,Gamma,T-ISO-Gamma,5/18/20,21,1,S,E,12,"tropical storm evacuation, crashed"
+6/8/20,y2020,C,Alpha,C-ISO-Alpha,5/25/20,14,1,S,K,3,"tropical storm evacuation, crashed"
+6/8/20,y2020,C,Alpha,C-ISO-Alpha,5/25/20,14,1,S,K,4,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Alpha,Chgra-Alpha,5/6/20,33,1,F,B,1,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Delta,Chgra-Delta,5/25/20,14,1,F,B,2,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Gamma,Chgra-Gamma,4/22/20,47,1,S,B,3,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Beta,Chgra-Beta,5/5/20,34,1,S,F,5,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Alpha,Chgra-Alpha,5/10/20,29,1,S,F,7,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Beta,Chgra-Beta,5/18/20,21,1,S,I,2,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Beta,Chgra-Beta,5/18/20,21,1,S,I,3,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Delta,Chgra-Delta,5/18/20,21,1,S,I,6,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Delta,Chgra-Delta,5/18/20,21,1,S,I,7,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Alpha,Chgra-Alpha,5/18/20,21,1,S,I,9,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Alpha,Chgra-Alpha,5/18/20,21,1,S,I,11,"tropical storm evacuation, crashed"
+6/8/20,y2020,Ch,Alpha,Chgra-Alpha,5/18/20,21,1,S,I,12,"tropical storm evacuation, crashed"
+6/8/20,y2020,CC,Beta,CC-Beta,5/16/20,23,1,S,D,2,"tropical storm evacuation, crashed"
+6/8/20,y2020,CC,Beta,CC-Beta,5/25/20,14,1,S,D,12,"tropical storm evacuation, crashed"
+6/8/20,y2020,CC,Delta,CC-Delta,5/9/20,30,1,S,H,2,"tropical storm evacuation, crashed"
+6/8/20,y2020,CC,Beta,CC-Beta,5/9/20,30,1,S,H,4,"tropical storm evacuation, crashed"
+6/9/20,y2020,CC,Delta,CC-Delta,5/25/20,15,2,S,J,4,chunky
+6/9/20,y2020,CC,Delta,CC-Delta,5/25/20,15,2,S+F,J,7,chunky
+6/9/20,y2020,CC,Alpha,CC-Alpha,5/25/20,15,2,S+F,J,11,chunky
+6/9/20,y2020,Ch,Delta,Chgra-Delta,5/18/20,22,2,S,I,5,chunky
+6/10/20,y2020,Ch,Alpha,Chgra-Alpha,4/29/20,42,1,S,B,9,"light, chunky"
+6/10/20,y2020,Ch,Delta,Chgra-Delta,5/25/20,16,1,S,B,11,"light, chunky, moldy"
+6/10/20,y2020,C,Alpha,C-ISO-Alpha,5/29/20,12,1,S,C,6,chunky
+6/10/20,y2020,C,Alpha,C-ISO-Alpha,5/29/20,12,1,S,C,7,chunky
+6/10/20,y2020,C,Alpha,C-ISO-Alpha,5/29/20,12,1,S,C,8,chunky
+6/10/20,y2020,CC,Beta,CC-Beta,5/25/20,16,1,S,D,10,chunky
+6/10/20,y2020,Ch,Beta,Chgra-Beta,5/26/20,15,1,S,F,1,chunky
+6/10/20,y2020,Ch,Delta,Chgra-Delta,5/9/20,32,1,S,F,3,chunky
+6/10/20,y2020,Ch,Alpha,Chgra-Alpha,5/26/20,15,1,S,F,9,chunky
+6/10/20,y2020,Ch,Delta,Chgra-Delta,5/26/20,15,1,S,F,11,chunky
+6/10/20,y2020,CC,Delta,CC-Delta,6/2/20,8,1,S,H,11,"light, chunky"
+6/10/20,y2020,Ch,Delta,Chgra-Delta,5/18/20,23,1,S,I,8,"chunky, moldy"
+6/10/20,y2020,Ch,Alpha,Chgra-Alpha,5/18/20,23,1,S,I,10,"chunky, moldy"
+6/10/20,y2020,CC,Alpha,CC-Alpha,5/25/20,16,1,S,J,9,"chunky, moldy"
+6/10/20,y2020,CC,Alpha,CC-Alpha,5/25/20,16,1,S,J,10,"chunky, moldy"
+6/10/20,y2020,CC,Delta,CC-Delta,5/26/20,15,1,S,L,1,"chunky, light"
+6/10/20,y2020,CC,Delta,CC-Delta,5/26/20,15,1,S,L,2,"chunky, light"
+6/11/20,y2020,T,Alpha,T-ISO-Alpha,5/25/20,17,3,S,A,3,"chunky, moldy"
+6/11/20,y2020,T,Alpha,T-ISO-Alpha,5/25/20,17,3,S,A,4,"chunky, moldy"
+6/11/20,y2020,T,Alpha,T-ISO-Alpha,4/27/20,45,3,S,A,8,chunky
+6/11/20,y2020,T,Gamma,T-ISO-Gamma,6/2/20,9,3,S,A,10,chunky
+6/11/20,y2020,Ch,Delta,Chgra-Delta,5/25/20,17,3,S,B,4,chunky
+6/11/20,y2020,Ch,Alpha,Chgra-Alpha,4/29/20,43,1,S,B,8,super gross and light
+6/11/20,y2020,M,Delta,Mono-Delta,5/25/20,17,1,S,B,12,moldy
+6/11/20,y2020,C,Delta,C-ISO-Delta,5/26/20,16,3,S,C,1,chunks
+6/11/20,y2020,C,Delta,C-ISO-Delta,5/26/20,16,3,S,C,4,chunks
+6/11/20,y2020,C,Alpha,C-ISO-Alpha,5/29/20,13,3,S,C,5,chunks
+6/11/20,y2020,C,Beta,C-ISO-Beta,5/29/20,13,3,S,C,10,chunks
+6/11/20,y2020,C,Beta,C-ISO-Beta,5/29/20,13,3,S,C,12,chunks
+6/11/20,y2020,CC,Alpha,CC-Alpha,4/23/20,49,3,S,D,4,chunks
+6/11/20,y2020,CC,Beta,CC-Beta,4/23/20,49,3,S,D,5,chunks
+6/11/20,y2020,T,Alpha,T-ISO-Alpha,5/6/20,36,2,S,E,2,super gross
+6/11/20,y2020,T,Alpha,T-ISO-Alpha,6/3/20,8,2,S,E,9,chunks
+6/11/20,y2020,T,Beta,T-ISO-Beta,6/3/20,8,2,S,E,10,chunks
+6/11/20,y2020,T,Delta,T-ISO-Delta,6/3/20,8,3,S,E,11,chunks
+6/11/20,y2020,Ch,Beta,Chgra-Beta,5/26/20,16,2,S,F,2,moldy
+6/11/20,y2020,Ch,Alpha,Chgra-Alpha,5/26/20,16,3,S,F,10,moldy and chunky
+6/11/20,y2020,T,Delta,T-ISO-Delta,6/3/20,8,3,S,G,4,chunks
+6/11/20,y2020,T,Delta,T-ISO-Delta,6/5/20,6,2,S,G,5,chunks
+6/11/20,y2020,T,Delta,T-ISO-Delta,6/5/20,6,2,S,G,6,chunks
+6/11/20,y2020,CC,Alpha,CC-Alpha,5/10/20,32,2,S,H,5,super gross
+6/11/20,y2020,CC,Delta,CC-Delta,6/2/20,9,2,S,H,10,chunky
+6/11/20,y2020,Ch,Beta,Chgra-Beta,5/18/20,24,2,S,I,1,moldy
+6/11/20,y2020,M,Gamma,Mono-Gamma,5/26/20,16,1,S,J,12,crashed and scuzzy
+6/11/20,y2020,CC,Alpha,CC-Alpha,5/18/20,24,3,S,J,1,chunky
+6/11/20,y2020,CC,Delta,CC-Delta,5/25/20,17,1,S,J,5,moldy and chunky
+6/11/20,y2020,CC,Delta,CC-Delta,5/25/20,17,1,S,J,6,moldy and chunky
+6/11/20,y2020,C,Alpha,C-ISO-Alpha,5/25/20,17,2,S,K,1,super gross
+6/11/20,y2020,C,Alpha,C-ISO-Alpha,5/25/20,17,2,S,K,2,super gross
+6/11/20,y2020,C,Alpha,C-ISO-Alpha,6/3/20,8,3,S,K,6,chunks
+6/11/20,y2020,C,Beta,C-ISO-Beta,6/3/20,8,3,S,K,7,chunks
+6/11/20,y2020,C,Beta,C-ISO-Beta,6/3/20,8,3,S,K,8,chunks
+6/11/20,y2020,CC,Alpha,CC-Alpha,6/3/20,8,3,S,L,5,chunks
+6/12/20,y2020,T,Alpha,T-ISO-Alpha,6/3/20,9,2,NA,A,12,white chunks
+6/12/20,y2020,T,Beta,T-ISO-Beta,5/26/20,17,3,S,E,7,moldy
+6/12/20,y2020,T,Beta,T-ISO-Beta,5/26/20,17,3,S,E,8,moldy
+6/12/20,y2020,Ch,Delta,Chgra-Delta,5/23/20,20,2,NA,B,10,moldy
+6/13/20,y2020,Ch,Delta,Chgra-Delta,4/29/20,45,1,NA,B,7,crashed
+6/13/20,y2020,CC,Alpha,CC-Alpha,5/25/20,19,1,S,J,8,crashed
+6/13/20,y2020,CC,Beta,CC-Beta,6/3/20,10,1,S,L,8,crashed
+6/14/20,y2020,C,Alpha,C-ISO-Alpha,6/3/20,11,3,S,K,5,"very sticky, big chunk"
+6/14/20,y2020,C,Gamma,C-ISO-Gamma,6/5/20,9,2,S,K,9,"sticky, chunky, light"
+6/15/20,y2020,Ch,Alpha,Chgra-Alpha,6/2/20,13,1,NA,F,12,crashed
+6/15/20,y2020,C,Beta,C-ISO-Beta,6/2/20,13,2,S,A,11,chunky
+6/17/20,y2020,T,Gamma,T-ISO-Gamma,6/10/20,7,2,S,A,1,crashed
+6/17/20,y2020,T,Gamma,T-ISO-Gamma,6/10/20,7,2,S,A,2,crashed
+6/17/20,y2020,T,Delta,T-ISO-Delta,6/10/20,7,2,S,A,5,crashed
+6/17/20,y2020,T,Delta,T-ISO-Delta,6/10/20,7,2,S,A,6,crashed
+6/17/20,y2020,Ch,Delta,Chgra-Delta,6/3/20,14,1,S+F,F,6,"crashed, clear"
+6/17/20,y2020,CC,Delta,CC-Delta,6/3/20,14,1,NA,L,3,jelly chunks
+6/17/20,y2020,CC,Delta,CC-Delta,6/3/20,14,1,S,L,4,jelly chunks
+6/18/20,y2020,Ch,Alpha,Chgra-Alpha,6/2/20,16,2,S,G,1,chunks
+6/18/20,y2020,CC,Alpha,CC-Alpha,5/10/20,39,2,S,H,6,chunks
+6/18/20,y2020,Ch,Beta,Chgra-Beta,6/2/20,16,2,S+F,I,4,chunks
+6/18/20,y2020,CC,Beta,CC-Beta,5/9/20,40,2,S,H,3,chunks
+6/18/20,y2020,CC,Alpha,CC-Alpha,6/2/20,16,2,S+F,J,2,chunks
+6/18/20,y2020,T,Alpha,T-ISO-Alpha,6/5/20,13,1,S,E,1,chunks
+6/18/20,y2020,Ch,Beta,Chgra-Beta,6/3/20,15,1,S+F,F,4,clear
+6/19/20,y2020,Ch,Alpha,Chgra-Alpha,6/2/20,17,1,S,G,2,chunks
+6/19/20,y2020,CC,Alpha,CC-Alpha,6/2/20,17,2,S,D,6,chunks
+6/19/20,y2020,CC,Alpha,CC-Alpha,6/2/20,17,2,S,J,3,chunks
+6/19/20,y2020,C,Gamma,C-ISO-Gamma,6/5/20,14,2,S,K,10,chunks
+6/19/20,y2020,CC,Beta,CC-Beta,5/29/20,21,1,S,D,9,chunky
+6/19/20,y2020,C,Gamma,C-ISO-Gamma,6/5/20,14,1,S,K,11,chunky
+6/19/20,y2020,CC,Delta,CC-Delta,6/17/20,2,1,NA,D,5,completely clear
+6/21/20,y2020,C,Gamma,C-ISO-Gamma,6/5/20,16,1,S,K,12,chunky
+6/21/20,y2020,CC,Alpha,CC-Alpha,6/2/20,19,1,S,D,7,chunky
+6/22/20,y2020,C,Gamma,C-ISO-Gamma,6/10/20,12,1,S,C,9,chunky
+6/22/20,y2020,CC,Beta,CC-Beta,5/29/20,24,1,S+F,D,11,chunky
+6/22/20,y2020,CC,Beta,CC-Beta,5/29/20,24,1,S,D,3,chunky
+6/22/20,y2020,CC,Beta,CC-Beta,5/29/20,24,1,S,D,1,chunky
+6/22/20,y2020,Ch,Delta,Chgra-Delta,6/3/20,19,1,S,F,8,chunky
+6/22/20,y2020,Ch,Alpha,Chgra-Alpha,6/3/20,19,1,S+F,G,3,chunky
+6/22/20,y2020,CC,Gamma,CC-Gamma,6/10/20,12,1,S,H,8,chunky
+6/22/20,y2020,Ch,Alpha,Chgra-Alpha,6/10/20,12,1,S+F,I,2,chunky
+6/22/20,y2020,T,Delta,T-ISO-Delta,6/15/20,7,1,S,A,3,"clear, crashed"
+6/22/20,y2020,Ch,Delta,Chgra-Delta,6/10/20,12,2,NA,F,5,chunks
+6/23/20,y2020,Ch,Beta,Chgra-Beta,6/2/20,21,1,S,B,6,chunky and moldy
+6/23/20,y2020,C,Gamma,C-ISO-Gamma,6/10/20,13,1,S,C,11,chunky and scuzzy
+6/23/20,y2020,C,Alpha,C-ISO-Alpha,6/10/20,13,2,S,K,3,chunky
+6/23/20,y2020,C,Alpha,C-ISO-Alpha,6/10/20,13,2,S,K,4,chunky
+6/23/20,y2020,T,Beta,T-ISO-Beta,6/5/20,18,2,S,E,4,"sticky bottom, chunks"
+6/24/20,y2020,T,Gamma,T-ISO-Gamma,6/15/20,9,1,S,A,8,"crashed before coming up, scuzz"
+6/24/20,y2020,T,Gamma,T-ISO-Gamma,6/15/20,9,1,S,A,10,"crashed before coming up, scuzz"
+6/24/20,y2020,C,Delta,C-ISO-Delta,6/10/20,14,2,S,C,2,light and chunky
+6/24/20,y2020,C,Delta,C-ISO-Delta,6/10/20,14,2,S,C,3,light and chunky
+6/25/20,y2020,C,Beta,C-ISO-Beta,6/15/20,10,1,S,C,8,crashed and scuzzy
+6/25/20,y2020,CC,Delta,CC-Delta,6/15/20,10,1,S,H,10,"short, crashed"
+6/25/20,y2020,CC,Delta,CC-Delta,6/15/20,10,1,S,H,11,"short, crashed"
+6/25/20,y2020,CC,Beta,CC-Beta,6/10/20,15,2,S,H,2,chunks
+6/26/20,y2020,CC,Alpha,CC-Alpha,6/26/20,0,3,NA,G,6,"wide bag, accidental drain"
+6/28/20,y2020,T,Delta,T-ISO-Delta,6/15/20,13,1,S,A,4,crashed
+6/28/20,y2020,C,Delta,C-ISO-Delta,6/15/20,13,1,S,C,5,crashed
+6/28/20,y2020,C,Beta,C-ISO-Beta,6/15/20,13,1,S,C,7,crashed
+6/28/20,y2020,M,Alpha,Mono-Alpha,6/17/20,11,1,S,D,12,crashed
+6/30/20,y2020,C,Delta,C-ISO-Delta,6/15/20,15,2,S,C,6,"chunky, getting light"
+6/30/20,y2020,M,Gamma,Mono-Gamma,6/22/20,8,1,S,G,9,"experimental wide, clear"
+6/30/20,y2020,CC,Alpha,CC-Alpha,6/3/20,27,1,S+F,L,6,jelly chunks
+6/30/20,y2020,C,Gamma,C-ISO-Gamma,6/15/20,15,2,S,C,1,chunks
+6/30/20,y2020,T,Gamma,T-ISO-Gamma,6/15/20,15,2,S,A,12,chunks
+7/1/20,y2020,T,Alpha,T-ISO-Alpha,6/19/20,12,1,S,G,7,"wide bag, crashed, chunks"
+7/1/20,y2020,CC,Beta,CC-Beta,6/3/20,28,1,S+F,L,7,"light, jelly chunks"
+7/2/20,y2020,CC,Alpha,CC-Alpha,6/10/20,22,1,S,H,7,"clear, chunky"
+7/2/20,y2020,T,Beta,T-ISO-Beta,6/19/20,13,2,S,G,5,experimental
+7/2/20,y2020,C,Alpha,C-ISO-Alpha,6/19/20,13,2,S,K,5,chunky
+7/2/20,y2020,C,Beta,C-ISO-Beta,6/19/20,13,2,S,K,7,chunky
+7/2/20,y2020,C,Beta,C-ISO-Beta,6/19/20,13,2,S,K,8,chunky
+7/2/20,y2020,CC,Alpha,CC-Alpha,6/10/20,22,2,S+F,H,4,chunks
+7/3/20,y2020,T,Beta,T-ISO-Beta,6/10/20,23,2,S,A,9,chunks
+7/3/20,y2020,T,Gamma,T-ISO-Gamma,6/24/20,9,1,S,E,4,"clear, crashed"
+7/3/20,y2020,T,Delta,T-ISO-Delta,6/24/20,9,1,S,E,7,"clear, crashed"
+7/3/20,y2020,Ch,Delta,Chgra-Delta,6/10/20,23,2,S,F,7,chunks
+7/5/20,y2020,T,Alpha,T-ISO-Alpha,6/26/20,9,1,S,E,11,"very light, scuzz"
+7/6/20,y2020,C,Alpha,C-ISO-Alpha,6/19/20,17,3,S,K,6,chunks
+7/6/20,y2020,C,Delta,C-ISO-Delta,6/24/20,12,1,S,G,11,"chunks, light, wide"
+7/6/20,y2020,T,Beta,T-ISO-Beta,6/10/20,26,2,S,A,7,chunks
+7/6/20,y2020,C,Gamma,C-ISO-Gamma,6/26/20,10,2,S,K,10,"light, chunks"
+7/7/20,y2020,CC,Delta,CC-Delta,6/17/20,20,1,F,D,4,"light, chunks"
+7/7/20,y2020,CC,Gamma,CC-Gamma,6/17/20,20,1,F,D,8,"light, chunks"
+7/7/20,y2020,C,Gamma,C-ISO-Gamma,6/26/20,11,1,S,K,9,"light, chunks"
+7/7/20,y2020,C,Alpha,C-ISO-Alpha,6/26/20,11,1,S,K,11,"light, chunks"
+7/7/20,y2020,Ch,Alpha,Chgra-Alpha,6/10/20,27,2,F,I,3,"light, chunks"
+7/8/20,y2020,C,Alpha,C-ISO-Alpha,6/26/20,12,1,S,K,12,"light, chunks"
+7/8/20,y2020,T,Delta,T-ISO-Delta,6/24/20,14,2,S,E,8,"light, chunks"
+7/9/20,y2020,Ch,Beta,Chgra-Beta,6/10/20,29,3,S,B,2,many chunks
+7/10/20,y2020,T,Gamma,T-ISO-Gamma,6/24/20,16,1,S,E,1,crashed
+7/10/20,y2020,T,Gamma,T-ISO-Gamma,6/24/20,16,1,S,E,2,crashed
+7/10/20,y2020,T,Gamma,T-ISO-Gamma,6/24/20,16,1,S,E,3,crashed
+7/10/20,y2020,T,Delta,T-ISO-Delta,6/24/20,16,1,S,E,5,crashed
+7/10/20,y2020,T,Delta,T-ISO-Delta,6/24/20,16,1,S,E,6,crashed
+7/10/20,y2020,C,Alpha,C-ISO-Alpha,6/19/20,21,3,S,K,2,chunks
+7/13/20,y2020,CC,Alpha,CC-Alpha,6/19/20,24,2,S,L,2,"light, chunks"
+7/13/20,y2020,CC,Beta,CC-Beta,6/19/20,24,2,S,L,3,"light, chunks"
+7/13/20,y2020,C,Alpha,C-ISO-Alpha,6/19/20,24,1,S,K,1,"light, chunks"
+7/13/20,y2020,CC,Delta,CC-Delta,7/6/20,7,1,S,H,3,"clear, crashed"
+7/13/20,y2020,Ch,Beta,Chgra-Beta,7/3/20,10,1,S,G,3,"chunks, wide"
+7/13/20,y2020,C,Delta,C-ISO-Delta,6/24/20,19,1,S,G,2,"chunks, wide"
+7/13/20,y2020,Ch,Alpha,Chgra-Alpha,6/22/20,21,2,NA,F,1,"clear, crashed"
+7/13/20,y2020,CC,Alpha,CC-Alpha,7/5/20,8,1,S,D,5,"clear, crashed"
+7/13/20,y2020,CC,Delta,CC-Delta,7/5/20,8,1,S,D,11,"clear, crashed"
+7/13/20,y2020,C,Beta,C-ISO-Beta,6/29/20,14,1,S,C,8,chunks
+7/13/20,y2020,C,Beta,C-ISO-Beta,6/29/20,14,1,S,C,7,chunks
+7/13/20,y2020,Ch,Gamma,Chgra-Gamma,6/10/20,33,1,S+F,B,3,"clear, chunks"
+7/13/20,y2020,Ch,Gamma,Chgra-Gamma,6/10/20,33,1,S+F,B,5,"clear, chunks"
+7/13/20,y2020,Ch,Delta,Chgra-Delta,6/17/20,26,2,S,B,8,chunks
+7/13/20,y2020,Ch,Gamma,Chgra-Gamma,6/17/20,26,2,S,B,9,chunks
+7/13/20,y2020,Ch,Gamma,Chgra-Gamma,6/17/20,26,2,S,B,10,chunks
+7/13/20,y2020,C,Gamma,C-ISO-Gamma,6/15/20,28,2,S,C,4,chunks
+7/13/20,y2020,CC,Gamma,CC-Gamma,6/10/20,33,2,NA,H,9,chunks
+7/13/20,y2020,Ch,Beta,Chgra-Beta,6/29/20,14,1,NA,I,7,"clear, crashed"
+7/13/20,y2020,CC,Gamma,CC-Gamma,6/26/20,17,2,S+F,J,11,"light, chunks"
+7/13/20,y2020,C,Alpha,C-ISO-Alpha,7/5/20,8,2,S,C,6,chunky
+7/14/20,y2020,T,Alpha,T-ISO-Alpha,7/5/20,9,1,S,E,7,"clear, crashed"
+7/16/20,y2020,Ch,Gamma,Chgra-Gamma,6/26/20,20,1,S+F,E,6,"clear, chunks"
+7/16/20,y2020,CC,Beta,CC-Beta,6/10/20,36,2,S,H,1,"light, chunks"
+7/18/20,y2020,Ch,Beta,Chgra-Beta,7/10/20,8,1,S,I,9,crashed
+7/18/20,y2020,CC,Beta,CC-Beta,6/19/20,29,1,S,L,4,chunks
+7/19/20,y2020,Ch,Gamma,Chgra-Gamma,6/26/20,23,1,S,F,5,crashed
+7/19/20,y2020,CC,Delta,CC-Delta,6/26/20,23,3,S,G,4,"wide bag, chunks"
+7/20/20,y2020,Ch,Beta,Chgra-Beta,7/6/20,14,1,S,F,12,crashed
+7/20/20,y2020,Ch,Beta,Chgra-Beta,6/29/20,21,1,S,I,6,"light, crashed"
+7/20/20,y2020,Ch,Alpha,Chgra-Alpha,6/29/20,21,1,S,I,5,"light, crashed"
+7/21/20,y2020,C,Beta,C-ISO-Beta,6/26/20,25,2,S,C,2,"light, crashed"
+7/21/20,y2020,M,Alpha,Mono-Alpha,7/10/20,11,2,S,G,8,"light, crashed"
+7/21/20,y2020,M,Beta,Mono-Beta,7/14/20,7,2,S,B,12,"light, crashed"
+7/22/20,y2020,C,Alpha,C-ISO-Alpha,7/5/20,17,1,S,C,5,"clear, chunks, scuzz"
+7/22/20,y2020,C,Gamma,C-ISO-Gamma,7/10/20,12,3,S,G,9,cloating chunks
+7/22/20,y2020,Ch,Alpha,Chgra-Alpha,7/6/20,16,2,F,F,10,"light, crashed, foam"
+7/22/20,y2020,Ch,Beta,Chgra-Beta,7/6/20,16,2,F,F,11,"light, crashed, foam"
+7/22/20,y2020,CC,Beta,CC-Beta,6/29/20,23,3,S,H,5,floating chunks
+7/22/20,y2020,Ch,Alpha,Chgra-Alpha,6/29/20,23,2,F,I,4,"clear, chunks"
+7/22/20,y2020,M,Alpha,Mono-Alpha,7/10/20,12,2,S,G,8,"light, crashed"
+7/23/20,y2020,T,Delta,T-ISO-Delta,7/3/20,20,1,S,A,5,"light, crashed"
+7/23/20,y2020,C,Beta,C-ISO-Beta,7/10/20,13,2,S,C,10,"light, crashed"
+7/23/20,y2020,T,Gamma,T-ISO-Gamma,7/10/20,13,1,S,E,11,"light, crashed"
+7/23/20,y2020,Ch,Gamma,Chgra-Gamma,7/10/20,13,1,S+F,G,5,"light, crashed, experimental"
+7/23/20,y2020,T,Delta,T-ISO-Delta,7/10/20,13,2,S,G,7,"light, crashed, experimental"
+7/23/20,y2020,T,Gamma,T-ISO-Gamma,6/15/20,38,3,S,A,11,"chunks, mold, dark"
+7/23/20,y2020,CC,Alpha,CC-Alpha,6/19/20,34,1,S,L,1,"chunks, light"
+7/24/20,y2020,T,Gamma,T-ISO-Gamma,7/3/20,21,1,S,A,9,"clear, crashed"
+7/25/20,y2020,T,Gamma,T-ISO-Gamma,7/3/20,22,1,S,A,1,"clear, chunks"
+7/25/20,y2020,T,Gamma,T-ISO-Gamma,7/3/20,22,1,S,A,2,"clear, chunks"
+7/25/20,y2020,T,Delta,T-ISO-Delta,7/3/20,22,2,S,A,3,"clear, chunks"
+7/26/20,y2020,T,Delta,T-ISO-Delta,7/3/20,23,1,SS,A,4,"clear, chunks"
+7/26/20,y2020,T,Delta,T-ISO-Delta,7/3/20,23,1,S,A,6,"clear, chunks"
+7/26/20,y2020,T,Gamma,T-ISO-Gamma,7/3/20,23,1,S,A,8,"clear, chunks"
+7/26/20,y2020,Ch,Beta,Chgra-Beta,6/10/20,46,2,NA,B,1,clear
+7/26/20,y2020,C,Beta,C-ISO-Beta,7/3/20,23,2,S,C,3,chunks
+7/26/20,y2020,C,Beta,C-ISO-Beta,7/10/20,16,1,S,C,9,chunks
+7/26/20,y2020,C,NA,C-ISO-NA,7/10/20,16,2,S,C,11,chunks
+7/26/20,y2020,C,NA,C-ISO-NA,7/10/20,16,2,S,C,12,chunks
+7/26/20,y2020,CC,Gamma,CC-Gamma,6/17/20,39,2,S,D,10,chunks
+7/26/20,y2020,M,Gamma,Mono-Gamma,7/4/20,22,1,S,D,12,"light, chunky"
+7/26/20,y2020,T,Delta,T-ISO-Delta,7/15/20,11,1,S,E,1,"light, chunky"
+7/26/20,y2020,T,Alpha,T-ISO-Alpha,6/26/20,30,1,S,E,12,"light, chunky"
+7/26/20,y2020,C,Delta,C-ISO-Delta,7/15/20,11,2,S,K,10,"light, chunky"
+7/26/20,y2020,C,Gamma,C-ISO-Gamma,7/15/20,11,2,S,K,11,"light, chunky"
+7/27/20,y2020,T,Beta,T-ISO-Beta,7/3/20,24,2,S,A,10,chunky
+7/27/20,y2020,T,Beta,T-ISO-Beta,6/26/20,31,2,S,E,10,chunky
+7/27/20,y2020,C,Delta,C-ISO-Delta,7/15/20,12,2,S,K,9,chunky
+7/27/20,y2020,C,Gamma,C-ISO-Gamma,7/15/20,12,2,S,K,12,chunky
+7/27/20,y2020,T,Alpha,T-ISO-Alpha,7/14/20,13,2,S,E,3,chunky
+7/28/20,y2020,Ch,Alpha,Chgra-Alpha,7/6/20,22,10,NA,F,9,used to innoculate GB1
+7/28/20,y2020,T,Alpha,T-ISO-Alpha,7/14/20,14,1,S,E,5,"crashed, chunky"
+7/28/20,y2020,T,Alpha,T-ISO-Alpha,7/5/20,23,1,S,E,4,crashed
+7/28/20,y2020,T,Gamma,T-ISO-Gamma,7/15/20,13,1,S,E,2,crashed
+7/29/20,y2020,C,Alpha,C-ISO-Alpha,7/14/20,15,1,S,C,7,"light, chunks"
+7/29/20,y2020,C,Alpha,C-ISO-Alpha,7/14/20,15,1,S,C,8,"light, chunks"
+7/29/20,y2020,T,Beta,T-ISO-Beta,7/14/20,15,2,S,E,6,chunky
+7/29/20,y2020,CC,Delta,CC-Delta,7/6/20,23,2,S,H,2,chunky
+7/29/20,y2020,T,Beta,T-ISO-Beta,7/3/20,26,1,S,A,12,"light, chunky"
+7/30/20,y2020,CC,Delta,CC-Delta,7/5/20,25,1,S,D,6,crashed
+7/30/20,y2020,T,Gamma,T-ISO-Gamma,7/10/20,20,1,S,E,8,crashed
+7/30/20,y2020,T,Beta,T-ISO-Beta,6/26/20,34,2,S,E,9,chunks
+7/30/20,y2020,T,Gamma,T-ISO-Gamma,7/24/20,6,1,S,A,5,"chunks, clear"
+7/30/20,y2020,T,Beta,T-ISO-Beta,7/24/20,6,1,S,A,7,"chunks, clear"
+7/30/20,y2020,T,Alpha,T-ISO-Alpha,7/24/20,6,1,S,A,11,"chunks, clear"
+7/31/20,y2020,Ch,Delta,Chgra-Delta,7/6/20,25,1,S,F,7,chunks
+7/31/20,y2020,Ch,Beta,Chgra-Beta,6/22/20,39,1,S,G,1,"chunks, wide"
+7/31/20,y2020,CC,Alpha,CC-Alpha,7/10/20,21,1,S,G,6,"chunks, wide"
+7/31/20,y2020,CC,Gamma,CC-Gamma,7/10/20,21,2,S,H,11,chunks
+7/31/20,y2020,Ch,Delta,Chgra-Delta,7/10/20,21,1,S,I,11,chunks
+7/31/20,y2020,Ch,Delta,Chgra-Delta,6/17/20,44,2,S,B,7,chunks
+7/31/20,y2020,T,Beta,T-ISO-Beta,7/14/20,17,1,S,E,7,"chunks, light"
+7/31/20,y2020,CC,Delta,CC-Delta,7/13/20,18,1,S+F,D,4,"chunks, light"
+8/2/20,y2020,T,Gamma,T-ISO-Gamma,7/29/20,4,1,S,A,4,crashed (UV bag)
+8/2/20,y2020,T,Gamma,T-ISO-Gamma,7/29/20,4,1,S,A,6,crashed (UV bag)
+8/2/20,y2020,CC,Beta,CC-Beta,7/10/20,23,1,S,H,8,crashed
+8/2/20,y2020,CC,Beta,CC-Beta,7/10/20,23,1,S,H,7,crashed
+8/2/20,y2020,C,Alpha,C-ISO-Alpha,7/25/20,8,1,S,K,8,crashed
+8/3/20,y2020,T,Delta,T-ISO-Delta,7/26/20,8,1,S,A,9,crashed
+8/4/20,y2020,T,Beta,T-ISO-Beta,7/26/20,9,1,S,A,1,"light, crashed"
+8/4/20,y2020,T,Delta,T-ISO-Delta,7/26/20,9,1,S,A,3,"light, crashed"
+8/4/20,y2020,Ch,Alpha,Chgra-Alpha,7/14/20,21,1,S+F,B,11,"light, jelly-like, crashed, super sticky up top"
+8/4/20,y2020,C,Beta,C-ISO-Beta,7/24/20,11,1,S,C,1,"black chunks, crashed, scuzz everywhere"
+8/4/20,y2020,C,Alpha,C-ISO-Alpha,7/24/20,11,1,S,C,4,"black chunks, crashed, scuzz everywhere"
+8/4/20,y2020,CC,Delta,CC-Delta,7/5/20,30,1,S+F,D,9,"crashed, light, super jelly-like, foamy"
+8/4/20,y2020,CC,Delta,CC-Delta,7/13/20,22,1,S,D,5,"crashed, light, super jelly-like, foamy"
+8/4/20,y2020,Ch,Delta,Chgra-Delta,7/6/20,29,1,S,F,8,"crashed, big black chunks, jelly-like"
+8/4/20,y2020,Ch,Alpha,Chgra-Alpha,6/22/20,43,1,S,F,2,"crashed, light, jellylike"
+8/4/20,y2020,M,Delta,Mono-Delta,7/25/20,10,1,NA,H,12,"crashed, light, scuzz on bottom"
+8/4/20,y2020,M,Gamma,Mono-Gamma,7/25/20,10,1,NA,L,12,"crashed, light, scuzz on bottom"
+8/4/20,y2020,Ch,Delta,Chgra-Delta,7/26/20,9,1,S,I,3,NA
+8/4/20,y2020,Ch,Delta,Chgra-Delta,7/26/20,9,1,S,I,4,NA
+8/4/20,y2020,Ch,Gamma,Chgra-Gamma,7/26/20,9,1,S,I,5,NA
+8/4/20,y2020,Ch,Gamma,Chgra-Gamma,7/26/20,9,1,S,I,6,NA
+8/4/20,y2020,Ch,Delta,Chgra-Delta,6/24/20,41,2,S,F,3,scuzzy and chunky
+8/4/20,y2020,C,Alpha,C-ISO-Alpha,7/24/20,11,2,S,C,5,chunks
+8/4/20,y2020,C,Beta,C-ISO-Beta,7/24/20,11,3,S,C,2,chunks
+8/5/20,y2020,T,Delta,T-ISO-Delta,7/31/20,5,1,S,A,7,crashed
+8/5/20,y2020,CC,Alpha,CC-Alpha,7/5/20,31,2,S,D,3,chunky
+8/5/20,y2020,M,NA,Mono-NA,7/28/20,8,1,S,F,12,crashed
+8/6/20,y2020,Ch,Delta,Chgra-Delta,6/24/20,43,2,S,F,4,chunks
+8/6/20,y2020,C,Gamma,C-ISO-Gamma,7/25/20,12,2,S,K,1,chunks
+8/6/20,y2020,C,Gamma,C-ISO-Gamma,7/25/20,12,2,S,K,2,chunks
+8/6/20,y2020,C,Delta,C-ISO-Delta,7/25/20,12,2,S,K,3,chunks
+8/6/20,y2020,C,Delta,C-ISO-Delta,7/25/20,12,2,S,K,4,chunks
+8/6/20,y2020,CC,Delta,CC-Delta,7/18/20,19,2,S,L,5,"chunky, jelly"
+8/6/20,y2020,CC,Gamma,CC-Gamma,7/18/20,19,1,S,L,3,"chunky, jelly"
+8/6/20,y2020,Ch,Alpha,Chgra-Alpha,7/14/20,23,1,S,B,10,chunky
+8/7/20,y2020,C,Delta,C-ISO-Delta,7/31/20,7,1,S,A,5,"chunky, crashed"
+8/7/20,y2020,Ch,Beta,Chgra-Beta,7/10/20,28,2,S,I,8,"chunky, jelly"
+8/7/20,y2020,T,NA,T-ISO-NA,NA,NA,NA,NA,A,5,NA
+8/9/20,y2020,Ch,Gamma,Chgra-Gamma,17-Jul,23,1,S,B,8,"clear, crashed"
+8/9/20,y2020,C,Gamma,C-ISO-Gamma,31-Jul,9,2,S,C,9,"clear, crashed"
+8/9/20,y2020,Ch,Gamma,Chgra-Gamma,7/6/20,34,3,S,I,2,chunks
+8/9/20,y2020,Ch,Delta,Chgra-Delta,7/18/20,22,3,S,B,6,chunks
+8/9/20,y2020,C,Delta,C-ISO-Delta,7/31/20,9,2,S,C,7,lots of chunks
+8/11/20,y2020,CC,Beta,CC-Beta,7/26/20,16,1,S,J,7,"crashed, chunky"
+8/11/20,y2020,T,Delta,T-ISO-Delta,8/5/20,6,1,S,A,7,"crashed, chunky"
+8/12/20,y2020,CC,Gamma,CC-Gamma,6/26/20,47,1,S,J,10,crashed
+8/12/20,y2020,CC,Delta,CC-Delta,7/5/20,38,1,S+F,D,7,crashed
+8/12/20,y2020,T,Delta,T-ISO-Delta,8/5/20,7,1,S,A,9,"crashed, chunky"
+8/12/20,y2020,T,Alpha,T-ISO-Alpha,8/4/20,8,1,S,A,4,"crashed, chunky"
+8/12/20,y2020,Ch,Delta,Chgra-Delta,7/10/20,33,2,S,I,10,"chunky, jelly"
+8/13/20,y2020,T,Delta,T-ISO-Delta,8/5/20,8,1,S,A,11,"crashed, chunky"
+8/13/20,y2020,Ch,Delta,Chgra-Delta,7/18/20,26,2,S,B,5,big chunks
+8/14/20,y2020,T,Delta,T-ISO-Delta,8/5/20,9,1,S,A,12,"chunky, crashed"
+8/16/20,y2020,T,Beta,T-ISO-Beta,8/5/20,11,1,S,A,6,"black chunks, crashed"
+8/16/20,y2020,T,Alpha,T-ISO-Alpha,8/4/20,12,1,S,A,3,"black chunks, crashed"
+8/16/20,y2020,T,Beta,T-ISO-Beta,8/5/20,11,1,S,A,1,"black chunks, crashed"
+8/17/20,y2020,CC,Gamma,CC-Gamma,7/26/20,22,1,S,J,1,"scuzz on bottom, light, crashed"
+8/17/20,y2020,C,Delta,C-ISO-Delta,8/5/20,12,2,S,C,1,floating chunks
+8/17/20,y2020,CC,Delta,CC-Delta,7/18/20,30,2,S,L,4,floating chunks
+8/17/20,y2020,C,Beta,C-ISO-Beta,8/4/20,13,2,S,B,1,floating chunks
+8/17/20,y2020,C,Beta,C-ISO-Beta,8/4/20,13,2,S,B,2,floating chunks
+8/17/20,y2020,C,Delta,C-ISO-Delta,7/31/20,17,2,S,C,6,light with chunks
+8/17/20,y2020,C,Gamma,C-ISO-Gamma,7/31/20,17,2,S,C,8,light with chunks
+8/18/20,y2020,C,Alpha,C-ISO-Alpha,8/4/20,14,2,S,C,11,light with chunks
+8/18/20,y2020,CC,Gamma,CC-Gamma,7/10/20,39,2,S,H,10,"light, crashed, mold, chunks"
+8/19/20,y2020,C,Gamma,C-ISO-Gamma,8/7/20,12,3,S,I,11,floating chunks
+8/19/20,y2020,C,Gamma,C-ISO-Gamma,8/7/20,12,3,S,I,12,floating chunks
+8/19/20,y2020,C,Alpha,C-ISO-Alpha,7/25/20,25,3,S+F,K,7,chunks and mold
+8/19/20,y2020,CC,Beta,CC-Beta,7/26/20,24,3,S,J,8,chunks and mold
+8/19/20,y2020,T,Alpha,T-ISO-Alpha,7/29/20,21,2,S,A,10,"chunks, scuzz"
+8/20/20,y2020,T,Gamma,T-ISO-Gamma,8/14/20,6,1,S,E,1,"light, crashed"
+8/20/20,y2020,T,Delta,T-ISO-Delta,8/14/20,6,1,S,E,3,"light, crashed"
+8/20/20,y2020,T,Delta,T-ISO-Delta,8/14/20,6,1,S,E,4,"light, chunks (same fern as other that crashed)"
+8/20/20,y2020,C,Beta,C-ISO-Beta,7/25/20,26,2,S+F,K,5,chunks
+8/21/20,y2020,CC,Alpha,CC-Alpha,8/4/20,17,1,S+F,D,5,"crashed, chunks"
+8/21/20,y2020,Ch,Alpha,Chgra-Alpha,8/4/20,17,1,S,B,12,crashed
+8/22/20,y2020,T,Alpha,T-ISO-Alpha,8/14/20,8,1,S+F,E,6,"crashed, chunks"
+8/23/20,y2020,T,Alpha,T-ISO-Alpha,8/12/20,11,1,S,A,5,"crashed, chunks"
+8/23/20,y2020,T,Alpha,T-ISO-Alpha,8/12/20,11,1,S,A,6,"crashed, chunks"
+8/23/20,y2020,CC,Gamma,CC-Gamma,8/4/20,19,1,S,H,1,crashed
+8/28/20,y2020,T,Beta,T-ISO-Beta,8/18/20,10,2,S,A,1,"scuzz, chunks"
+8/28/20,y2020,T,Beta,T-ISO-Beta,7/26/20,33,3,S,A,2,"scuzz, chunks"
+8/28/20,y2020,T,Beta,T-ISO-Beta,8/18/20,10,2,S,A,3,"scuzz, crashed"
+8/28/20,y2020,T,Alpha,T-ISO-Alpha,8/18/20,10,1,S,A,6,"scuzz, crashed"
+8/28/20,y2020,T,Alpha,T-ISO-Alpha,8/18/20,10,1,S,A,7,"scuzz, crashed"
+8/28/20,y2020,T,Alpha,T-ISO-Alpha,7/29/20,30,2,S,A,8,"scuzz, crashed"
+8/28/20,y2020,T,Gamma,T-ISO-Gamma,8/14/20,14,1,S,E,2,"scuzz, crashed"
+8/28/20,y2020,T,Alpha,T-ISO-Alpha,8/14/20,14,1,S,E,5,"scuzz, crashed"
+8/28/20,y2020,CC,Delta,CC-Delta,8/14/20,14,1,S,B,5,"light, crashed"
+8/28/20,y2020,CC,Delta,CC-Delta,8/14/20,14,1,S,B,6,"light, crashed"
+8/28/20,y2020,Ch,Gamma,Chgra-Gamma,7/17/20,42,2,S,B,9,moldy chunks
+8/28/20,y2020,Ch,Gamma,Chgra-Gamma,8/4/20,24,2,S,B,11,scuzz+chunks
+8/28/20,y2020,Ch,Beta,Chgra-Beta,7/29/20,30,2,S,B,4,chunks
+8/28/20,y2020,Ch,Gamma,Chgra-Gamma,8/14/20,14,2,S,C,4,chunks
+8/28/20,y2020,Ch,Alpha,Chgra-Alpha,7/24/20,35,2,S,F,11,"scuzz, light"
+8/28/20,y2020,Ch,Alpha,Chgra-Alpha,7/24/20,35,2,,F,10,"scuzz, light"
+8/28/20,y2020,Ch,Beta,Chgra-Beta,7/24/20,35,2,,F,6,moldy
+8/28/20,y2020,Ch,Beta,Chgra-Beta,7/24/20,35,2,S,F,5,moldy
+8/28/20,y2020,C,Delta,C-ISO-Delta,8/5/20,23,1,S+F,C,2,"light, crashed, chunks"
+8/28/20,y2020,C,Beta,C-ISO-Beta,8/12/20,16,1,S+F,C,5,"light, crashed, chunks"
+8/28/20,y2020,C,Beta,C-ISO-Beta,8/12/20,16,1,S,C,7,"light, crashed, chunks"
+8/28/20,y2020,C,Alpha,C-ISO-Alpha,8/12/20,16,1,S+F,C,9,"light, crashed, chunks"
+8/28/20,y2020,C,Alpha,C-ISO-Alpha,8/12/20,16,1,S,C,10,"light, crashed, chunks"
+8/28/20,y2020,C,Delta,C-ISO-Delta,8/14/20,14,1,S,K,1,"light, crashed, chunks"
+8/28/20,y2020,C,Delta,C-ISO-Delta,8/14/20,14,1,S,K,2,"light, crashed, chunks"
+8/28/20,y2020,C,Gamma,C-ISO-Gamma,8/14/20,14,1,S,K,3,"light, crashed, chunks"
+8/28/20,y2020,C,Gamma,C-ISO-Gamma,8/14/20,14,1,S,K,4,"light, crashed, chunks"
+8/28/20,y2020,C,Beta,C-ISO-Beta,7/25/20,34,1,S,K,6,"light, crashed, chunks"
+8/28/20,y2020,C,Gamma,C-ISO-Gamma,8/21/20,7,1,S,K,1,"light, crashed, chunks"
+8/28/20,y2020,C,Gamma,C-ISO-Gamma,8/21/20,7,1,S,K,8,"light, crashed, chunks"
+8/28/20,y2020,C,Beta,C-ISO-Beta,8/21/20,7,1,S,K,9,"light, crashed, chunks"
+8/28/20,y2020,C,Beta,C-ISO-Beta,8/21/20,7,1,S,K,10,"light, crashed, chunks"
+8/28/20,y2020,CC,Gamma,CC-Gamma,7/18/20,41,1,S,L,2,"moldy, light"
+8/28/20,y2020,CC,Beta,CC-Beta,8/18/20,10,1,S,L,4,"light, crashed"
+8/28/20,y2020,CC,Beta,CC-Beta,7/21/20,38,1,S,L,7,"moldy, light"
+8/28/20,y2020,CC,Alpha,CC-Alpha,7/24/20,35,1,S,L,9,"mold, light"
+8/28/20,y2020,CC,Alpha,CC-Alpha,8/18/20,10,1,S,L,10,crashed
+8/28/20,y2020,CC,Alpha,CC-Alpha,8/18/20,10,1,S,L,11,"scuzz, light"
+8/28/20,y2020,CC,Gamma,CC-Gamma,7/26/20,33,2,S,J,2,"chunks, scuzz"
+8/28/20,y2020,CC,Delta,CC-Delta,7/26/20,33,2,S,J,3,"chunks, scuzz"
+8/28/20,y2020,CC,Delta,CC-Delta,7/26/20,33,2,S,J,4,"chunks, scuzz"
+8/28/20,y2020,CC,Alpha,CC-Alpha,7/26/20,33,2,S,J,5,"chunks, scuzz"
+8/28/20,y2020,CC,Alpha,CC-Alpha,7/26/20,33,2,S,J,6,"mold, chunks"
+8/28/20,y2020,CC,Gamma,CC-Gamma,8/4/20,24,1,S,H,2,"light, crashed"
+8/28/20,y2020,CC,Beta,CC-Beta,6/29/20,60,2,S,H,6,"mold, chunks"
+8/28/20,y2020,CC,Gamma,CC-Gamma,8/12/20,16,2,S,H,7,scuzz
+8/28/20,y2020,CC,Gamma,CC-Gamma,8/12/20,16,1,S,H,8,"light, crashed"
+8/28/20,y2020,CC,Beta,CC-Beta,8/21/20,7,1,S,H,10,"light, crashed"
+8/28/20,y2020,CC,Beta,CC-Beta,8/21/20,7,1,S,H,11,"light, crashed"
+8/28/20,y2020,CC,Alpha,CC-Alpha,7/1/20,58,1,S,D,1,"light, crashed"
+8/28/20,y2020,CC,Delta,CC-Delta,7/1/20,58,1,S,D,2,"light, crashed"
+8/28/20,y2020,CC,Delta,CC-Delta,8/4/20,24,1,S,D,4,"light, crashed"
+8/28/20,y2020,CC,Beta,CC-Beta,8/4/20,24,1,S,D,6,"light, crashed"
+8/28/20,y2020,CC,Delta,CC-Delta,8/4/20,24,1,S,D,8,"light, crashed"
+8/28/20,y2020,CC,Alpha,CC-Alpha,8/4/20,24,1,S,D,9,"light, crashed"
+8/28/20,y2020,CC,Alpha,CC-Alpha,8/4/20,24,1,S,D,12,"light, crashed"
+8/28/20,y2020,CC,Gamma,CC-Gamma,8/5/20,23,3,S+F,H,3,chunks
+8/28/20,y2020,CC,Gamma,CC-Gamma,8/5/20,23,3,S,H,4,chunks
+8/28/20,y2020,Ch,Beta,Chgra-Beta,7/6/20,53,3,S+F,I,1,chunks
+8/28/20,y2020,T,Delta,T-ISO-Delta,8/21/20,7,3,NA,E,3,whoops - accidentally sliced
+8/29/20,y2020,CC,Gamma,CC-Gamma,8/4/20,25,1,S+F,D,10,"crashed, chunks"
+8/29/20,y2020,M,Delta,Mono-Delta,8/18/20,11,1,S,F,12,"crashed, light, chunks"
+8/29/20,y2020,Ch,Delta,Chgra-Delta,8/21/20,8,1,S,I,12,"light, chunks"
+8/29/20,y2020,C,Delta,C-ISO-Delta,8/21/20,8,1,S,K,12,"light, chunks"
+8/30/20,y2020,Ch,Delta,Chgra-Delta,8/4/20,26,1,S,I,4,"light, black chunks"
+8/30/20,y2020,Ch,Gamma,Chgra-Gamma,8/14/20,16,1,S,J,11,"light, black chunks"
+8/30/20,y2020,CC,Beta,CC-Beta,8/18/20,12,1,S,L,5,"light, black chunks"
+8/31/20,y2020,Ch,Alpha,Chgra-Alpha,8/5/20,26,1,S+F,I,7,"light, sticky, black chunks"
+8/31/20,y2020,CC,Delta,CC-Delta,8/14/20,17,1,S,J,9,"light, black chunks"
+8/31/20,y2020,Ch,Delta,Chgra-Delta,8/4/20,27,2,S,I,3,small black chunks
+8/31/20,y2020,Ch,Alpha,Chgra-Alpha,8/5/20,26,3,S,I,9,chunky
+8/31/20,y2020,Ch,Beta,Chgra-Beta,8/7/20,24,2,S,F,2,small swirling chunks
+8/31/20,y2020,CC,Alpha,CC-Alpha,7/24/20,38,3,S,L,8,chunky
+9/1/20,y2020,CC,Beta,CC-Beta,7/24/20,39,2,S+F,L,6,"chunky, moldy"
+9/1/20,y2020,Ch,Alpha,Chgra-Alpha,8/14/20,18,2,NA,B,8,small swirly chunks
+9/1/20,y2020,Ch,Beta,Chgra-Beta,7/29/20,34,2,S,B,3,"chunks, mold"
+9/3/20,y2020,CC,Beta,CC-Beta,8/28/20,6,2,S,D,1,"light, very scuzzy"
+9/3/20,y2020,Ch,Beta,Chgra-Beta,8/7/20,27,3,S,F,1,chunky
+9/4/20,y2020,Ch,Alpha,Chgra-Alpha,7/28/20,38,5,NA,(G)B,1,"RIP Mega Bag - small chunks, organisms"
+9/4/20,y2020,Ch,Alpha,Chgra-Alpha,8/4/20,31,2,S+F,I,5,chunks
+9/4/20,y2020,C,Delta,C-ISO-Delta,8/21/20,14,2,S,K,11,chunky
+9/5/20,y2020,T,Beta,T-ISO-Beta,8/28/20,8,1,S,A,1,crashed
+9/5/20,y2020,T,Beta,T-ISO-Beta,8/28/20,8,1,S,A,2,crashed
+9/5/20,y2020,Ch,Delta,Chgra-Delta,8/12/20,24,1,S,F,3,crashed
+9/6/20,y2020,T,Alpha,T-ISO-Alpha,8/31/20,6,2,S,A,9,"chunks, crashed"
+9/6/20,y2020,T,Alpha,T-ISO-Alpha,8/31/20,6,2,S,A,10,"chunks,crashed"
+9/6/20,y2020,C,Delta,C-ISO-Delta,8/31/20,6,1,S,C,10,crashed
+9/6/20,y2020,C,Gamma,C-ISO-Gamma,8/31/20,6,2,S,C,6,crashed
+9/6/20,y2020,M,Alpha,Mono-Alpha,8/30/20,7,1,S+F,D,12,crashed
+9/6/20,y2020,M,Beta,Mono-Beta,8/30/20,7,1,S,H,12,crashed
+9/6/20,y2020,CC,Delta,CC-Delta,8/31/20,6,1,S,H,3,crashed
+9/7/20,y2020,T,Gamma,T-ISO-Gamma,8/31/20,7,2,S,A,8,"chunks,crashed"
+9/7/20,y2020,T,Gamma,T-ISO-Gamma,8/31/20,7,2,S,A,7,"chunks,crashed"
+9/7/20,y2020,T,Delta,T-ISO-Delta,8/31/20,7,2,S,A,6,"chunks,crashed"
+9/7/20,y2020,C,Beta,C-ISO-Beta,8/28/20,10,2,S,C,2,"chunks,crashed"
+9/7/20,y2020,T,Gamma,T-ISO-Gamma,8/21/20,17,1,S,E,4,"chunks,crashed"
+9/7/20,y2020,C,Beta,C-ISO-Beta,8/28/20,10,2,S,C,1,chunks
+9/7/20,y2020,C,Alpha,C-ISO-Alpha,8/28/20,10,2,S,C,4,chunks
+9/7/20,y2020,C,Alpha,C-ISO-Alpha,8/28/20,10,2,S,C,5,chunks
+9/7/20,y2020,CC,Delta,CC-Delta,8/4/20,34,1,S+F,D,11,"light, crashed"
+9/7/20,y2020,Ch,Alpha,Chgra-Alpha,8/4/20,34,2,S,I,6,chunky
+9/8/20,y2020,T,Alpha,T-ISO-Alpha,8/28/20,11,3,S,A,4,chunks
+9/8/20,y2020,T,Alpha,T-ISO-Alpha,8/28/20,11,3,S,A,3,chunks
+9/8/20,y2020,C,Delta,C-ISO-Delta,8/31/20,8,2,S,C,11,chunks
+9/8/20,y2020,Ch,Gamma,Chgra-Gamma,8/21/20,18,2,S,I,11,"chunks, light"
+9/9/20,y2020,CC,Alpha,CC-Alpha,8/28/20,12,2,S,D,3,"crashed, chunky"
+9/10/20,y2020,T,Delta,T-ISO-Delta,8/31/20,10,1,S,A,5,small swirling chunks
+9/10/20,y2020,Ch,Gamma,Chgra-Gamma,8/30/20,11,1,S,B,1,small swirling chunks
+9/10/20,y2020,Ch,Gamma,Chgra-Gamma,8/30/20,11,1,S,B,2,small swirling chunks
+9/10/20,y2020,Ch,Alpha,Chgra-Alpha,8/14/20,27,1,S,B,7,crashed
+9/10/20,y2020,Ch,Alpha,Chgra-Alpha,8/30/20,11,1,S,B,9,crashed
+9/10/20,y2020,Ch,Gamma,Chgra-Gamma,8/31/20,10,1,S,B,11,chunky
+9/10/20,y2020,Ch,Gamma,Chgra-Gamma,8/4/20,37,2,S,C,3,"crashed, chunky"
+9/10/20,y2020,CC,Gamma,CC-Gamma,8/31/20,10,1,S,D,10,crashed
+9/10/20,y2020,Ch,Alpha,Chgra-Alpha,8/31/20,10,1,NA,F,5,crashed
+9/10/20,y2020,Ch,Alpha,Chgra-Alpha,8/31/20,10,1,NA,F,6,crashed
+9/10/20,y2020,CC,Delta,CC-Delta,8/31/20,10,1,S,H,4,chunks
+9/10/20,y2020,CC,Beta,CC-Beta,8/12/20,29,3,S,H,9,"crashed, chunks"
+9/10/20,y2020,Ch,Delta,Chgra-Delta,8/31/20,10,1,S,I,1,"crashed, chunks"
+9/10/20,y2020,Ch,Alpha,Chgra-Alpha,8/31/20,10,1,S,I,3,"crashed, chunks"
+9/10/20,y2020,Ch,Alpha,Chgra-Alpha,8/31/20,10,1,S,I,4,"had a hole in the bottom, drained"
+9/10/20,y2020,CC,Beta,CC-Beta,8/28/20,13,NA,NA,D,2,chunky
+9/11/20,y2020,C,Alpha,C-ISO-Alpha,8/31/20,11,2,S,C,9,"chunky, crashed"
+9/11/20,y2020,Ch,Gamma,Chgra-Gamma,8/12/20,30,1,S,J,12,completely crashed
+9/13/20,y2020,CC,Alpha,CC-Alpha,8/28/20,16,1,S,D,4,"crashed, chunks"
+9/13/20,y2020,CC,Delta,CC-Delta,8/30/20,14,1,S,D,5,"crashed, chunks"
+9/13/20,y2020,CC,Delta,CC-Delta,8/30/20,14,1,S,D,6,"crashed, chunks"
+9/13/20,y2020,Ch,Delta,Chgra-Delta,8/21/20,23,1,S,F,8,"crashed, chunks"
+9/13/20,y2020,Ch,Gamma,Chgra-Gamma,9/8/20,5,1,S,I,5,"crashed, chunks"
+9/13/20,y2020,C,Alpha,C-ISO-Alpha,9/5/20,8,2,S,K,4,"light, chunks"
+9/13/20,y2020,C,Beta,C-ISO-Beta,9/5/20,8,2,S,K,2,"light, chunks"
+9/16/20,y2020,T,Beta,T-ISO-Beta,9/4/20,12,0,S,A,12,"crashed, chunks"
+9/16/20,y2020,Ch,Beta,Chgra-Beta,8/30/20,17,0,S,B,5,"crashed, chunks"
+9/16/20,y2020,T,Gamma,T-ISO-Gamma,9/5/20,11,0,S,E,7,"crashed, chunks"
+9/16/20,y2020,Ch,Delta,Chgra-Delta,8/21/20,26,0,NA,F,7,"crashed, chunks"
+9/16/20,y2020,M,Beta,Mono-Beta,9/8/20,8,0,NA,I,12,"crashed, chunks"
+9/16/20,y2020,CC,Delta,CC-Delta,8/14/20,33,0,NA,J,10,"crashed, chunks"
+9/17/20,y2020,Ch,Beta,Chgra-Beta,8/30/20,18,0,S+F,B,4,crashed
+9/17/20,y2020,Ch,Alpha,Chgra-Alpha,8/31/20,17,1,S,F,11,"crashed, chunks"
+9/17/20,y2020,Ch,Beta,Chgra-Beta,8/14/20,34,1,S,I,8,chunks
+9/17/20,y2020,C,Gamma,C-ISO-Gamma,9/5/20,12,1,S,K,5,floating chunks
+9/17/20,y2020,CC,Alpha,CC-Alpha,9/4/20,13,0,S,J,2,"crashed, chunks"
+9/17/20,y2020,CC,Delta,CC-Delta,8/31/20,17,1,S,D,8,"crashed, chunks"
+9/18/20,y2020,Ch,Gamma,Chgra-Gamma,8/31/20,18,1,S,B,10,"light, chunks"
+9/18/20,y2020,Ch,Beta,Chgra-Beta,8/31/20,18,1,S+F,F,10,"light, chunks, scuzz at top of bag"
+9/21/20,y2020,CC,Alpha,CC-Alpha,9/13/20,8,1,S,H,8,"light, crashed"
+9/23/20,y2020,T,Alpha,T-ISO-Alpha,9/8/20,15,2,S,A,1,chunks
+9/23/20,y2020,T,Gamma,T-ISO-Gamma,9/13/20,10,2,S,A,3,chunks
+9/23/20,y2020,T,Beta,T-ISO-Beta,9/7/20,16,2,S,A,7,chunks
+9/23/20,y2020,Ch,Alpha,Chgra-Alpha,8/30/20,24,1,NA,B,6,crashed
+9/23/20,y2020,CC,Delta,CC-Delta,8/31/20,23,1,S,D,7,crashed
+9/23/20,y2020,CC,Delta,CC-Delta,9/18/20,5,1,S+F,D,3,crashed
+9/23/20,y2020,T,Alpha,T-ISO-Alpha,9/6/20,17,2,S,E,1,chunks
+9/23/20,y2020,T,Delta,T-ISO-Delta,9/5/20,18,2,S,E,5,chunks
+9/23/20,y2020,Ch,Alpha,Chgra-Alpha,9/7/20,16,1,S,G,2,"chunky, crashed"
+9/23/20,y2020,Ch,Gamma,Chgra-Gamma,9/8/20,15,2,S,I,6,"chunky, crashed"
+9/23/20,y2020,Ch,Delta,Chgra-Delta,9/8/20,15,2,S,I,7,"chunky, crashed"
+9/23/20,y2020,CC,Delta,CC-Delta,9/13/20,10,1,NA,J,6,crashed
+9/23/20,y2020,CC,Alpha,CC-Alpha,9/13/20,10,1,NA,J,3,crashed
+9/23/20,y2020,Ch,Delta,Chgra-Delta,9/8/20,15,2,S+F,I,9,chunky
+9/24/20,y2020,T,Alpha,T-ISO-Alpha,9/6/20,18,3,S,E,2,chunky
+9/25/20,y2020,Ch,Alpha,Chgra-Alpha,9/13/20,12,3,S,B,2,chunky
+9/25/20,y2020,T,Gamma,T-ISO-Gamma,9/5/20,20,3,S,E,6,chunky
+9/25/20,y2020,CC,Beta,CC-Beta,9/13/20,12,3,S,H,7,chunky
+9/26/20,y2020,Ch,Delta,Chgra-Delta,8/31/20,26,2,S,I,2,chunky
+9/26/20,y2020,C,Beta,C-ISO-Beta,9/5/20,21,3,S,K,1,chunky
+9/26/20,y2020,C,Gamma,C-ISO-Gamma,9/5/20,21,3,S,K,6,chunky
+9/26/20,y2020,C,Delta,C-ISO-Delta,9/7/20,19,3,S,K,7,chunky
+9/27/20,y2020,T,Beta,T-ISO-Beta,9/4/20,23,3,S,A,11,chunky
+9/27/20,y2020,Ch,Beta,Chgra-Beta,9/13/20,14,2,S+F,B,1,"chunky, gross at top"
+9/27/20,y2020,Ch,Beta,Chgra-Beta,8/14/20,44,2,S+F,I,10,chunky
+9/27/20,y2020,C,Beta,C-ISO-Beta,9/7/20,20,2,S,K,12,chunky
+9/27/20,y2020,C,Alpha,C-ISO-Alpha,9/7/20,20,2,S,K,10,chunks
+9/27/20,y2020,C,Alpha,C-ISO-Alpha,9/7/20,20,2,S,K,9,chunks
+9/27/20,y2020,C,Delta,C-ISO-Delta,9/7/20,20,2,S,K,8,chunks
+9/28/20,y2020,T,Alpha,T-ISO-Alpha,9/17/20,11,1,S,A,8,chunks
+9/28/20,y2020,T,Beta,T-ISO-Beta,9/17/20,11,1,S,A,9,chunks
+9/28/20,y2020,C,Alpha,C-ISO-Alpha,9/18/20,10,2,S,C,7,chunks
+9/28/20,y2020,T,Delta,T-ISO-Delta,9/5/20,23,2,S,E,3,chunks
+9/28/20,y2020,Ch,Alpha,Chgra-Alpha,9/24/20,4,3,NA,F,10,acidentally drained
+9/29/20,y2020,Ch,Alpha,Chgra-Alpha,9/27/20,2,1,NA,B,2,crashed (bag cleaned)
+9/29/20,y2020,CC,Alpha,CC-Alpha,8/12/20,48,2,S,H,5,chunks
+10/2/20,y2020,CC,Alpha,CC-Alpha,9/18/20,14,2,S,D,2,"super light, crashed"
+10/2/20,y2020,M,Delta,Mono-Delta,9/24/20,8,0,S,I,12,"light, crashed, scuzz on bottom"
+10/2/20,y2020,M,Gamma,Mono-Gamma,9/24/20,8,1,S,H,12,"light, crashed"
+10/3/20,y2020,C,Gamma,C-ISO-Gamma,9/26/20,7,1,S,C,11,"light, crashed, scuzz on bottom"
+10/4/20,y2020,CC,Gamma,CC-Gamma,8/31/20,34,1,S+F,D,9,"light, crashed"
+10/4/20,y2020,C,Beta,C-ISO-Beta,9/24/20,10,1,S,C,8,"crashed, black chunks"
+10/4/20,y2020,C,Delta,C-ISO-Delta,9/18/20,16,1,S,C,5,"crashed, black chunks"
+10/4/20,y2020,C,Beta,C-ISO-Beta,9/16/20,18,1,S,C,3,"crashed, black chunks"
+10/5/20,y2020,C,Delta,C-ISO-Delta,9/24/20,11,1,S,C,10,"light, crashed, cblack chunks"
+10/5/20,y2020,C,Gamma,C-ISO-Gamma,9/24/20,11,1,S,C,9,"light, crashed, cblack chunks"
+10/5/20,y2020,C,Alpha,C-ISO-Alpha,9/18/20,17,1,S,C,6,"light, crashed, cblack chunks"
+10/11/20,y2020,T,Delta,T-ISO-Delta,9/24/20,17,1,S,A,4,"crashed, chunky"
+10/11/20,y2020,C,Gamma,C-ISO-Gamma,9/16/20,25,2,S,C,1,"light, big chunks"
+10/11/20,y2020,C,Gamma,C-ISO-Gamma,9/16/20,25,2,S,C,2,"light, big chunks"
+10/11/20,y2020,C,Beta,C-ISO-Beta,9/16/20,25,2,S,C,4,"light, big chunks"
+10/11/20,y2020,Ch,Delta,Chgra-Delta,9/18/20,23,1,S,B,3,small swirling chunks
+10/11/20,y2020,C,Delta,C-ISO-Delta,9/27/20,14,3,S,C,12,chunky
+10/11/20,y2020,Ch,Alpha,Chgra-Alpha,8/31/20,41,1,NA,F,12,"completely crashed, clean"
+10/11/20,y2020,Ch,Delta,Chgra-Delta,8/12/20,60,1,NA,F,4,"crashed, chunky"
+10/11/20,y2020,CC,Alpha,CC-Alpha,9/4/20,37,1,S,J,1,"crashed, chunky"
+10/12/20,y2020,T,Delta,T-ISO-Delta,9/26/20,16,2,S,A,1,chunky
+10/12/20,y2020,T,Alpha,T-ISO-Alpha,9/8/20,34,2,S,A,2,chunky
+10/12/20,y2020,T,Gamma,T-ISO-Gamma,9/24/20,18,2,S,A,3,chunky
+10/12/20,y2020,T,Gamma,T-ISO-Gamma,9/27/20,15,2,S,A,5,chunky
+10/12/20,y2020,T,Alpha,T-ISO-Alpha,9/27/20,15,2,S,A,6,chunky
+10/12/20,y2020,T,Alpha,T-ISO-Alpha,10/5/20,7,2,S,A,8,chunky
+10/12/20,y2020,T,Alpha,T-ISO-Alpha,10/5/20,7,2,S,A,9,chunky
+10/12/20,y2020,T,Delta,T-ISO-Delta,9/18/20,24,2,S,A,10,chunky
+10/12/20,y2020,C,Beta,C-ISO-Beta,10/5/20,7,1,S,C,5,crashed
+10/12/20,y2020,CC,Delta,CC-Delta,10/11/20,1,NA,NA,H,6,accidentaly drained
+10/13/20,y2020,T,Gamma,T-ISO-Gamma,10/5/20,8,2,S,A,12,"chunky, crashed, smelly"
+10/13/20,y2020,Ch,Beta,Chgra-Beta,10/1/20,12,1,S,B,10,chunky
+10/13/20,y2020,CC,Delta,CC-Delta,9/25/20,18,2,S,D,7,small swirling chunks
+10/13/20,y2020,CC,Alpha,CC-Alpha,9/18/20,25,2,S,D,1,small swirling chunks
+10/13/20,y2020,T,Beta,T-ISO-Beta,10/7/20,6,2,S,E,3,chunky
+10/14/20,y2020,C,Beta,C-ISO-Beta,10/3/20,11,2,S,C,3,chunky
+10/14/20,y2020,T,Gamma,T-ISO-Gamma,10/5/20,9,2,S,A,11,chunks
+10/14/20,y2020,C,Gamma,C-ISO-Gamma,10/12/20,2,3,NA,K,1,accidentally drained
+10/15/20,y2020,Ch,Gamma,Chgra-Gamma,9/1/20,44,1,NA,B,5,crashed
+10/15/20,y2020,C,Gamma,C-ISO-Gamma,10/5/20,10,2,S,C,6,scuzzy and chunky
+10/15/20,y2020,CC,Beta,CC-Beta,9/27/20,18,2,S,D,8,scuzzy and chunky
+10/15/20,y2020,T,Delta,T-ISO-Delta,10/5/20,10,3,S,E,2,chunks
+10/16/20,y2020,Ch,Gamma,Chgra-Gamma,9/18/20,28,1,NA,B,4,crashed
+10/18/20,y2020,C,Gamma,C-ISO-Gamma,10/5/20,13,1,S,C,7,crashed
+10/18/20,y2020,CC,Alpha,CC-Alpha,9/25/20,23,1,S,D,3,crashed
+10/18/20,y2020,CC,Gamma,CC-Gamma,9/24/20,24,1,S,D,5,crashed
+10/18/20,y2020,CC,Gamma,CC-Gamma,10/1/20,17,1,S,D,11,crashed
+10/19/20,y2020,Ch,Alpha,Chgra-Alpha,9/26/20,23,1,NA,B,6,crashed
+10/19/20,y2020,Ch,Delta,Chgra-Delta,9/26/20,23,1,NA,B,7,crashed
+10/19/20,y2020,CC,Gamma,CC-Gamma,9/25/20,24,2,S,D,6,crashed
+10/19/20,y2020,T,Beta,T-ISO-Beta,9/27/20,22,1,S,A,7,"chunky, light, hobo experiment bag, started experiemtn already chunky"
+10/20/20,y2020,CC,Delta,CC-Delta,10/1/20,19,1,F,D,10,"crashed, foamy"
+10/21/20,y2020,Ch,Delta,Chgra-Delta,10/1/20,20,1,NA,B,8,crashed
+10/21/20,y2020,Ch,Gamma,Chgra-Gamma,10/1/20,20,1,S,B,9,crashed
+10/21/20,y2020,C,Alpha,C-ISO-Alpha,10/12/20,9,2,S,C,1,chunky
+10/21/20,y2020,C,Gamma,C-ISO-Gamma,10/11/20,10,2,S,C,8,chunky
+10/21/20,y2020,C,Gamma,C-ISO-Gamma,10/11/20,10,2,S,C,9,chunky
+10/21/20,y2020,C,Alpha,C-ISO-Alpha,10/11/20,10,2,S,C,10,chunky
+10/21/20,y2020,C,Delta,C-ISO-Delta,10/12/20,9,2,S,F,5,chunky
+10/21/20,y2020,C,Delta,C-ISO-Delta,10/12/20,9,2,S,A,6,chunky
+10/23/20,y2020,T,Gamma,T-ISO-Gamma,10/12/20,11,2,S,A,3,chunky
+10/23/20,y2020,T,Beta,T-ISO-Beta,10/12/20,11,2,S,A,8,chunky
+10/23/20,y2020,T,Beta,T-ISO-Beta,10/12/20,11,2,S,C,9,chunky
+10/23/20,y2020,C,Alpha,C-ISO-Alpha,10/12/20,11,2,S,C,2,chunky
+10/23/20,y2020,C,Beta,C-ISO-Beta,10/15/20,8,2,S,C,3,chunky
+10/23/20,y2020,C,Beta,C-ISO-Beta,10/15/20,8,2,S,C,6,chunky
+10/23/20,y2020,C,Alpha,C-ISO-Alpha,10/11/20,12,2,S,C,11,chunky
+10/23/20,y2020,CC,Gamma,CC-Gamma,9/24/20,29,2,S,D,4,chunky
+10/23/20,y2020,CC,Beta,CC-Beta,10/11/20,12,2,S,D,12,chunky
+10/23/20,y2020,Ch,Beta,Chgra-Beta,10/15/20,8,2,S,F,7,chunky
+10/23/20,y2020,Ch,Beta,Chgra-Beta,10/15/20,8,2,S,F,8,chunky
+10/23/20,y2020,Ch,Gamma,Chgra-Gamma,10/15/20,8,2,S,F,9,chunky
+10/23/20,y2020,Ch,Gamma,Chgra-Gamma,9/24/20,29,2,S,F,11,chunky
+10/23/20,y2020,C,Gamma,C-ISO-Gamma,10/12/20,11,2,S,K,2,chunky
+10/25/20,y2020,T,Alpha,T-ISO-Alpha,10/20/20,5,1,S,A,10,crashed
+10/25/20,y2020,Ch,Gamma,Chgra-Gamma,10/11/20,14,1,S,B,12,crashed
+10/25/20,y2020,C,Gamma,C-ISO-Gamma,10/19/20,6,1,S,D,12,crashed
+10/25/20,y2020,CC,Beta,CC-Beta,10/11/20,14,1,S,C,9,crashed
+10/25/20,y2020,CC,Gamma,CC-Gamma,10/15/20,10,1,S,C,8,crashed
+10/25/20,y2020,Ch,Delta,Chgra-Delta,10/11/20,14,1,S,F,2,crashed
+10/26/20,y2020,CC,Gamma,CC-Gamma,10/15/20,11,1,S,D,7,crashed
+10/26/20,y2020,C,Gamma,C-ISO-Gamma,10/19/20,7,1,S,C,7,crashed
+10/26/20,y2020,Ch,Delta,Chgra-Delta,10/11/20,15,1,NA,F,1,crashed
+10/26/20,y2020,Ch,Alpha,Chgra-Alpha,10/11/20,15,1,NA,F,3,crashed
+10/26/20,y2020,CC,Alpha,CC-Alpha,10/12/20,14,2,S,H,9,crashed
+10/27/20,y2020,T,Alpha,T-ISO-Alpha,10/20/20,7,2,S,A,7,crashed
+10/27/20,y2020,Ch,Alpha,Chgra-Alpha,10/12/20,15,0,NA,C,4,"light, chunks crashed"
+10/27/20,y2020,T,Alpha,T-ISO-Alpha,10/20/20,7,1,S,A,7,"light, chunks crashed"
+10/27/20,y2020,T,Beta,T-ISO-Beta,10/20/20,7,1,S,A,11,"light, chunks crashed"
+11/2/20,y2020,T,X13,T-ISO-X13,10/5/20,27,1,S,A+E,ALL,"light, crashed, chunky post evac"
+11/2/20,y2020,C,X9,C-ISO-X9,10/20/20,13,1,S,C+K,ALL,"light, crashed, chunky post evac"
+11/2/20,y2020,Ch,X15,Chgra-X15,10/11/20,22,2,S,B+F,ALL,"light, crashed, chunky post evac"
+11/2/20,y2020,CC,X14,CC-X14,10/11/20,22,1,S,D+H,ALL,"light, crashed, chunky post evac"
+11/10/20,y2020,M,Beta,Mono-Beta,11/3/20,7,0,S,A,4,crashed
+11/13/20,y2020,M,Delta,Mono-Delta,11/3/20,10,1,S,B,2,crashed
+11/15/20,y2020,Ch,Gamma,Chgra-Gamma,11/3/20,12,1,S,A,12,crashed
+11/15/20,y2020,CC,Alpha,CC-Alpha,11/3/20,12,2,S,A,10,"chunks, crashed"
+11/15/20,y2020,C,Gamma,C-ISO-Gamma,11/3/20,12,2,S,A,11,"chunks, crashed"
+11/15/20,y2020,C,Delta,C-ISO-Delta,11/3/20,12,1,S,A,9,"chunks, crashed"
+11/15/20,y2020,T,Delta,T-ISO-Delta,11/3/20,12,5,NA,A,8,lots of chunks but color was dark
+11/15/20,y2020,Ch,Alpha,Chgra-Alpha,11/3/20,12,1,F,A,2,chunks
+1/19/21,y2021,CC,?*,CC-?,1/11/21,8,5,NA,D,1,corner seal popped
+1/21/21,y2021,C,delta,C-delta,1/11/21,10,5,NA,C,2,bag popped and drained overnight
+1/21/21,y2021,M,gamma,M-gamma,1/11/21,10,5,NA,C,11,bag popped and drained
+1/23/21,y2021,T,beta,T-beta,1/14/21,9,5,NA,E,3,bag popped and drained
+1/30/21,y2021,C,delta,C-delta,1/22/21,8,5,NA,C,7,popped and drained
+1/31/21,y2021,C,delta,C-delta,1/22/21,9,5,NA,C,5,popped and drained
+2/1/21,y2021,M,beta,M-beta,1/14/21,18,1,S,B,11,crashed and chunky
+2/1/21,y2021,CC,?*,CC-?,1/11/21,21,2,S,D,2,crashed
+2/1/21,y2021,T,beta,T-beta,1/14/21,18,4,S,E,2,"dark, but chunky"
+2/1/21,y2021,T,beta,T-beta,1/14/21,18,4,S,E,1,"dark, but chunky"
+2/3/21,y2021,C,delta,C-delta,1/11/21,23,5,S,C,1,corner popped
+2/4/21,y2021,C,delta,C-delta,1/22/21,13,5,NA,C,6,corner popped
+2/7/21,y2021,C,delta,C-delta,1/27/21,11,5,,C,12,corner popped
+2/7/21,y2021,CC,alpha,CC-alpha,1/18/21,20,5,,D,4,corner popped
+2/7/21,y2021,C,alpha,C-alpha,1/29/21,9,5,,G,7,corner popped
+2/8/21,y2021,C,delta,C-delta,1/27/21,12,5,S,G,2,corner popped
+2/8/21,y2021,M,beta,M-beta,1/28/21,11,2,NA,F,11,chunky and crashing
+2/8/21,y2021,M,gamma,M-gamma,1/29/21,10,2,S,G,11,chunky and crashing
+2/8/21,y2021,C,alpha,C-alpha,1/29/21,10,3,S,G,8,chunky
+2/8/21,y2021,C,alpha NEW,C-alpha,1/27/21,12,4,NA,G,6,chunky
+2/8/21,y2021,C,alpha NEW,C-alpha,1/27/21,12,5,NA,G,5,chunky
+2/8/21,y2021,CC,alpha,CC-alpha,1/27/21,12,5,NA,G,4,chunky
+2/8/21,y2021,C,alpha,C-alpha,1/28/21,11,5,NA,F,2,corner popped
+2/9/21,y2021,Ch,delta,Ch-delta,1/25/21,15,5,NA,B,3,corner popped
+2/9/21,y2021,C,alpha,C-alpha,1/22/21,18,3,S,C,3,chunky and starting to crash
+2/9/21,y2021,C,alpha,C-alpha,1/22/21,18,3,S,C,4,chunky and starting to crash
+2/9/21,y2021,CC,beta,CC-beta,1/25/21,15,3,NA,D,10,corner popped
+2/11/21,y2021,CC,alpha,CC-alpha,1/14/21,28,2,F,D,3,"light, super foamy"
+2/12/21,y2021,C,beta,C-beta,1/22/21,21,5,S,C,2,chunky
+2/12/21,y2021,CC,alpha,CC-alpha,1/29/21,14,NA,NA,F,5,corner popped
+2/13/21,y2021,CC,alpha,CC-alpha,1/22/21,22,4,NA,D,7,corner popped
+2/13/21,y2021,CC,alpha,CC-alpha,1/27/21,17,2,NA,D,12,crashed
+2/13/21,y2021,CC,?*,CC-?,1/28/21,16,2,S,F,1,crashed
+2/17/21,y2021,T,alpha NEW,T-alpha,2/8/21,9,NA,NA,E,9,corner popped
+2/18/21,y2021,T,alpha NEW,T-alpha,1/28/21,21,1,S,E,5,crashed
+2/19/21,y2021,T,beta,T-beta,1/25/21,25,NA,S,E,4,corner popped
+2/20/21,y2021,M,beta,M-beta,2/11/21,9,2,S,B,12,crashed
+2/20/21,y2021,Ch,beta,Ch-beta,2/8/21,12,1,F,B,9,*silica dosing crash
+2/20/21,y2021,Ch,beta,Ch-beta,1/28/21,23,2,S,B,4,*silica dosing crash
+2/20/21,y2021,Ch,beta,Ch-beta,2/14/21,6,1,F,B,3,*silica dosing crash
+2/20/21,y2021,Ch,delta,Ch-delta,1/25/21,26,2,F,B,2,*silica dosing crash
+2/20/21,y2021,Ch,delta,Ch-delta,1/11/21,40,2,F,B,1,*silica dosing crash
+2/20/21,y2021,C,beta,C-beta,2/11/21,9,3,F,C,4,*silica dosing crash
+2/20/21,y2021,C,beta,C-beta,2/11/21,9,3,F,C,3,*silica dosing crash
+2/20/21,y2021,CC,alpha NEW,CC-alpha,2/8/21,12,NA,NA,D,2,corner popped
+2/20/21,y2021,CC,beta,CC-beta,1/25/21,26,1,NA,D,11,*silica dosing crash
+2/20/21,y2021,CC,alpha,CC-alpha,1/25/21,26,1,NA,D,9,*silica dosing crash
+2/20/21,y2021,CC,alpha,CC-alpha,1/25/21,26,1,NA,D,8,*silica dosing crash
+2/20/21,y2021,T,beta NEW,T-beta,1/28/21,23,1,S,E,8,*silica dosing crash
+2/20/21,y2021,T,alpha NEW,T-alpha,2/8/21,12,1,S,E,1,*silica dosing crash
+2/20/21,y2021,CC,alpha,CC-alpha,2/8/21,12,2,F,F,7,*silica dosing crash
+2/20/21,y2021,CC,alpha,CC-alpha,2/8/21,12,2,F,F,6,*silica dosing crash
+2/20/21,y2021,CC,alpha,CC-alpha,1/29/21,22,2,F,F,4,*silica dosing crash
+2/20/21,y2021,CC,alpha,CC-alpha,1/28/21,23,2,F,F,3,*silica dosing crash
+2/20/21,y2021,C,delta,C-delta,2/11/21,9,3,F,G,4,*silica dosing crash
+2/20/21,y2021,T,alpha,T-alpha,2/13/21,7,NA,NA,I,5,corner popped
+2/20/21,y2021,CC,alpha,CC-alpha,1/28/21,23,1,F,F,3,*silica dosing crash
+2/21/21,y2021,T,beta,T-beta,2/11/21,10,1,S&F,I,7,*silica dosing crash
+2/21/21,y2021,T,beta,T-beta,2/11/21,10,1,S&F,I,6,*silica dosing crash
+2/21/21,y2021,T,alpha,T-alpha,2/13/21,8,1,S&F,I,4,*silica dosing crash
+2/21/21,y2021,T,alpha,T-alpha,2/14/21,7,1,S&F,I,3,*silica dosing crash
+2/21/21,y2021,C,alpha,C-alpha,2/13/21,8,1,S&F,G,9,*silica dosing crash
+2/21/21,y2021,C,alpha,C-alpha,2/13/21,8,1,S&F,G,8,*silica dosing crash
+2/21/21,y2021,C,alpha,C-alpha,2/13/21,8,1,S&F,G,6,*silica dosing crash
+2/21/21,y2021,C,alpha NEW,C-alpha,1/17/21,35,1,F,G,3,*silica dosing crash
+2/21/21,y2021,CC,alpha,CC-alpha,1/28/21,24,1,F,F,3,*silica dosing crash
+2/21/21,y2021,CC,alpha,CC-alpha,2/14/21,7,1,F,F,2,*silica dosing crash
+2/21/21,y2021,T,alpha,T-alpha,2/11/21,10,1,S&F,E,11,*silica dosing crash
+2/21/21,y2021,T,alpha NEW,T-alpha,2/8/21,13,1,S&F,E,10,*silica dosing crash
+2/21/21,y2021,T,beta NEW,T-beta,1/28/21,24,1,S&F,E,7,*silica dosing crash
+2/21/21,y2021,T,alpha NEW,T-alpha,1/28/21,24,1,S&F,E,6,*silica dosing crash
+2/21/21,y2021,T,beta,T-beta,1/25/21,27,1,S&F,E,3,*silica dosing crash
+2/21/21,y2021,C,alpha,C-alpha,1/22/21,30,1,F,D,6,*silica dosing crash
+2/21/21,y2021,C,alpha,C-alpha,1/18/21,34,1,F,D,5,*silica dosing crash
+2/21/21,y2021,C,?*,C-?,1/27/21,25,1,S&F,D,1,*silica dosing crash
+2/22/21,y2021,C,delta,C-delta,1/27/21,26,1,S,C,11,*silica dosing crash
+2/22/21,y2021,C,beta,C-beta,1/25/21,28,1,S,C,9,*silica dosing crash
+2/22/21,y2021,C,delta,C-delta,1/22/21,31,1,S,C,8,*silica dosing crash
+2/22/21,y2021,C,alpha NEW,C-alpha,2/8/21,14,1,S,C,7,*silica dosing crash
+2/22/21,y2021,C,alpha NEW,C-alpha,2/8/21,14,1,S,C,6,*silica dosing crash
+2/22/21,y2021,C,alpha,C-alpha,2/8/21,14,1,S,C,5,*silica dosing crash
+2/22/21,y2021,C,alpha,C-alpha,2/8/21,14,1,S,C,1,*silica dosing crash
+2/22/21,y2021,C,delta,C-delta,1/27/21,26,1,S&F,G,1,*silica dosing crash
+2/23/21,y2021,M,alpha,M-alpha,2/14/21,9,1,S,D,12,*silica dosing crash
+2/23/21,y2021,CC,beta,CC-beta,2/11/21,12,1,NA,F,8,*corner popped
+2/24/21,y2021,CC,alpha,CC-alpha,2/14/21,10,NA,NA,D,4,corner popped
+2/24/21,y2021,M,gamma,M-gamma,2/14/21,10,1,S,C,12,crashed
+2/24/21,y2021,C,beta,C-beta,1/25/21,30,1,S,C,10,crashed
+2/24/21,y2021,C,delta,C-delta,2/11/21,13,1,S,G,5,crashed
+2/27/21,y2021,CC,alpha,CC-alpha,2/21/21,6,1,NA,D,8,crashed
+2/28/21,y2021,C,alpha,C-alpha,2/21/21,7,1,S,C,3,crashed
+2/28/21,y2021,Ch,beta,Ch-beta,2/22/21,6,1,S,B,2,crashed
+2/28/21,y2021,CC,alpha,CC-alpha,2/21/21,7,1,S,D,8,crashed
+2/28/21,y2021,C,beta,C-beta,2/21/21,7,1,S,G,6,crashed
+2/28/21,y2021,CC,beta,CC-beta,2/16/21,12,1,S,F,10,crashed
+3/1/21,y2021,Ch,delta,Ch-delta,1/29/21,31,1,S,B,6,crashed
+3/1/21,y2021,T,alpha,T-alpha,2/8/21,21,1,S,E,2,crashed
+3/1/21,y2021,T,alpha,T-alpha,2/21/21,8,1,S,E,5,crashed
+3/1/21,y2021,C,alpha,C-alpha,2/21/21,8,1,S,G,2,crashed
+3/1/21,y2021,C,alpha,C-alpha,2/21/21,8,1,S,G,3,crashed
+3/1/21,y2021,C,alpha,C-alpha,2/13/21,16,1,S,G,7,crashed
+3/1/21,y2021,C,alpha,C-alpha,2/21/21,8,1,S,G,8,crashed
+3/1/21,y2021,C,alpha,C-alpha,2/21/21,8,1,S,G,9,crashed
+3/1/21,y2021,M,beta,M-beta,2/22/21,7,1,S,I,12,crashed
+3/1/21,y2021,Ch,delta,Ch-delta,1/29/21,31,1,S,B,6,crashed
+3/1/21,y2021,CC,gamma,CC-gamma,2/22/21,7,1,S,D,2,crashed
+3/1/21,y2021,Ch,delta,Ch-delta,2/16/21,13,1,S&F,H,1,crashed
+3/2/21,y2021,Ch,alpha,Ch-alpha,2/21/21,9,1,S,B,9,crashed
+3/2/21,y2021,Ch,delta,Ch-delta,2/22/21,8,1,S,B,4,crashed
+3/2/21,y2021,Ch,beta,Ch-beta,2/22/21,8,1,S,B,1,crashed
+3/2/21,y2021,C,alpha,C-alpha,2/11/21,19,1,S&F,C,4,crashed
+3/2/21,y2021,C,beta,C-beta,2/22/21,8,1,S,C,7,crashed
+3/2/21,y2021,C,beta,C-beta,2/22/21,8,1,S,C,8,crashed
+3/2/21,y2021,CC,alpha,CC-alpha,2/21/21,9,1,S,D,7,crashed
+3/2/21,y2021,T,alpha,T-alpha,2/22/21,8,1,S&F,E,6,crashed
+3/2/21,y2021,T,alpha,T-alpha,2/22/21,8,1,S,E,8,crashed
+3/2/21,y2021,T,beta,T-beta,2/22/21,8,1,S,E,9,crashed
+3/3/21,y2021,C,delta,C-delta,2/22/21,9,1,S,C,5,crashed
+3/3/21,y2021,T,alpha,T-alpha,2/21/21,10,1,S,E,4,crashed
+3/3/21,y2021,CC,beta,CC-beta,2/22/21,9,1,S,D,5,crashed
+3/4/21,y2021,CC,?*,CC-?,2/11/21,21,1,S&F,D,10,crashed
+3/4/21,y2021,CC,alpha,CC-alpha,2/21/21,11,1,S,D,9,crashed
+3/5/21,y2021,Ch,beta,Ch-beta,2/8/21,25,1,NA,B,8,crashed
+3/5/21,y2021,Ch,delta,Ch-delta,2/22/21,11,1,NA,B,3,crashed
+3/5/21,y2021,CC,gamma,CC-gamma,2/22/21,11,1,NA,D,1,crashed
+3/5/21,y2021,CC,alpha,CC-alpha,2/14/21,19,5,NA,F,1,corner popped
+3/6/21,y2021,C,gamma,C-gamma,2/28/21,6,0,NA,C,9,crashed
+3/6/21,y2021,T,alpha,T-alpha,2/21/21,13,1,S,E,3,crashed
+3/6/21,y2021,T,alpha,T-alpha,2/14/21,20,1,S,I,2,"crashed, chunky"
+3/6/21,y2021,T,gamma,T-gamma,2/28/21,6,1,NA,I,4,"crashed, chunky"
+3/6/21,y2021,C,alpha,C-alpha,2/28/21,6,2,NA,C,2,chunks
+3/7/21,y2021,M,gamma,M-gamma,2/28/21,7,0,NA,D,12,crashed
+3/7/21,y2021,M,gamma,M-gamma,2/28/21,7,1,NA,E,12,crashed
+3/7/21,y2021,T,beta,T-beta,3/2/21,5,2,NA,E,2,chunky
+3/7/21,y2021,C,beta,C-beta,2/21/21,14,2,S,G,4,chunks
+3/8/21,y2021,C,delta,C-delta,2/22/21,14,3,S,C,6,chunks
+3/8/21,y2021,C,delta,C-delta,3/2/21,6,1,NA,C,7,crashed and chunks
+3/8/21,y2021,T,gamma,T-gamma,3/2/21,6,0,NA,E,9,"crashed, let water on overnight"
+3/8/21,y2021,T,alpha,T-alpha,2/22/21,14,1,S,E,7,"crashed, chunks"
+3/9/21,y2021,M,delta,M-delta,3/2/21,7,1,S,C,12,"crashed, skuzz lines"
+3/9/21,y2021,C,beta,C-beta,3/2/21,7,2,S,G,3,"crashed, skuzz lines"
+3/9/21,y2021,T,gamma,T-gamma,2/28/21,9,2,S,I,3,"crashed, skuzz lines"
+3/9/21,y2021,C,delta,C-delta,2/16/21,21,2,S,G,10,"crashed, skuzz lines"
+3/10/21,y2021,CC,beta,CC-beta,3/2/21,8,1,S,D,8,"crashed, dead cells suspended"
+3/10/21,y2021,CC,alpha,CC-alpha,3/5/21,5,1,S,D,5,"crashed, dead cells suspended"
+3/10/21,y2021,C,gamma,C-gamma,2/28/21,10,2,S,C,10,"crashed, chunky"
+3/11/21,y2021,C,alpha,C-alpha,2/28/21,11,3,S,C,3,"chunky, crashing"
+3/11/21,y2021,T,delta,T-delta,2/28/21,11,1,S,I,5,"crashed, skuzz lines"
+3/12/21,y2021,Ch,alpha,Ch-alpha,2/28/21,12,1,NA,H,2,"crashed, light"
+3/15/21,y2021,Ch,gamma,Ch-gamma,3/2/21,13,0,NA,B,1,crashed
+3/15/21,y2021,C,gamma,C-gamma,3/5/21,10,0,S,C,11,crashed
+3/15/21,y2021,T,delta,T-delta,3/5/21,10,1,NA,E,1,"crashed, chunks"
+3/15/21,y2021,T,alpha,T-alpha,3/5/21,10,1,NA,E,2,"crashed, chunks"
+3/15/21,y2021,T,gamma,T-gamma,3/2/21,13,1,S,E,8,"crashed, chunky"
+3/15/21,y2021,CC,alpha,CC-alpha,2/28/21,15,0,NA,F,2,crashed
+3/15/21,y2021,CC,gamma,CC-gamma,3/2/21,13,0,S,F,6,crashed
+3/15/21,y2021,CC,gamma,CC-gamma,2/16/21,27,0,NA,F,11,crashed
+3/15/21,y2021,C,beta,C-beta,3/7/21,8,1,NA,G,5,"chunky, light"
+3/15/21,y2021,T,delta,T-delta,2/28/21,15,0,S,I,6,crashed
+3/15/21,y2021,T,alpha,T-alpha,2/16/21,27,0,S,I,9,crashed
+3/15/21,y2021,Ch,delta,Ch-delta,3/10/21,5,2,NA,B,4,"gelatinous, crashed"
+3/15/21,y2021,C,alpha,C-alpha,3/5/21,10,2,S,C,4,"no harvest line put in, chunks"
+3/15/21,y2021,C,delta,C-delta,3/2/21,13,2,S,C,8,chunks
+3/15/21,y2021,T,beta,T-beta,2/22/21,21,1,S,E,10,chunks
+3/16/21,y2021,T,delta,T-delta,3/5/21,11,2,S,E,4,crashed
+3/16/21,y2021,T,gamma,T-gamma,3/5/21,11,2,S,E,5,crashed
+3/16/21,y2021,T,alpha,T-alpha,3/7/21,9,2,S,E,3,crashed
+3/17/21,y2021,CC,alpha,CC-alpha,3/11/21,6,1,NA,D,8,crashed and clear
+3/17/21,y2021,T,gamma,T-gamma,3/5/21,12,1,S,E,6,crashed and clear
+3/17/21,y2021,T,alpha,T-alpha,3/5/21,12,1,S,I,10,crashed and clear
+3/17/21,y2021,C,beta,C-beta,3/2/21,15,2,S,G,2,chunky
+3/18/21,y2021,C,gamma,C-gamma,3/5/21,13,1,S,C,5,crashed and clear
+3/18/21,y2021,C,alpha,C-alpha,3/5/21,13,3,S,C,1,chunky
+3/19/21,y2021,Ch,beta,Ch-beta,3/5/21,14,1,NA,B,6,crashed and clear
+3/19/21,y2021,M,gamma,M-gamma,3/11/21,8,1,S&F,E,12,crashed and clear
+3/19/21,y2021,CC,alpha,CC-alpha,3/5/21,14,1,NA,D,4,crashed and clear
+3/19/21,y2021,CC,beta,CC-beta,3/7/21,12,1,NA,F,8,crashed and clear
+3/19/21,y2021,T,alpha,T-alpha,3/5/21,14,1,S,I,11,crashed and clear
+3/19/21,y2021,T,delta,T-delta,3/11/21,8,1,S,I,3,crashed and clear
+3/19/21,y2021,T,beta,T-beta,3/10/21,9,1,S,I,2,crashed and clear
+3/19/21,y2021,T,beta,T-beta,3/10/21,9,1,S,I,1,crashed and clear
+3/21/21,y2021,Ch,alpha,Ch-alpha,2/13/21,36,1,S,B,10,crashed and clear
+3/21/21,y2021,Ch,alpha,Ch-alpha,3/5/21,16,1,NA,B,8,crashed and clear
+3/21/21,y2021,CC,delta,CC-delta,3/10/21,11,1,NA,D,11,crashed and clear
+3/21/21,y2021,CC,delta,CC-delta,3/5/21,16,1,NA,D,9,crashed and clear
+3/21/21,y2021,CC,beta,CC-beta,3/2/21,19,1,NA,D,7,crashed and clear
+3/21/21,y2021,CC,gamma,CC-gamma,3/2/21,19,1,NA,F,5,crashed and clear
+3/21/21,y2021,CC,alpha,CC-alpha,2/28/21,21,1,S&F,F,3,"crashed, jelly-like"
+3/21/21,y2021,C,beta,C-beta,3/7/21,14,1,S&F,G,4,"crashed, light, skuzzy"
+3/21/21,y2021,T,delta,T-delta,3/11/21,10,1,S,I,4,"crashed, light, skuzzy"
+3/23/21,y2021,T,beta,T-beta,2/16/21,35,1,S&F,I,8,"crashed, clear, skuzzy"
+3/23/21,y2021,T,alpha,T-alpha,3/16/21,7,1,S,E,5,crashing and skuzzy
+3/23/21,y2021,T,gamma,T-gamma,3/16/21,7,2,S,E,1,crashing and skuzzy
+3/23/21,y2021,CC,delta,CC-delta,3/16/21,7,1,S,F,6,crashing and skuzzy
+3/23/21,y2021,M,beta,M-beta,2/21/21,30,1,S,H,12,crashing and clear
+3/23/21,y2021,Ch,delta,Ch-delta,3/16/21,7,1,S,H,7,crashing and clear
+3/23/21,y2021,C,beta,C-beta,2/16/21,35,2,S,G,11,crashing and chunky
+3/23/21,y2021,Ch,delta,Ch-delta,3/10/21,13,1,S&F,B,3,crashing and clear
+3/23/21,y2021,Ch,beta,Ch-beta,2/8/21,43,1,S,B,7,crashing and clear
+3/23/21,y2021,Ch,alpha,Ch-alpha,3/10/21,13,2,S&F,H,5,crashing and jelly-like
+3/24/21,y2021,Ch,delta,Ch-delta,3/2/21,22,1,NA,B,2,crashed and clear
+3/24/21,y2021,CC,delta,CC-delta,3/5/21,19,1,S&F,D,10,crashed and clear
+3/24/21,y2021,CC,delta,CC-delta,3/16/21,8,1,S,F,4,crashing and clear
+3/25/21,y2021,M,delta,M-delta,3/19/21,6,1,S,C,12,crashing and clear
+3/25/21,y2021,C,alpha,C-alpha,3/11/21,14,1,S,C,9,crashed and clear
+3/25/21,y2021,C,alpha,C-alpha,3/11/21,14,1,S,C,10,crashed and clear
+3/25/21,y2021,C,delta,C-delta,3/16/21,9,2,NA,C,4,chunks
+3/25/21,y2021,C,beta,C-beta,3/16/21,9,2,S,C,8,chunks
+3/25/21,y2021,Ch,alpha,Ch-alpha,2/13/21,40,1,S,B,11,crashed
+3/26/21,y2021,CC,beta,CC-beta,2/11/21,43,1,S,F,9,"chunks, crashed, over a month old"
+3/26/21,y2021,CC,delta,CC-delta,3/11/21,15,0,S,D,2,crashed
+3/26/21,y2021,Ch,beta,Ch-beta,2/28/21,26,1,S,H,4,crashed
+3/26/21,y2021,T,beta,T-beta,3/16/21,10,1,NA,E,2,"crashed, chunks"
+3/26/21,y2021,C,delta,C-delta,3/16/21,10,2,NA,C,3,chunks
+3/27/21,y2021,T,alpha,T-alpha,3/16/21,11,1,S,E,7,"crashed, clear, and chunks"
+3/27/21,y2021,CC,alpha,CC-alpha,3/24/21,3,2,S&F,F,6,chunks
+3/27/21,y2021,Ch,beta,Ch-beta,2/28/21,27,1,S,H,3,crashed
+3/27/21,y2021,M,alpha,M-alpha,3/19/21,8,1,S,I,12,crashed
+3/28/21,y2021,T,gamma,T-gamma,3/19/21,9,1,S,E,10,crashed
+3/28/21,y2021,T,beta,T-beta,3/16/21,12,1,S,E,4,crashed
+3/28/21,y2021,C,gamma,C-gamma,3/19/21,9,1,S,G,7,crashed
+3/29/21,y2021,CC,delta,CC-delta,3/11/21,18,1,S&F,D,1,crashed
+3/29/21,y2021,CC,beta,CC-beta,3/7/21,22,1,S&F,F,7,crashed
+3/29/21,y2021,C,delta,C-delta,3/23/21,6,1,S,G,4,crashed
+3/29/21,y2021,C,gamma,C-gamma,3/11/21,18,1,S,C,6,"crashed, light"
+3/29/21,y2021,T,beta,T-beta,3/23/21,6,1,S,I,11,"crashed, light"
+3/29/21,y2021,T,beta,T-beta,3/23/21,6,1,S,I,10,"crashed, light"
+3/30/21,y2021,T,beta,T-beta,3/16/21,14,1,S,E,3,"crashed, jelly-like skuzz and detritus"
+3/30/21,y2021,Ch,beta,Ch-beta,3/16/21,14,1,S,H,9,"crashed, jelly-like skuzz"
+3/30/21,y2021,T,alpha,T-alpha,3/23/21,7,1,S,I,8,"crashed, jelly-like skuzz"
+3/30/21,y2021,T,alpha,T-alpha,3/23/21,7,2,S,I,9,"crashed, like, skuzz on bottom"
+3/30/21,y2021,CC,beta,CC-beta,2/22/21,36,2,S&F,D,6,crashing and chunky
+3/31/21,y2021,C,delta,C-delta,3/10/21,21,1,S,C,2,"crashed, skuzzy, light"
+3/31/21,y2021,Ch,delta,Ch-delta,3/16/21,15,2,S,H,8,"crashed, jelly-like"
+3/31/21,y2021,Ch,alpha,Ch-alpha,3/16/21,15,1,NA,H,2,"crashed, jelly-like"
+3/31/21,y2021,CC,alpha,CC-alpha,3/11/21,20,1,S,D,5,"crashed, super skuzzy"
+3/31/21,y2021,T,delta,T-delta,3/19/21,12,1,S,E,8,"crashed, skuzzy,clear"
+4/1/21,y2021,CC,gamma,CC-gamma,3/19/21,13,1,NA,D,4,completely clear
+4/1/21,y2021,C,gamma,C-gamma,3/19/21,13,1,S,G,6,crashing and clear
+4/1/21,y2021,C,delta,C-delta,3/23/21,9,1,S,G,3,crashing and clear
+4/1/21,y2021,C,beta,C-beta,3/23/21,9,2,S,G,2,crashing and chunky
+4/1/21,y2021,C,beta,C-beta,3/23/21,9,1,S,G,1,crashing and clear
+4/1/21,y2021,Ch,gamma,Ch-gamma,3/16/21,16,2,S,H,10,"crashing, jelly-like and skuzz lines"
+4/1/21,y2021,C,gamma,C-gamma,3/11/21,21,2,S,C,7,crashing and chunky
+4/2/21,y2021,CC,beta,CC-beta,3/16/21,17,2,S,F,1,crashing and chunky
+4/2/21,y2021,CC,beta,CC-beta,3/16/21,17,2,S,F,2,"crashing, chunky, and jelly-like"
+4/2/21,y2021,CC,alpha,CC-alpha,2/14/21,47,2,S,D,3,crashing and chunky
+4/2/21,y2021,C,alpha,C-alpha,3/19/21,14,1,S,G,8,crashing and chunky
+4/5/21,y2021,CC,gamma,CC-gamma,3/24/21,12,1,S&F,F,3,"crashing, light"
+4/5/21,y2021,M,gamma,M-gamma,3/28/21,8,1,NA,H,12,"crashing, light"
+4/5/21,y2021,M,gamma,M-gamma,3/28/21,8,1,NA,I,12,"crashing, light"
+4/5/21,y2021,T,alpha,T-alpha,3/30/21,6,1,NA,I,1,"crashing, chunky, light"
+4/5/21,y2021,T,alpha,T-alpha,3/30/21,6,1,NA,I,2,crashing and chunky
+4/7/21,y2021,M,beta,M-beta,3/30/21,8,1,S,B,12,"crashed, light"
+4/7/21,y2021,M,delta,M-delta,3/30/21,8,1,S,C,12,"crashed, light"
+4/7/21,y2021,C,gamma,C-gamma,3/28/21,10,1,S,C,9,"crashed, light"
+4/7/21,y2021,M,alpha,M-alpha,3/30/21,8,1,S,G,12,"crashed, light"
+4/7/21,y2021,C,alpha,C-alpha,3/28/21,10,1,S&F,C,4,"crashed, light, skuzzy"
+4/8/21,y2021,C,gamma,C-gamma,3/28/21,11,1,S&F,C,8,"crashed, light, skuzzy"
+4/8/21,y2021,T,delta,T-delta,3/28/21,11,1,S&F,E,4,"crashed, light, skuzzy"
+4/8/21,y2021,CC,gamma,CC-gamma,3/24/21,15,1,S,F,5,crashed
+4/8/21,y2021,C,alpha,C-alpha,3/28/21,11,1,S&F,C,3,crashed
+4/8/21,y2021,CC,alpha,CC-alpha,3/24/21,15,2,S,F,8,chunks
+4/9/21,y2021,C,delta,C-delta,3/30/21,10,2,S,C,10,chunks
+4/9/21,y2021,T,delta,T-delta,3/28/21,12,2,S,E,5,chunks
+4/10/21,y2021,CC,delta,CC-delta,3/30/21,11,1,F,D,1,crashed and clear
+4/10/21,y2021,CC,delta,CC-delta,3/30/21,11,1,F,D,2,crashed and clear
+4/11/21,y2021,Ch,gamma,Ch-gamma,3/22/21,20,2,S,B,1,chunky
+4/11/21,y2021,T,gamma,T-gamma,3/28/21,14,1,S,E,2,"crashed, clear with skuzz"
+4/11/21,y2021,Ch,beta,Ch-beta,3/10/21,32,1,S&F,H,6,crashed and clear
+4/12/21,y2021,C,delta,C-delta,3/30/21,13,1,S,C,11,crashed and clear
+4/12/21,y2021,T,delta,T-delta,3/19/21,24,1,S,E,9,"crashed, clear, and chunky"
+4/12/21,y2021,T,beta,T-beta,3/30/21,13,1,S,I,11,crashed and chunky
+4/12/21,y2021,C,beta,C-beta,3/30/21,13,2,S,C,6,crashed and chunky
+4/13/21,y2021,CC,gamma,CC-gamma,3/19/21,25,1,S,D,8,crashed
+4/13/21,y2021,T,gamma,T-gamma,3/28/21,16,2,NA,E,1,crashed
+4/13/21,y2021,T,gamma,T-gamma,3/19/21,25,1,S,E,11,crashed
+4/13/21,y2021,T,alpha,T-alpha,4/7/21,6,0,S,I,3,crashed contaminated?
+4/13/21,y2021,T,alpha,T-alpha,4/7/21,6,0,S,I,4,crashed
+4/13/21,y2021,T,beta,T-beta,3/30/21,14,2,NA,I,10,chunky
+4/13/21,y2021,T,beta,T-beta,4/7/21,6,0,NA,I,2,crashed
+4/14/21,y2021,Ch,gamma,Ch-gamma,3/28/21,17,0,NA,B,3,crashed and clear
+4/15/21,y2021,Ch,delta,Ch-delta,3/16/21,30,1,NA,B,4,crashed and clear
+4/15/21,y2021,M,beta,M-beta,4/4/21,11,1,S,D,12,crashed and clear
+4/15/21,y2021,T,gamma,T-gamma,3/19/21,27,1,S,E,4,crashed and clear
+4/15/21,y2021,CC,alpha,CC-alpha,3/19/21,27,0,S,F,10,crashed and clear
+4/15/21,y2021,C,alpha,C-alpha,4/7/21,8,1,S,G,9,crashed and clear
+4/15/21,y2021,C,delta,C-delta,4/7/21,8,1,S,G,6,crashed and clear
+4/15/21,y2021,C,delta,C-delta,3/16/21,30,1,S,G,5,crashed and clear
+4/15/21,y2021,Ch,alpha,Ch-alpha,4/4/21,11,0,S,H,1,crashed and clear
+4/15/21,y2021,C,alpha,C-alpha,4/4/21,11,2,S,C,2,crashed and clear
+4/16/21,y2021,T,delta,T-delta,4/4/21,12,1,S,E,6,crashed and clear
+4/16/21,y2021,C,gamma,C-gamma,4/7/21,9,2,S,G,2,crashed and clear
+4/16/21,y2021,C,beta,C-beta,3/30/21,17,1,S,G,3,crashed and clear
+4/16/21,y2021,Ch,beta,Ch-beta,3/28/21,19,1,S,B,10,crashed and clear
+4/17/21,y2021,Ch,delta,Ch-delta,4/11/21,6,1,S,B,6,crashed and clear
+4/17/21,y2021,T,delta,T-delta,4/11/21,6,1,S,E,5,crashed and clear
+4/17/21,y2021,T,delta,T-delta,4/4/21,13,1,S,E,6,crashed and clear
+4/17/21,y2021,Ch,beta,Ch-beta,4/11/21,6,1,S,H,3,crashed and clear
+4/17/21,y2021,C,gamma,C-gamma,3/30/21,18,1,S,C,10,crashed and clear
+4/18/21,y2021,CC,gamma,CC-gamma,3/30/21,19,1,S,D,10,crashed and clear
+4/18/21,y2021,CC,beta,CC-beta,4/4/21,14,1,S,D,11,crashed and clear
+4/18/21,y2021,CC,beta,CC-beta,4/4/21,14,1,S,D,4,crashed and clear
+4/18/21,y2021,Ch,alpha,Ch-alpha,3/30/21,19,1,S,H,2,crashed and clear
+4/18/21,y2021,Ch,gamma,Ch-gamma,3/5/21,44,1,S,B,11,crashed and clear
+4/19/21,y2021,Ch,alpha,Ch-alpha,4/4/21,15,1,S,B,9,crashed and clear
+4/19/21,y2021,CC,gamma,CC-gamma,4/11/21,8,1,S,D,6,crashed and clear
+4/19/21,y2021,T,gamma,T-gamma,4/11/21,8,1,S,I,8,crashed and clear
+4/19/21,y2021,T,gamma,T-gamma,4/11/21,8,1,S,I,7,crashed and clear
+4/19/21,y2021,M,gamma,M-gamma,4/11/21,8,1,S,G,12,crashed and clear
+4/19/21,y2021,T,beta,T-beta,4/7/21,12,1,S,I,1,crashed and clear
+4/20/21,y2021,Ch,gamma,Ch-gamma,3/28/21,23,1,S,B,2,clear and chunky
+4/21/21,y2021,Ch,beta,Ch-beta,4/11/21,10,1,S,H,9,crashing and clear
+4/21/21,y2021,T,gamma,T-gamma,4/4/21,17,1,S,E,3,"crashing, clear, and chunky"
+4/22/21,y2021,C,alpha,C-alpha,4/4/21,18,1,S,C,1,clear and chunky
+4/22/21,y2021,T,beta,T-beta,4/15/21,7,0,S,I,11,clear and chunky
+4/22/21,y2021,Ch,alpha,Ch-alpha,4/11/21,11,0,S,H,4,clear and chunky
+4/22/21,y2021,Ch,gamma,Ch-gamma,4/11/21,11,0,S,H,6,clear and chunky
+4/22/21,y2021,M,beta,M-beta,4/20/21,2,0,NA,C,12,crashed and clear
+4/23/21,y2021,T,alpha,T-alpha,4/15/21,8,1,S,E,11,crashed and clear
+4/23/21,y2021,CC,alpha,CC-alpha,4/11/21,12,1,S,F,6,crashed and clear
+4/23/21,y2021,Ch,gamma,Ch-gamma,4/11/21,12,1,S,H,7,crashed and clear
+4/23/21,y2021,Ch,alpha,Ch-alpha,4/11/21,12,2,S,H,5,crashing and chunky
+4/23/21,y2021,CC,delta,CC-delta,4/7/21,16,2,S,F,4,crashing and chunky
+4/24/21,y2021,Ch,delta,Ch-delta,4/15/21,9,1,S,B,1,crashing and clear
+4/24/21,y2021,T,delta,T-delta,4/4/21,20,1,S,E,7,crashing and clear
+4/24/21,y2021,CC,delta,CC-delta,4/11/21,13,1,S,F,7,crashing and clear
+4/24/21,y2021,C,alpha,C-alpha,4/7/21,17,1,S,G,4,crashing and clear
+4/24/21,y2021,CC,beta,CC-beta,4/7/21,17,1,S,F,1,crashing and clear
+4/24/21,y2021,Ch,beta,Ch-beta,4/7/21,17,0,S,H,10,crashing and clear
+4/25/21,y2021,C,delta,C-delta,4/15/21,10,0,S,C,11,crashing and clear
+4/28/21,y2021,C,alpha,C-alpha,4/11/21,17,1,S,C,3,crashing and clear
+4/28/21,y2021,C,delta,C-delta,4/20/21,8,1,S,C,10,crashing and chunky
+4/28/21,y2021,Ch,delta,Ch-delta,4/7/21,21,2,S,H,11,crashing and chunky
+4/28/21,y2021,C,alpha,C-alpha,4/11/21,17,2,S,C,4,crashing and chunky
+4/29/21,y2021,T,alpha,T-alpha,4/22/21,7,2,S,E,2,corner popped
+4/30/21,y2021,T,gamma,T-gamma,4/22/21,8,2,S,E,7,"crashing, chunks"
+4/30/21,y2021,C,alpha,C-alpha,4/22/21,8,45021,S,G,5,corner popped
+5/1/21,y2021,CC,delta,CC-delta,4/7/21,24,2,S,F,3,"crashing, light"
+5/3/21,y2021,CC,gamma,CC-gamma,4/11/21,22,1,S,D,2,crashed
+5/3/21,y2021,Ch,beta,Ch-beta,4/22/21,11,5,S,H,1,"popped, great bag"
+5/3/21,y2021,C,beta,C-beta,3/30/21,34,1,S,C,5,crashed (test bag BC)
+5/4/21,y2021,CC,alpha,CC-alpha,4/4/21,30,1,S,D,4,crashed
+5/4/21,y2021,Ch,alpha,Ch-alpha,4/20/21,14,5,NA,B,9,"popped, great bag"
+5/4/21,y2021,Ch,delta,Ch-delta,3/30/21,35,2,S,B,7,crashing
+5/4/21,y2021,T,delta,T-delta,4/22/21,12,5,NA,E,6,"popped, great bag"
+5/5/21,y2021,CC,beta,CC-beta,4/22/21,13,3,NA,D,11,corner popped overnight
+5/5/21,y2021,C,gamma,C-gamma,4/11/21,24,3,S,C,9,chunky chunks
+5/6/21,y2021,C,gamma,C-gamma,4/4/21,32,1,S,G,1,"crashed, chunks"
+5/7/21,y2021,CC,alpha,CC-alpha,4/22/21,15,5,NA,D,8,"corner popped, drained"
+5/7/21,y2021,CC,alpha,CC-alpha,3/19/21,49,1,S,F,11,crashed
+5/8/21,y2021,C,alpha,C-alpha,4/27/21,11,44928,S,C,11,crashed
+5/8/21,y2021,CC,beta,CC-beta,4/7/21,31,2,S,F,2,crashed
+5/9/21,y2021,C,gamma,C-gamma,4/22/21,17,45021,S,C,2,"corner popped, drained"
+5/9/21,y2021,CC,alpha,CC-alpha,4/22/21,17,?,NA,D,7,corner popped
+5/10/21,y2021,Ch,delta,Ch-delta,4/30/21,10,5,S,H,4,corner popped
+5/13/21,y2021,Ch,?,Ch-?,4/22/21,21,3,S,B,8,chunky and crashing
+5/13/21,y2021,CC,gamma,CC-gamma,4/11/21,32,3,S,D,1,corner popped
+5/17/21,y2021,M,beta,M-beta,5/6/21,11,?,S,C,12,corner popped
+5/17/21,y2021,M,gamma,M-gamma,5/6/21,11,1,S,E,12,corner popped and crashed
+5/17/21,y2021,T,delta,T-delta,4/27/21,20,0,S,E,9,crashed and clear
+5/17/21,y2021,T,gamma,T-gamma,4/27/21,20,0,S,E,8,crashed and clear
+5/17/21,y2021,C,delta,C-delta,4/27/21,20,?,S,G,10,corner popped
+5/17/21,y2021,T,alpha,T-alpha,4/27/21,20,1,S,E,11,crashed and clear
+5/17/21,y2021,T,beta,T-beta,4/27/21,20,1,S,E,10,crashed and clear
+5/18/21,y2021,Ch,delta,Ch-delta,4/20/21,28,2,S,B,4,crashing and chunky
+5/18/21,y2021,C,beta,C-beta,5/2/21,16,2,S,C,4,crashing and chunky
+5/18/21,y2021,C,beta,C-beta,4/22/21,26,2,S,G,3,crashing and chunky
+5/21/21,y2021,T,gamma,T-gamma,4/17/21,34,1,S,E,4,crashed
+5/22/21,y2021,T,beta,T-beta,5/2/21,20,1,S,E,2,crashed
+5/22/21,y2021,T,gamma,T-gamma,5/9/21,13,1,S,E,11,crashed (LED driver out in row E)
+5/22/21,y2021,T,gamma,T-gamma,5/9/21,13,1,S,E,1,crashed
+5/25/21,y2021,T,delta,T-delta,4/17/21,38,0,S,E,5,crashed
+5/25/21,y2021,C,beta,C-beta,4/27/21,28,2,S,G,11,"chunky, crashed"
+5/25/21,y2021,CC,alpha,CC-alpha,4/22/21,33,1,S,F,5,crashed
+5/25/21,y2021,Ch,beta,Ch-beta,4/30/21,25,1,S,H,6,crashed
+5/25/21,y2021,C,beta,C-beta,5/12/21,13,1,S,C,10,crashed
+5/25/21,y2021,C,delta,C-delta,4/27/21,28,2,S,C,3,"crashed, chunky"
+5/25/21,y2021,C,gamma,C-gamma,5/12/21,13,2,S,C,5,"crashed, chunky, transferred from popped bag"
+5/26/21,y2021,C,delta,C-delta,5/9/21,17,1,S,C,11,crashed and clear
+5/26/21,y2021,CC,alpha,CC-alpha,5/18/21,8,2,S,D,7,crashed and clear
+5/27/21,y2021,T,gamma,T-gamma,4/30/21,27,1,S,E,8,crashed and clear
+5/31/21,y2021,Ch,alpha,Ch-alpha,5/13/21,18,1,S,H,5,crashed and clear
+6/3/21,y2021,T,delta,T-delta,4/15/21,49,1,S,I,5,crashed and clear
+6/3/21,y2021,CC,?,CC-?,3/27/21,68,0,S&F,D,9,crashed and clear
+6/7/21,y2021,T,delta,T-delta,5/13/21,25,0,NA,E,1,"crashed, chunky, clear"
+6/7/21,y2021,Ch,alpha,Ch-alpha,4/27/21,41,0,S,H,4,"clear, crashed"
+6/7/21,y2021,CC,beta,CC-beta,4/27/21,41,0,S,F,1,"clear, crashed"
+6/7/21,y2021,Ch,alpha,Ch-alpha,4/20/21,48,1,S,B,11,clear and crashing
+6/7/21,y2021,C,gamma,C-gamma,5/9/21,29,1,S,C,9,clear and crashing with chunks
+6/7/21,y2021,T,delta,T-delta,5/13/21,25,1,S,I,10,clear and crashing
+6/7/21,y2021,C,gamma,C-gamma,5/13/21,25,1,S,G,5,clear and crashing
+6/8/21,y2021,Ch,delta,Ch-delta,5/13/21,26,1,S,H,10,clear and crashing
+6/9/21,y2021,C,delta,C-delta,5/17/21,23,3,S,C,10,super chunky
+6/9/21,y2021,CC,gamma,CC-gamma,4/27/21,43,1,S,F,6,crashing and clear
+6/10/21,y2021,Ch,gamma,Ch-gamma,4/22/21,49,1,S,H,2,crashing and clear
+6/10/21,y2021,CC,beta,CC-beta,5/21/21,20,1,S,F,2,B:B clear and crashing
+6/10/21,y2021,Ch,beta,Ch-beta,4/20/21,51,1,S,B,10,clear and chunky
+6/11/21,y2021,CC,delta,CC-delta,5/27/21,15,3,NA,D,7,corner popped
+6/11/21,y2021,CC,gamma,CC-gamma,5/27/21,15,1,S,D,12,crashed and clear
+6/11/21,y2021,T,alpha,T-alpha,5/21/21,21,1,S,I,9,crashed and chunky
+6/14/21,y2021,Ch,alpha,Ch-alpha,5/6/21,39,0,S,B,3,crashed and clear
+6/14/21,y2021,Ch,beta,Ch-beta,1/28/21,137,1,S,B,5,"crashed chunky, RIP GRANDPA"
+6/14/21,y2021,Ch,beta,Ch-beta,5/11/21,34,1,S,B,8,crashed and clear
+6/14/21,y2021,CC,delta,CC-delta,5/3/21,42,0,S,D,2,crashed and clear
+6/14/21,y2021,Ch,beta,Ch-beta,5/18/21,27,1,S,D,1,crashed and clear
+6/16/21,y2021,CC,alpha,CC-alpha,4/27/21,50,2,S,F,7,crashed and clear
+6/16/21,y2021,Ch,gamma,Ch-gamma,4/30/21,47,2,S&F,H,3,crashing and chunky
+6/20/21,y2021,C,alpha,C-alpha,5/27/21,24,2,S&F,C,3,crashing
+6/20/21,y2021,Ch,beta,Ch-beta,1/28/21,143,1,S,B,2,crashing
+6/22/21,y2021,CC,delta,CC-delta,4/22/21,61,0,S,D,3,"crashed, clear"
+6/22/21,y2021,CC,beta,CC-beta,4/22/21,61,0,S,D,11,"crashed, clear"
+6/22/21,y2021,Ch,beta,Ch-beta,1/28/21,145,?,S,B,7,"blue, green chunky"
+6/22/21,y2021,C,gamma,C-gamma,4/17/21,66,3,S,C,7,huge chunks
+6/23/21,y2021,M,delta,M-delta,5/27/21,27,2,S,C,12,funky color
+6/24/21,y2021,C,alpha,C-alpha,6/4/21,20,1,S,G,9,chunky and light
+6/24/21,y2021,T,alpha,T-alpha,6/11/21,13,2,S,I,9,chunky and light
+6/24/21,y2021,M,alpha,M-alpha,6/23/21,1,4,NA,C,12,airline pulled and drained
+6/25/21,y2021,M,delta,M-delta,6/16/21,9,2,S,I,12,clear and crashing
+6/25/21,y2021,T,beta,T-beta,5/12/21,44,3,S,I,4,chunky
+6/29/21,y2021,Ch,beta,Ch-beta,4/17/21,73,4,NA,B,3,popped bag
+6/30/21,y2021,M,gamma,M-gamma,6/25/21,5,0,NA,C,12,crashed
+6/30/21,y2021,M,gamma,M-gamma,6/8/21,22,0,NA,G,12,crashed
+6/30/21,y2021,M,alpha,M-alpha,6/16/21,14,0,NA,J,12,crashed
+7/2/21,y2021,CC,delta,CC-delta,5/22/21,41,1,S,D,1,crashed B:B
+7/2/21,y2021,CC,gamma,CC-gamma,6/11/21,21,2,S,D,7,crashed B:B
+7/2/21,y2021,Ch,gamma,Ch-gamma,5/10/21,53,1,S,H,88,crashed
+7/2/21,y2021,Ch,beta,Ch-beta,6/25/21,7,1,S,H,10,corner popped B:B
+7/2/21,y2021,Ch,gamma,Ch-gamma,6/11/21,21,0,S,H,2,crashed B:B
+7/5/21,y2021,C,beta,C-beta,6/23/21,12,3,NA,C,3,popped corner
+7/5/21,y2021,CC,gamma,CC-gamma,4/4/21,92,3,S,D,6,"gross, chunky"
+7/5/21,y2021,C,beta,C-beta,6/25/21,10,NA,NA,J,6,popped corner
+7/6/21,y2021,Ch,beta,Ch-beta,6/11/21,25,0,S,B,0,crashed
+7/7/21,y2021,Ch,delta,Ch-delta,5/27/21,41,1,S,H,6,crashing
+7/7/21,y2021,Ch,beta,Ch-beta,5/13/21,55,1,S,H,9,crashing
+7/7/21,y2021,CC,delta,CC-delta,5/12/21,56,2,S,D,2,crashing
+7/8/21,y2021,Ch,delta,Ch-delta,5/9/21,60,1,S,B,9,crashed
+7/8/21,y2021,Ch,delta,Ch-delta,6/23/21,15,NA,NA,B,7,corner popped
+7/8/21,y2021,CC,gamma,CC-gamma,4/18/21,81,0,S,F,8,crashed
+7/9/21,y2021,C,gamma,C-gamma,6/4/21,35,2,S,G,11,huge chunks
+7/9/21,y2021,T,delta,T-delta,6/25/21,14,1,NA,I,4,corner popped
+7/9/21,y2021,Ch,alpha,Ch-alpha,7/2/21,7,3,NA,H,2,corner popped
+7/10/21,y2021,Ch,alpha,Ch-alpha,7/5/21,5,1,S,H,12,"crashed, light, super scuzzy"
+7/11/21,y2021,Ch,gamma,Ch-gamma,5/18/21,54,1,S&F,H,11,"clear, crashed"
+7/11/21,y2021,C,gamma,C-gamma,7/2/21,9,5,NA,K,1,corner popped
+7/12/21,y2021,C,gamma,C-gamma,6/8/21,34,1,S,C,9,crashed
+7/12/21,y2021,CC,delta,CC-delta,5/12/21,61,2,S,D,4,crashing
+7/12/21,y2021,CC,beta,CC-beta,5/3/21,70,1,S,F,3,crashed
+7/12/21,y2021,CC,delta,CC-delta,6/1/21,41,1,S,F,1,crashed
+7/12/21,y2021,CC,delta,CC-delta,4/27/21,76,1,S,F,4,crashed
+7/12/21,y2021,CC,gamma,CC-gamma,6/16/21,26,1,S,F,7,crashed B:B
+7/12/21,y2021,CC,gamma,CC-gamma,4/22/21,81,1,S,F,9,crashed
+7/12/21,y2021,M,delta,M-delta,6/25/21,17,1,S,I,12,crashed
+7/13/21,y2021,CC,gamma,CC-gamma,5/14/21,60,1,S,F,12,crashed and chunky
+7/13/21,y2021,Ch,alpha,Ch-alpha,6/25/21,18,0,S,H,4,clear and crashed
+7/13/21,y2021,T,delta,T-delta,5/10/21,64,1,S,I,2,crashed
+7/14/21,y2021,T,alpha,T-alpha,6/4/21,40,4,S,E,5,huge chunks
+7/14/21,y2021,C,alpha,C-alpha,6/8/21,36,3,S,G,5,chunky and crashing
+7/15/21,y2021,Ch,beta,Ch-beta,4/17/21,89,1,S,B,3,crashed B:B
+7/15/21,y2021,C,beta,C-beta,4/17/21,89,2,S,C,6,white chunks
+7/15/21,y2021,C,beta,C-beta,7/5/21,10,3,NA,C,3,"corner popped, drained"
+7/17/21,y2021,T,beta,T-beta,5/27/21,51,2,S,E,4,crashing
+7/17/21,y2021,M,beta,M-beta,7/16/21,1,2,NA,F,12,mono on diatom row
+7/20/21,y2021,Ch,alpha,Ch-alpha,6/4/21,46,1,S,H,5,crashed
+7/20/21,y2021,Ch,alpha,Ch-alpha,6/8/21,42,0,S,B,11,crashed
+7/20/21,y2021,Ch,gamma,Ch-gamma,5/27/21,54,0,S,B,12,crashed
+7/20/21,y2021,CC,gamma,CC-gamma,5/13/21,68,0,S,D,8,crashed
+7/20/21,y2021,M,delta,M-delta,7/5/21,15,0,NA,J,12,crashed
+7/21/21,y2021,C,beta,C-beta,7/5/21,16,4,S,C,3,corner popped
+7/21/21,y2021,C,alpha,C-alpha,7/5/21,16,4,S,J,6,corner popped
+7/22/21,y2021,C,gamma,C-gamma,5/21/21,62,3,S,G,8,super chunky
+7/22/21,y2021,T,gamma,T-gamma,7/9/21,13,1,S,I,4,crashed
+7/22/21,y2021,CC,alpha,CC-alpha,7/2/21,20,1,S,D,12,crashed
+7/23/21,y2021,Ch,alpha,Ch-alpha,6/23/21,30,1,S,B,2,crashed
+7/23/21,y2021,Ch,gamma,Ch-gamma,6/23/21,30,1,S,B,8,crashed
+7/23/21,y2021,M,alpha,M-alpha,7/5/21,18,1,S,C,12,crashed
+7/23/21,y2021,CC,delta,CC-delta,4/22/21,92,1,S,D,5,crashed
+7/23/21,y2021,CC,delta,CC-delta,7/9/21,14,1,S,D,6,crashed
+7/24/21,y2021,Ch,beta,Ch-beta,7/9/21,15,1,S,B,9,crashed
+7/24/21,y2021,Ch,alpha,Ch-alpha,7/5/21,19,1,S,H,3,crashed
+7/24/21,y2021,T,delta,T-delta,7/2/21,22,3,S,K,11,corner popped
+7/25/21,y2021,M,alpha,M-alpha,6/4/21,51,0,S,E,12,crashed
+7/25/21,y2021,CC,delta,CC-delta,4/18/21,98,1,S,F,10,crashed
+7/25/21,y2021,C,beta,C-beta,5/18/21,68,2,S,G,1,crashing and chunky
+7/25/21,y2021,Ch,gamma,Ch-gamma,7/2/21,23,1,S,H,8,crashed
+7/26/21,y2021,Ch,alpha,Ch-alpha,7/20/21,6,NA,NA,B,3,corner popped
+7/26/21,y2021,C,alpha,C-alpha,7/20/21,6,NA,NA,G,11,corner popped
+7/28/21,y2021,Ch,beta,Ch-beta,7/26/21,2,0,NA,B,3,crashed
+7/28/21,y2021,Ch,alpha,Ch-alpha,7/23/21,5,0,NA,B,8,crashed
+7/28/21,y2021,Ch,gamma,Ch-gamma,7/26/21,2,0,NA,H,3,crashed
+7/28/21,y2021,M,alpha,M-alpha,7/2/21,26,0,NA,G,12,crashed
+7/28/21,y2021,M,delta,M-delta,7/23/21,5,0,NA,C,12,crashed
+7/30/21,y2021,CC,gamma,CC-gamma,7/2/21,28,1,S,D,11,crashed
+7/30/21,y2021,T,gamma,T-gamma,7/20/21,10,1,S,E,4,crashed
+7/30/21,y2021,CC,gamma,CC-gamma,7/23/21,7,1,S,F,3,B:B crashed
+7/30/21,y2021,CC,beta,CC-beta,5/18/21,73,1,S,F,5,crashed
+8/2/21,y2021,Ch,beta,Ch-beta,6/16/21,47,1,NA,B,5,B:B crashed
+8/2/21,y2021,CC,beta,CC-beta,7/23/21,10,0,NA,D,6,B:B crashed
+8/2/21,y2021,CC,gamma,CC-gamma,7/20/21,13,0,S&F,F,2,crashed
+8/3/21,y2021,CC,beta,CC-beta,5/21/21,74,4,NA,F,7,corner popped
+8/4/21,y2021,CC,alpha,CC-alpha,7/26/21,9,1,S,G,1,crashed
+8/4/21,y2021,C,alpha,C-alpha,4/17/21,109,1,S,B,3,crashed
+8/5/21,y2021,Ch,beta,Ch-beta,5/19/21,78,1,S,B,9,crashed B:B
+8/6/21,y2021,Ch,beta,Ch-beta,5/13/21,85,1,S,B,6,crashed
+8/6/21,y2021,Ch,beta,Ch-beta,5/23/21,75,1,S,G,4,crashing and chunky B:B
+8/6/21,y2021,C,alpha,C-alpha,6/4/21,63,2,S,G,4,chunky and gross
+8/6/21,y2021,C,alpha,C-alpha,5/27/21,71,2,S,E,9,chunky and gross B:B
+8/6/21,y2021,T,delta,T-delta,8/1/21,5,2,S,E,8,chunky and gross
+8/6/21,y2021,T,alpha,T-alpha,8/1/21,5,2,S,G,2,chunky and gross
+8/11/21,y2021,C,gamma,C-gamma,8/1/21,10,4,S,H,8,corner popped
+8/11/21,y2021,Ch,delta,Ch-delta,8/1/21,10,NA,S,E,3,corner popped
+8/12/21,y2021,T,beta,T-beta,8/1/21,11,1,S,G,4,crashed
+8/12/21,y2021,C,delta,C-delta,8/1/21,11,1,S,B,1,crashed
+8/12/21,y2021,Ch,alpha,Ch-alpha,8/1/21,11,4,NA,B,3,corner popped B:B
+8/13/21,y2021,Ch,alpha,Ch-alpha,7/9/21,35,2,S,C,7,crashed
+8/13/21,y2021,C,gamma,C-gamma,4/17/21,118,4,S,H,8,super chunky with white flakes
+8/13/21,y2021,Ch,alpha,Ch-alpha,7/23/21,21,1,S,H,12,crashed
+8/13/21,y2021,Ch,alpha,Ch-alpha,5/10/21,95,1,S,I,7,crashed
+8/13/21,y2021,M,alpha,M-alpha,7/20/21,24,1,S,B,12,crashed
+8/13/21,y2021,Ch,gamma,Ch-gamma,8/5/21,8,4,NA,B,5,corner popped
+8/14/21,y2021,C,alpha,C-alpha,5/27/21,79,3,S,C,5,super chunky
+8/14/21,y2021,CC,gamma,CC-gamma,6/8/21,67,1,S,D,9,crashed
+8/14/21,y2021,CC,alpha,CC-alpha,6/23/21,52,1,S,D,3,crashed
+8/14/21,y2021,CC,delta,CC-delta,6/21/21,54,1,S,L,1,crashed
+8/14/21,y2021,C,alpha,C-alpha,8/1/21,13,3,NA,G,11,corner popped
+8/16/21,y2021,CC,beta,CC-beta,4/22/21,116,1,S,D,8,crashed
+8/16/21,y2021,CC,alpha,CC-alpha,7/26/21,21,1,S,F,10,crashed
+8/16/21,y2021,T,gamma,T-gamma,8/5/21,11,4,NA,K,1,corner popped
+8/16/21,y2021,C,alpha,C-alpha,5/27/21,81,2,S,C,10,chunky and gross
+8/18/21,y2021,C,alpha,C-alpha,5/10/21,100,2,S,C,2,chunky
+8/18/21,y2021,CC,alpha,CC-alpha,6/23/21,56,2,S,D,5,chunky and crashing
+8/19/21,y2021,C,gamma,C-gamma,5/13/21,98,2,S,G,6,chunky
+8/19/21,y2021,CC,alpha,CC-alpha,6/11/21,69,1,S,F,6,chunky and crashing
+8/19/21,y2021,CC,alpha,CC-alpha,6/23/21,57,1,S,D,5,chunky
+8/23/21,y2021,Ch,beta,Ch-beta,7/20/21,34,1,S,B,10,crashed
+8/23/21,y2021,Ch,alpha,Ch-alpha,8/9/21,14,1,NA,B,4,crashed and corner popped
+8/23/21,y2021,C,beta,C-beta,8/19/21,4,4,NA,C,10,corner popped
+8/23/21,y2021,T,gamma,T-gamma,8/19/21,4,1,NA,E,2,corner popped
+8/23/21,y2021,Ch,alpha,Ch-alpha,8/19/21,4,1,NA,H,2,corner popped
+8/23/21,y2021,C,alpha,C-alpha,8/5/21,18,3,S,J,6,corner popped
+8/23/21,y2021,T,alpha,T-alpha,8/1/21,22,4,S,K,11,corner popped
+8/24/21,y2021,CC,beta,CC-beta,6/21/21,64,2,S,L,2,crashed and chunky
+8/25/21,y2021,C,beta,C-beta,5/17/21,100,2,S,C,11,super chunky
+8/25/21,y2021,T,delta,T-delta,6/8/21,78,2,S,E,11,chunky
+8/25/21,y2021,T,beta,T-beta,5/18/21,99,2,S,E,10,chunky
+8/25/21,y2021,CC,delta,CC-delta,4/18/21,129,1,S,F,11,chunky and crashing
+8/25/21,y2021,C,delta,C-delta,8/15/21,10,1,S,G,11,chunky and crashing
+8/25/21,y2021,C,alpha,C-alpha,6/21/21,65,NA,S,J,4,drained
+8/26/21,y2021,C,gamma,C-gamma,8/19/21,7,3,S,G,8,corner popped
+8/26/21,y2021,C,delta,C-delta,8/19/21,7,3,S,G,9,corner popped
+3/26/22,y2022,M,delta,M-delta,3/6/22,20,1,S,I,12,Crashing from dropping bag.
+3/26/22,y2022,M,alpha,M-alpha,3/6/22,20,1,S,J,12,Crashing from dropping bag.
+3/26/22,y2022,C,delta,C-delta,3/4/22,22,2,S,G,11,Skuzzy and chunky.
+4/6/22,y2022,C,alpha,C-alpha,3/4/22,33,1,S,G,12,Light and skuzzy.
+4/9/22,y2022,M,beta,M-beta,3/29/22,11,1,S,J,12,Crashing and skuzzy.
+4/9/22,y2022,M,gamma,M-gamma,3/29/22,11,1,S,L,12,Crashing and skuzzy.
+4/10/22,y2022,C,beta,C-beta,3/3/22,38,2,S,G,10,Crashing and skuzzy.
+4/10/22,y2022,C,beta,C-beta,3/24/22,17,2,S,I,10,Crashing and skuzzy.
+4/12/22,y2022,Ch,gamma,Ch-gamma,3/3/22,40,1,S,B,7,"Clear, but not skuzzy or chunky."
+4/12/22,y2022,CC,alpha,CC-alpha,3/13/22,30,1,S,E,3,""""""
+4/12/22,y2022,C,delta,C-delta,3/27/22,16,1,S,I,11,""""""
+4/17/22,y2022,Ch,delta,Ch-delta,3/6/22,42,1,S,B,10,Light and crashing.
+4/17/22,y2022,T,delta,T-delta,3/4/22,44,1,S,H,12,""""""
+4/17/22,y2022,C,delta,C-delta,3/13/22,35,1,S,I,4,""""""
+4/17/22,y2022,T,gamma,T-gamma,3/24/22,24,1,S,J,9,""""""
+4/17/22,y2022,T,beta,T-beta,3/29/22,19,1,S,L,2,""""""
+4/20/22,y2022,M,alpha,M-alpha,4/6/22,14,1,S,I,12,Light and crashed.
+4/25/22,y2022,CC,alpha,CC-alpha,3/27/22,29,1,S,E,12,Light and crashing.
+4/25/22,y2022,CC,gamma,CC-gamma,3/24/22,32,1,S,E,9,Light and crashing.
+4/25/22,y2022,Ch,delta,Ch-delta,3/21/22,35,1,S,D,6,Light and crashing.
+4/25/22,y2022,C,gamma,C-gamma,3/24/22,32,1,S,I,9,Light and crashing.
+4/25/22,y2022,M,delta,M-delta,4/6/22,19,1,S,K,12,Light and crashing.
+4/26/22,y2022,T,gamma,T-gamma,3/24/22,33,1,S,J,10,Light and crashing.
+4/26/22,y2022,T,alpha,T-alpha,3/27/22,30,1,S,J,11,""""""
+4/26/22,y2022,C,delta,C-delta,3/20/22,37,3,S,I,7,Skuzzy and chunky.
+4/26/22,y2022,C,alpha,C-alpha,3/27/22,30,1,S,G,11,Light and crashing.
+4/26/22,y2022,Ch,delta,Ch-delta,3/27/22,30,1,S,D,10,""""""
+4/26/22,y2022,Ch,beta,Ch-beta,3/9/22,48,1,S,B,12,""""""
+4/26/22,y2022,CC,alpha,CC-alpha,2/27/22,58,1,S,C,8,""""""
+5/1/22,y2022,CC,gamma,CC-gamma,4/6/22,25,0,S,F,6,Crashed and clear.
+5/1/22,y2022,CC,beta,CC-beta,3/17/22,45,0,S,E,6,""""""
+5/2/22,y2022,CC,gamma,CC-gamma,2/8/22,83,0,S,C,4,Crashed and clear.
+5/2/22,y2022,CC,alpha,CC-alpha,2/24/22,67,0,S,C,6,""""""
+5/2/22,y2022,CC,delta,CC-delta,2/27/22,64,0,S,C,7,""""""
+5/2/22,y2022,CC,beta,CC-beta,3/9/22,54,0,S,E,2,""""""
+5/2/22,y2022,CC,gamma,CC-gamma,3/17/22,46,0,S,E,5,""""""
+5/2/22,y2022,Ch,gamma,Ch-gamma,3/17/22,46,0,S,D,3,""""""
+5/2/22,y2022,M,beta,M-beta,4/17/22,15,0,S,G,12,""""""
+5/2/22,y2022,M,gamma,M-gamma,4/17/22,15,0,S,J,12,""""""
+5/4/22,y2022,Ch,gamma,Ch-gamma,3/29/22,36,1,S,D,11,Crashing and clear.
+5/4/22,y2022,Ch,beta,Ch-beta,3/29/22,36,0,S,D,12,""""""
+5/4/22,y2022,C,delta,C-delta,4/11/22,23,2,S,G,10,Crashing and chunky.
+5/4/22,y2022,T,alpha,T-alpha,3/4/22,61,2,S,H,11,""""""
+5/4/22,y2022,T,gamma,T-gamma,4/12/22,22,2,S,J,9,""""""
+5/6/22,y2022,M,gamma,M-gamma,4/25/22,11,1,S,K,11,Crashed and clear.
+5/8/22,y2022,Ch,gamma,Ch-gamma,2/18/22,79,1,S,B,2,Crashed and clear.
+5/8/22,y2022,CC,beta,CC-beta,2/18/22,79,2,S,C,3,Crashed and skuzzy.
+5/8/22,y2022,Ch,beta,Ch-beta,3/17/22,52,0,S,D,4,Crashed and clear.
+5/8/22,y2022,CC,alpha,CC-alpha,3/17/22,52,1,S,F,11,Crashed and clear.
+5/9/22,y2022,CC,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5/9/22,y2022,CC,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5/9/22,y2022,Ch,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5/9/22,y2022,Ch,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5/12/22,y2022,Ch,beta,Ch-beta,2/18/22,83,0,S,B,1,Clear and crashed.
+5/12/22,y2022,CC,alpha,CC-alpha,2/18/22,83,0,S,C,1,""""""
+5/12/22,y2022,CC,gamma,CC-gamma,3/3/22,70,0,S,C,9,""""""
+5/12/22,y2022,M,alpha,M-alpha,4/22/22,20,1,S,I,12,Chunky and clear.
+5/15/22,y2022,C,beta,C-beta,4/26/22,19,1,S,G,11,Chunky and crashing.
+5/15/22,y2022,C,delta,C-delta,4/26/22,19,2,S,I,9,Chunky and crashing.
+5/15/22,y2022,T,beta,T-beta,3/3/22,73,2,S,H,10,""""""
+5/15/22,y2022,T,delta,T-delta,4/25/22,20,2,S,L,12,""""""
+5/15/22,y2022,T,alpha,T-alpha,4/22/22,23,2,S,L,2,""""""
+5/16/22,y2022,M,beta,M-beta,5/2/22,14,0,S,G,12,Crashed and clear.
+5/20/22,y2022,M,alpha,M-alpha,5/6/22,14,0,S,K,12,""""""
+5/20/22,y2022,M,delta,M-delta,5/6/22,14,0,S,J,12,""""""
+5/20/22,y2022,C,alpha,C-alpha,3/20/22,61,0,S,E,7,""""""
+5/20/22,y2022,CC,delta,CC-delta,3/13/22,68,0,S,E,4,""""""
+5/24/22,y2022,CC,delta,CC-delta,2/18/22,95,0,S,D,2,Clear and crashed.
+5/24/22,y2022,Ch,alpha,Ch-alpha,3/27/22,58,0,S,D,9,Crashed and clear.
+5/24/22,y2022,CC,beta,CC-beta,4/12/22,42,0,S,F,9,Crashed and clear.
+5/24/22,y2022,M,delta,M-delta,4/22/22,32,0,S,H,12,Crashed and clear.
+5/27/22,y2022,CC,delta,CC-delta,5/9/22,18,0,S,E,5,Crashed and clear.
+5/29/22,y2022,M,alpha,M-alpha,5/16/22,13,0,S,L,12,Crashed and clear.
+5/29/22,y2022,M,delta,M-delta,5/16/22,13,0,S,I,12,Crashed and clear.
+5/29/22,y2022,T,gamma,T-gamma,5/6/22,23,0,S,H,11,Clear and crashed.
+5/31/22,y2022,Ch,delta,Ch-delta,4/25/22,36,0,S,D,6,Clear and crashed.
+6/1/22,y2022,Ch,alpha,Ch-alpha,5/24/22,8,0,S,D,3,Clear and crashed.
+6/3/22,y2022,Ch,alpha,Ch-alpha,4/17/22,47,1,S,A,9,Clear and chunky.
+6/3/22,y2022,Ch,beta,Ch-beta,4/6/22,58,0,S,F,5,Crashed and clear.
+6/6/22,y2022,CC,alpha,CC-alpha,5/2/22,35,0,S,C,6,Crashed and clear.
+6/6/22,y2022,CC,gamma,CC-gamma,2/19/22,107,1,S,C,5,Crashed and clear > Grandpa.
+6/6/22,y2022,CC,beta,CC-beta,3/24/22,74,0,S,E,10,Crashed and clear.
+6/6/22,y2022,CC,alpha,CC-alpha,4/25/22,42,1,S,E,9,Crashed and clear.
+6/6/22,y2022,CC,gamma,CC-gamma,3/9/22,89,0,S,E,1,Crashed and clear.
+6/6/22,y2022,CC,alpha,CC-alpha,4/11/22,56,0,S & F,F,8,Crashed and clear.
+6/9/22,y2022,Ch,gamma,Ch-gamma,4/26/22,44,0,S,D,10,Crashed and clear.
+6/9/22,y2022,CC,delta,CC-delta,4/25/22,45,1,S,E,12,Crashing and clear.
+6/9/22,y2022,CC,delta,CC-delta,4/3/22,67,1,S,F,3,Crashing and clear.
+6/9/22,y2022,M,beta,M-beta,5/28/22,12,0,S,H,12,Crashing and clear.
+6/9/22,y2022,T,delta,T-delta,4/17/22,53,1,S,J,9,Crashing and clear.
+6/10/22,y2022,Ch,alpha,Ch-alpha,4/25/22,46,3,S,B,10,Super chunky.
+6/14/22,y2022,M,alpha,M-gamma,2/27/22,107,1,S,B,6,Clear and crashed.
+6/14/22,y2022,M,gamma,M-alpha,5/28/22,17,1,S,G,12,Corner popped and crashed.
+6/14/22,y2022,M,alpha,M-alpha,6/4/22,10,1,S & F,I,12,Clear and crashing.
+6/16/22,y2022,Ch,beta,Ch-gamma,4/12/22,65,1,S,A,7,Crashing and clear.
+6/16/22,y2022,Ch,gamma,Ch-gamma,5/6/22,41,2,S,D,12,Chunky.
+6/16/22,y2022,M,delta,M-delta,6/4/22,12,0,S,J,12,Crashed and clear.
+6/16/22,y2022,T,gamma,T-gamma,6/1/22,15,1,S,H,11,Clear and chunky.
+6/22/22,y2022,CC,delta,CC-delta,4/7/22,76,1,S,E,3,Clear and crashed.
+6/22/22,y2022,CC,delta,CC-delta,4/11/22,72,1,S,F,7,Clear and crashed.
+6/22/22,y2022,T,beta,T-beta,4/12/22,71,1,S,L,10,Clear and chunky.
+6/26/22,y2022,M,beta,M-beta,6/14/22,12,0,S,H,12,Clear and crashed.
+6/26/22,y2022,M,delta,M-delta,6/14/22,12,0,S,G,12,Clear and crashed.
+6/26/22,y2022,T,gamma,T-gamma,3/6/22,112,1,S,J,1,Clear and chunky.
+6/26/22,y2022,CC,alpha,CC-alpha,5/28/22,29,1,S,D,9,Clear and crashing.
+6/26/22,y2022,C,gamma,C-gamma,4/26/22,61,2,S,K,11,Crashing and chunky.
+7/4/22,y2022,CC,beta,CC-beta,5/6/22,59,1,S,C,4,Clear and chunky.
+7/4/22,y2022,Ch,alpha,Ch-alpha,6/1/22,33,2,S,D,6,Clear and crashing.
+7/4/22,y2022,CC,delta,CC-delta,5/28/22,37,0,S,E,5,Clear and crashed.
+7/4/22,y2022,CC,delta,CC-delta,3/21/22,105,1,S,E,8,Clear and crashing.
+7/4/22,y2022,CC,beta,CC-beta,4/22/22,73,2,S,F,12,Clear and chunky.
+7/4/22,y2022,CC,gamma,CC-gamma,3/29/22,97,1,S,F,1,Clear and crashed.
+7/4/22,y2022,C,delta,C-delta,2/19/22,135,3,S,G,6,Drained and skuzzy.
+7/4/22,y2022,C,alpha,C-alpha,4/17/22,78,2,S,I,11,Chunky and light.
+7/8/22,y2022,Ch,alpha,Ch-alpha,5/28/22,41,NA,S,C,2,Corner popped.
+7/8/22,y2022,CC,beta,CC-beta,5/15/22,54,2,S,C,9,Clear and crashing.
+7/8/22,y2022,Ch,beta,Ch-beta,2/24/22,134,2,S,B,4,""""""
+7/8/22,y2022,Ch,alpha,Ch-alpha,5/9/22,60,2,S,B,2,""""""
+7/8/22,y2022,CC,alpha,CC-alpha,4/3/22,96,1,S,F,9,""""""
+7/8/22,y2022,T,delta,T-delta,6/14/22,24,2,S,J,9,""""""
+7/8/22,y2022,M,alpha,M-alpha,6/26/22,12,1,S,G,12,""""""
+7/8/22,y2022,C,gamma,C-gamma,5/15/22,54,4,S,I,9,Chunky.
+7/15/22,y2022,Ch,delta,Ch-delta,2/24/22,141,2,S,B,3,Crashing and clear.
+7/15/22,y2022,CC,alpha,CC-alpha,5/16/22,60,1,S,C,1,""""""
+7/15/22,y2022,CC,beta,CC-beta,6/4/22,41,1,S,E,2,""""""
+7/15/22,y2022,CC,alpha,CC-alpha,5/9/22,67,1,S,E,6,""""""
+7/17/22,y2022,Ch,gamma,Ch-gamma,4/6/22,102,1,S,A,4,Crashed and clear.
+7/17/22,y2022,Ch,beta,Ch-beta,5/6/22,72,2,S,D,11,Crashing and chunky.
+7/17/22,y2022,T,beta,T-beta,4/26/22,82,2,S,J,11,""""""
+7/17/22,y2022,C,delta,C-delta,6/26/22,21,1,S,K,11,Crashed and clear.
+7/17/22,y2022,CC,delta,CC-delta,5/2/22,76,1,S,C,7,""""""
+7/17/22,y2022,CC,delta,CC-delta,6/4/22,43,1,S,F,11,""""""
+7/21/22,y2022,Ch,alpha,Ch-alpha,7/8/22,13,1,S,D,11,Crashing and clear.
+7/22/22,y2022,T,delta,T-delta,3/24/22,120,0,S,L,3,"Clear, chunks, and crashed."
+7/22/22,y2022,T,gamma,T-gamma,3/17/22,127,0,S,J,5,""""""
+7/22/22,y2022,Ch,gamma,Ch-gamma,4/12/22,101,0,S,A,8,""""""
+7/22/22,y2022,Ch,beta,Ch-beta,5/15/22,68,5,,B,1,"Great bag, but leaking a lot from belly button. Drained into algae sump."
+7/24/22,y2022,Ch,beta,Ch-beta,6/4/22,50,0,S,A,9,Clear and crashed.
+7/24/22,y2022,CC,gamma,CC-gamma,5/21/22,64,0,S,E,4,""""""
+7/25/22,y2022,CC,gamma,CC-gamma,6/14/22,41,0,S,C,5,""""""
+7/25/22,y2022,CC,delta,CC-delta,6/14/22,41,0,S,C,6,""""""
+7/25/22,y2022,CC,delta,CC-delta,6/22/22,33,0,S,D,12,""""""
+7/25/22,y2022,Ch,delta,Ch-delta,3/13/22,134,0,S,D,1,""""""
+7/25/22,y2022,Ch,delta,Ch-delta,5/9/22,77,0,S,D,4,""""""
+7/25/22,y2022,Ch,alpha,Ch-alpha,3/20/22,127,0,S,D,5,""""""
+7/25/22,y2022,Ch,beta,Ch-beta,3/24/22,123,0,S,E,7,""""""
+7/25/22,y2022,CC,delta,CC-delta,3/27/22,120,0,S,F,11,""""""
+7/25/22,y2022,CC,gamma,CC-gamma,4/12/22,104,0,S,H,10,""""""
+7/25/22,y2022,T,beta,T-beta,6/22/22,33,1,S,J,11,""""""
+7/25/22,y2022,T,alpha,T-alpha,6/26/22,29,0,S,J,1,""""""
+7/25/22,y2022,T,gamma,T-gamma,7/10/22,15,0,S,L,9,""""""
+7/25/22,y2022,T,delta,T-delta,3/27/22,120,0,S,L,1,""""""
+7/25/22,y2022,T,beta,T-beta,5/15/22,71,0,S,L,2,""""""
+7/25/22,y2022,T,beta,T-beta,5/6/22,80,0,S,L,9,""""""
+7/28/22,y2022,CC,beta,CC-beta,5/21/22,68,0,S,E,7,Clear and crashed.
+8/2/22,y2022,Ch,alpha,Ch-alpha,7/22/22,11,0,S,A,8,Crashed.
+8/2/22,y2022,T,delta,T-delta,7/17/22,16,0,S,J,11,""""""
+8/2/22,y2022,T,delta,T-delta,7/22/22,11,0,S,J,15,""""""
+8/2/22,y2022,Ch,delta,Ch-delta,4/11/22,113,0,S,A,6,""""""
+8/2/22,y2022,T,gamma,T-gamma,7/17/22,16,,S,J,12,""""""
+8/2/22,y2022,Ch,gamma,Ch-gamma,7/5/22,28,1,S,D,6,""""""
+8/2/22,y2022,C,beta,C-beta,7/10/22,23,,,I,9,""""""
+8/2/22,y2022,CC,beta,CC-beta,6/22/22,41,,,E,10,""""""
+8/6/22,y2022,Ch,alpha,Ch-alpha,3/4/22,155,0,,B,9,Clear and crashed.
+8/6/22,y2022,CC,gamma,CC-gamma,6/26/22,41,0,S,E,10,Clear and crashed.
+8/6/22,y2022,Ch,delta,Ch-delta,7/31/22,6,0,,D,7,Clear and crashed.
+8/6/22,y2022,C,alpha,C-alpha,7/17/22,20,0,,K,11,Clear and crashed.
+8/9/22,y2022,Ch,delta,Ch-delta,6/27/22,43,0,S,A,7,Clear and crashed.
+8/9/22,y2022,CC,delta,CC-delta,7/5/22,35,0,S,C,4,""""""
+8/9/22,y2022,Ch,gamma,Ch-gamma,6/26/22,44,0,S,D,9,Clear and chunky.
+8/9/22,y2022,CC,gamma,CC-gamma,7/5/22,35,0,S,E,8,Clear and crashed.
+8/9/22,y2022,T,beta,T-beta,2/19/22,171,2,S,H,6,Grandma! Super chunky.
+8/9/22,y2022,T,beta,T-beta,7/22/22,18,0,S,L,3,Clear and crashed.
+8/12/22,y2022,Ch,gamma,Ch-gamma,8/6/22,6,3,,A,9,Popped corner. Drained into bucket.
+8/14/22,y2022,CC,alpha,CC-alpha,7/5/22,40,0,,E,5,Crashed and clear.
+8/14/22,y2022,CC,beta,CC-beta,7/10/22,35,0,,F,4,Clear and crashed.
+8/14/22,y2022,C,beta,C-beta,7/5/22,40,2,,I,11,"Crashing, chunky and needed room."
+8/20/22,y2022,Ch,alpha,Ch-alpha,7/16/22,35,0,,A,1,Clear and crashed.
+8/20/22,y2022,CC,alpha,CC-alpha,8/6/22,14,NA,,C,6,Corner popped.
+8/20/22,y2022,Ch,beta,Ch-beta,6/14/22,67,0,,B,10,Clear and crashed.
+8/20/22,y2022,Ch,beta,Ch-beta,6/22/22,59,0,,D,10,""""""
+8/20/22,y2022,C,alpha,C-alpha,4/11/22,131,0,S,I,10,"Clear, crashed, and chunky."
+8/20/22,y2022,C,alpha,C-alpha,7/5/22,46,4,S,G,6,Super chunky.
+8/24/22,y2022,Ch,alpha,Ch-alpha,4/11/22,135,0,,A,5,Crashed.
+8/24/22,y2022,Ch,delta,Ch-delta,6/14/22,71,0,,B,6,""""""
+8/24/22,y2022,Ch,alpha,Ch-alpha,6/26/22,59,0,S & F,D,12,""""""
+8/24/22,y2022,C,alpha,C-alpha,5/2/22,114,4,S,I,7,Chunky.
+8/24/22,y2022,C,alpha,C-alpha,4/22/22,124,4,S,I,4,Chunky.
+8/24/22,y2022,CC,gamma,CC-gamma,7/17/22,38,0,S & F,C,1,Crashed.
+8/25/22,y2022,Ch,alpha,Ch-alpha,3/13/22,165,1,S,D,2,Crashed.
+8/25/22,y2022,CC,delta,CC-delta,7/22/22,34,0,,F,1,""""""
+8/25/22,y2022,C,alpha,C-alpha,7/31/22,25,3,S,G,12,Needed room and chunky.
+8/25/22,y2022,M,delta,M-delta,8/14/22,11,0,,J,12,Crashed.
+9/2/22,y2022,Ch,gamma,Ch-gamma,8/24/22,9,0,,B,1,Crashed.
+9/2/22,y2022,Ch,gamma,Ch-gamma,8/30/22,3,0,,D,2,""""""
+9/2/22,y2022,Ch,beta,Ch-beta,7/22/22,42,0,,D,11,""""""
+9/2/22,y2022,CC,gamma,CC-gamma,8/25/22,8,0,,E,4,""""""
+9/2/22,y2022,CC,delta,CC-delta,6/26/22,68,0,,E,9,""""""
+9/2/22,y2022,C,gamma,C-gamma,8/14/22,19,2,,I,11,Crashing and needed room.
+9/2/22,y2022,C,beta,C-beta,8/6/22,27,2,S,K,11,""""""
+9/3/22,y2022,M,alpha,M-delta,8/25/22,9,1,,G,12,Crashing.
+9/10/22,y2022,CC,gamma,CC-gamma,8/2/22,39,1,S,C,5,Crashed.
+9/10/22,y2022,C,gamma,C-gamma,8/24/22,17,NA,S,I,4,Corner popped and drained.
+9/11/22,y2022,Ch,beta,Ch-beta,4/6/22,158,1,S,A,3,Crashing.
+9/11/22,y2022,Ch,delta,Ch-delta,4/6/22,158,1,S,A,2,Crashing.
+9/11/22,y2022,T,gamma,T-gamma,8/6/22,36,1,S,J,5,Crashing.
+9/11/22,y2022,T,delta,T-delta,8/6/22,36,1,S,J,1,Crashing.
+9/11/22,y2022,CC,alpha,CC-alpha,7/10/22,63,1,S,F,3,Crashing.
+9/11/22,y2022,CC,alpha,CC-alpha,7/17/22,56,1,S,C,2,Crashing.
+9/13/22,y2022,M,beta,M-beta,8/20/22,24,0,,I,12,Crashed.
+9/13/22,y2022,M,delta,M-delta,8/25/22,19,0,,J,12,Crashed.
+9/13/22,y2022,C,delta,C-delta,8/14/22,30,2,S,K,12,Really bad chunks.
+9/13/22,y2022,C,alpha,C-alpha,3/21/22,176,3,S,I,8,Lots of gross chunks.
+9/14/22,y2022,M,gamma,M-gamma,6/26/22,80,4,S,H,12,Used for setting trays.
+9/16/22,y2022,T,beta,T-beta,8/14/22,33,1,S,L,2,Crashed and chunks.
+9/16/22,y2022,T,beta,T-beta,8/24/22,23,1,S & F,L,9,Crashed and chunks.
+9/16/22,y2022,CC,delta,CC-delta,9/3/22,13,0,,E,10,Crashed only right above the belly button.
+9/19/22,y2022,Ch,gamma,Ch-gamma,9/14/22,5,1,S,A,2,""""""
+9/19/22,y2022,Ch,beta,Ch-beta,9/14/22,5,1,S,A,3,""""""
+9/19/22,y2022,Ch,delta,Ch-delta,8/6/22,44,1,S,A,8,Crashed.
+9/19/22,y2022,Ch,beta,Ch-beta,4/22/22,150,1,S,A,11,Crashed.
+9/19/22,y2022,Ch,delta,Ch-delta,4/17/22,155,1,S,B,7,Crashed.
+9/19/22,y2022,CC,beta,CC-beta,8/6/22,44,1,S,C,9,""""""
+9/19/22,y2022,CC,delta,CC-delta,8/24/22,26,1,S,F,2,""""""
+9/19/22,y2022,CC,beta,CC-beta,9/14/22,5,1,S,F,3,Crashed right above the belly button.
+9/19/22,y2022,CC,gamma,CC-gamma,9/14/22,5,1,S,F,1,""""""
+9/23/22,y2022,Ch,delta,Ch-delta,7/17/22,68,1,S,B,3,Crashed.
+9/23/22,y2022,Ch,gamma,Ch-gamma,7/10/22,75,1,S,B,4,Crashed.
+9/23/22,y2022,CC,beta,CC-beta,5/24/22,122,1,S & F,F,4,Crashed.
+9/23/22,y2022,C,alpha,C-alpha,8/20/22,34,3,S,G,6,Light and super chunky.
+9/23/22,y2022,T,delta,T-delta,8/20/22,34,2,S,H,6,Crashing and chunky.
+9/23/22,y2022,C,beta,C-beta,8/2/22,52,3,S,I,9,Super chunky and corner popped.
+9/25/22,y2022,Ch,gamma,Ch-gamma,4/22/22,156,1,S,A,10,Crashed.
+9/25/22,y2022,Ch,alpha,Ch-alpha,8/26/22,30,1,S,B,10,Crashed.
+9/25/22,y2022,CC,alpha,CC-alpha,8/24/22,32,1,S,E,1,Crashed.
+9/25/22,y2022,T,delta,T-delta,3/13/22,196,2,S,J,4,Crashing and chunky.
+9/25/22,y2022,T,alpha,T-alpha,4/3/22,175,4,S,L,4,Super chunky.
+9/25/22,y2022,M,gamma,M-gamma,9/3/22,22,1,S,G,12,Crashed.
+9/25/22,y2022,Ch,delta,Ch-delta,8/20/22,36,1,S,A,9,Crashed.
+9/29/22,y2022,CC,alpha,CC-alpha,8/20/22,40,1,S,C,4,Crashed.
+9/29/22,y2022,Ch,gamma,Ch-gamma,8/24/22,36,1,S,D,8,Crashed.
+9/29/22,y2022,CC,beta,CC-beta,9/2/22,27,1,S,E,8,Crashed.
+9/29/22,y2022,CC,beta,CC-beta,8/30/22,30,1,S,E,6,Crashed.
+10/4/22,y2022,Ch,alpha,Ch-alpha,8/20/22,45,1,S,A,1,Crashed.
+10/4/22,y2022,Ch,beta,Ch-beta,7/17/22,79,1,S,A,4,Crashed.
+10/4/22,y2022,Ch,beta,Ch-beta,8/2/22,63,1,S,A,6,Crashed.
+10/4/22,y2022,Ch,alpha,Ch-alpha,8/14/22,51,1,S,A,7,Crashed.
+10/4/22,y2022,Ch,alpha,Ch-alpha,9/3/22,31,1,S,D,2,Crashed.
+10/4/22,y2022,Ch,gamma,Ch-gamma,9/2/22,32,1,S,D,4,Crashed.
+10/4/22,y2022,CC,beta,CC-beta,3/3/22,215,1,S,C,10,Crashed.
+10/4/22,y2022,CC,delta,CC-delta,8/20/22,45,1,S,C,6,Crashed.
+10/4/22,y2022,CC,delta,CC-delta,9/7/22,27,1,S,E,11,Crashed.
+10/4/22,y2022,CC,alpha,CC-alpha,9/3/22,31,1,S,E,9,Crashed.
+10/4/22,y2022,CC,gamma,CC-gamma,9/2/22,32,1,S,E,7,Crashed.
+10/4/22,y2022,CC,beta,CC-beta,6/26/22,100,1,S,E,3,Crashed.
+10/4/22,y2022,CC,gamma,CC-gamma,7/22/22,74,1,S,F,5,Crashed.
+10/10/22,y2022,CC,delta,CC-delta,7/31/22,71,1,S,C,12,Crashed.
+10/10/22,y2022,Ch,delta,Ch-delta,7/10/22,92,1,S,B,2,Crashed.
+10/10/22,y2022,CC,gamma,CC-gamma,8/30/22,41,1,S,E,5,Crashed.
+10/10/22,y2022,CC,alpha,CC-alpha,9/7/22,33,1,S,E,4,Crashed.
+10/13/22,y2022,M,beta,M-beta,9/20/22,23,0,,I,12,Crashed.
+10/13/22,y2022,CC,beta,CC-beta,10/10/22,3,0,,C,6,""""""
+10/13/22,y2022,CC,gamma,CC-gamma,10/10/22,3,0,,C,9,""""""
+10/13/22,y2022,Ch,delta,Ch-delta,8/26/22,48,1,S,B,9,Crashed.
+10/14/22,y2022,Ch,gamma,Ch-gamma,4/7/22,190,1,S,B,11,Crashed.
+10/14/22,y2022,Ch,delta,Ch-delta,9/7/22,37,1,S,D,9,Crashed.
+10/14/22,y2022,Ch,alpha,Ch-alpha,9/7/22,37,1,S,D,6,Crashed.
+10/14/22,y2022,Ch,beta,Ch-beta,9/2/22,42,1,S,D,5,Crashed.
+10/14/22,y2022,Ch,delta,Ch-delta,9/3/22,41,1,S,D,3,Crashed.
+10/14/22,y2022,CC,alpha,CC-alpha,9/14/22,30,1,S,F,7,Crashed.
+10/14/22,y2022,CC,beta,CC-beta,3/29/22,199,1,S,F,2,Crashed.
+10/14/22,y2022,T,alpha,T-alpha,7/31/22,75,1,S,H,11,Crashed.
+10/14/22,y2022,T,gamma,T-gamma,8/24/22,51,1,S,L,3,Crashed.
+10/14/22,y2022,T,alpha,T-alpha,8/20/22,55,1,S,J,11,Crashed.
+10/14/22,y2022,C,gamma,C-gamma,9/3/22,41,1,S,I,11,Crashed.
+10/17/22,y2022,CC,gamma,CC-gamma,9/20/22,27,1,S,C,1,Crashed.
+10/17/22,y2022,CC,beta,CC-beta,9/20/22,27,1,S,C,2,Crashed.
+10/17/22,y2022,CC,delta,CC-delta,9/14/22,33,1,S,F,6,Crashed.
+10/17/22,y2022,Ch,beta,Ch-beta,8/30/22,48,1,S,D,1,Crashed.
+10/19/22,y2022,M,delta,M-delta,9/16/22,33,1,S,J,12,Crashed.
+10/19/22,y2022,T,delta,T-delta,9/26/22,23,1,,J,4,Crashed.
+10/20/22,y2022,T,alpha,T-alpha,9/11/22,39,0,S,J,5,Crashed.
+10/24/22,y2022,Ch,delta,Ch-delta,9/26/22,28,0,S,A,10,Crashed.
+10/24/22,y2022,CC,delta,CC-delta,7/17/22,99,0,S,C,7,Crashed.
+10/24/22,y2022,Ch,delta,Ch-delta,9/14/22,40,1,S,D,10,Crashed.
+10/24/22,y2022,C,beta,C-beta,10/10/22,14,1,S,I,9,Crashed.
+10/24/22,y2022,T,gamma,T-gamma,8/2/22,83,2,S,J,9,Crashed and chunky.
+10/26/22,y2022,Ch,gamma,Ch-gamma,10/10/22,16,4,NA,A,1,10/26 was Algae Death Day (ALL BAGS)
+10/26/22,y2022,Ch,gamma,Ch-gamma,9/20/22,36,4,NA,A,2,""""""
+10/26/22,y2022,Ch,beta,Ch-beta,9/20/22,36,4,NA,A,3,""""""
+10/26/22,y2022,Ch,delta,Ch-delta,10/9/22,17,3,NA,A,4,""""""
+10/26/22,y2022,Ch,beta,Ch-beta,8/24/22,63,4,NA,A,5,""""""
+10/26/22,y2022,Ch,beta,Ch-beta,10/15/22,11,4,NA,A,6,""""""
+10/26/22,y2022,Ch,alpha,Ch-alpha,10/15/22,11,5,NA,A,7,""""""
+10/26/22,y2022,Ch,gamma,Ch-gamma,10/2/22,24,5,NA,A,8,Sample
+10/26/22,y2022,Ch,alpha,Ch-alpha,10/2/22,24,5,NA,A,9,""""""
+10/26/22,y2022,Ch,beta,Ch-beta,9/26/22,30,4,NA,A,11,""""""
+10/26/22,y2022,Ch,delta,Ch-delta,5/2/22,177,3,NA,A,12,""""""
+10/26/22,y2022,Ch,beta,Ch-beta,10/2/22,24,4,NA,B,1,""""""
+10/26/22,y2022,Ch,delta,Ch-delta,10/2/22,24,3,NA,B,3,""""""
+10/26/22,y2022,Ch,delta,Ch-delta,2/27/22,241,5,NA,B,5,Sample
+10/26/22,y2022,Ch,beta,Ch-beta,3/3/22,237,5,NA,B,8,""""""
+10/26/22,y2022,Ch,beta,Ch-beta,4/26/22,183,4,NA,B,12,""""""
+10/26/22,y2022,Ch,alpha,Ch-alpha,9/14/22,42,4,NA,D,11,""""""
+10/26/22,y2022,CC,delta,CC-delta,5/16/22,163,5,NA,C,3,Sample
+10/26/22,y2022,CC,beta,CC-beta,10/2/22,24,2,NA,C,4,""""""
+10/26/22,y2022,CC,gamma,CC-gamma,10/2/22,24,5,NA,C,5,""""""
+10/26/22,y2022,CC,delta,CC-delta,10/15/22,11,4,NA,C,6,""""""
+10/26/22,y2022,CC,gamma,CC-gamma,4/26/22,183,4,NA,C,8,Sample
+10/26/22,y2022,CC,gamma,CC-gamma,10/15/22,11,4,NA,C,9,""""""
+10/26/22,y2022,CC,beta,CC-beta,6/14/22,134,2,NA,C,11,""""""
+10/26/22,y2022,CC,alpha,CC-alpha,10/9/22,17,3,NA,E,1,""""""
+10/26/22,y2022,C,gamma,C-gamma,2/18/22,250,5,NA,G,1,Sample
+10/26/22,y2022,C,beta,C-beta,2/18/22,250,4,NA,G,2,""""""
+10/26/22,y2022,C,alpha,C-alpha,2/18/22,250,5,NA,G,3,""""""
+10/26/22,y2022,C,delta,C-delta,2/18/22,250,5,NA,G,4,""""""
+10/26/22,y2022,C,alpha,C-alpha,2/19/22,249,5,NA,G,5,""""""
+10/26/22,y2022,C,alpha,C-alpha,9/26/22,30,4,NA,G,6,""""""
+10/26/22,y2022,C,delta,C-delta,2/24/22,244,5,NA,G,7,Sample
+10/26/22,y2022,C,alpha,C-alpha,2/24/22,244,5,NA,G,8,""""""
+10/26/22,y2022,C,gamma,C-gamma,3/3/22,237,5,NA,G,9,""""""
+10/26/22,y2022,C,gamma,C-gamma,5/6/22,173,4,NA,G,10,""""""
+10/26/22,y2022,C,beta,C-beta,5/15/22,164,4,NA,G,11,""""""
+10/26/22,y2022,C,gamma,C-gamma,3/7/22,233,5,NA,I,1,""""""
+10/26/22,y2022,C,beta,C-beta,3/17/22,223,5,S,I,2,""""""
+10/26/22,y2022,C,alpha,C-alpha,3/13/22,227,4,S,I,3,""""""
+10/26/22,y2022,C,delta,C-delta,9/11/22,45,4,S,I,4,""""""
+10/26/22,y2022,C,beta,C-beta,3/17/22,223,5,S,I,5,""""""
+10/26/22,y2022,C,gamma,C-gamma,3/17/22,223,5,S,I,6,""""""
+10/26/22,y2022,C,beta,C-beta,8/24/22,63,5,S,I,7,""""""
+10/26/22,y2022,C,gamma,C-gamma,10/10/22,16,5,S,I,8,""""""
+10/26/22,y2022,C,delta,C-delta,8/20/22,67,4,S,I,10,""""""
+10/26/22,y2022,C,beta,C-beta,9/3/22,53,4,S,I,11,""""""
+10/26/22,y2022,C,beta,C-beta,3/29/22,211,5,S,K,1,""""""
+10/26/22,y2022,C,gamma,C-gamma,3/29/22,211,5,S,K,2,""""""
+10/26/22,y2022,C,alpha,C-alpha,4/3/22,206,5,S,K,3,""""""
+10/26/22,y2022,C,delta,C-delta,4/3/22,206,5,S,K,4,""""""
+10/26/22,y2022,C,beta,C-beta,4/6/22,203,5,S,K,5,""""""
+10/26/22,y2022,C,gamma,C-gamma,4/6/22,203,4,S,K,6,""""""
+10/26/22,y2022,C,beta,C-beta,4/12/22,197,4,S,K,7,""""""
+10/26/22,y2022,C,gamma,C-gamma,4/12/22,197,4,S,K,8,""""""
+10/26/22,y2022,C,delta,C-delta,4/17/22,192,4,S,K,9,""""""
+10/26/22,y2022,C,gamma,C-gamma,4/22/22,187,4,S,K,10,""""""
+10/26/22,y2022,C,delta,C-delta,10/15/22,11,5,NA,K,11,""""""
+10/26/22,y2022,T,alpha,T-alpha,2/18/22,250,4,S,H,1,""""""
+10/26/22,y2022,T,delta,T-delta,2/18/22,250,5,S,H,2,Sample
+10/26/22,y2022,T,gamma,T-gamma,2/18/22,250,5,S,H,3,""""""
+10/26/22,y2022,T,beta,T-beta,2/18/22,250,4,S,H,4,""""""
+10/26/22,y2022,T,alpha,T-alpha,2/19/22,249,4,S,H,5,""""""
+10/26/22,y2022,T,alpha,T-alpha,9/26/22,30,5,S,H,6,""""""
+10/26/22,y2022,T,delta,T-delta,2/24/22,244,4,S,H,7,""""""
+10/26/22,y2022,T,alpha,T-alpha,2/24/22,244,3,S,H,8,""""""
+10/26/22,y2022,T,gamma,T-gamma,3/3/22,237,5,S,H,9,""""""
+10/26/22,y2022,T,gamma,T-gamma,5/15/22,164,3,S,H,10,""""""
+10/26/22,y2022,T,gamma,T-gamma,10/15/22,11,4,S,H,11,""""""
+10/26/22,y2022,T,delta,T-delta,9/11/22,45,3,S,J,1,""""""
+10/26/22,y2022,T,beta,T-beta,3/6/22,234,5,S,J,2,""""""
+10/26/22,y2022,T,alpha,T-alpha,3/13/22,227,5,S,J,3,Sample
+10/26/22,y2022,T,beta,T-beta,3/17/22,223,4,S,J,6,""""""
+10/26/22,y2022,T,delta,T-delta,3/21/22,219,3,S,J,7,""""""
+10/26/22,y2022,T,alpha,T-alpha,3/21/22,219,5,S,J,8,""""""
+10/26/22,y2022,T,gamma,T-gamma,4/26/22,183,4,S,J,10,""""""
+10/26/22,y2022,T,alpha,T-alpha,10/15/22,11,5,NA,J,11,""""""
+10/26/22,y2022,T,alpha,T-alpha,8/5/22,82,5,S,L,1,""""""
+10/26/22,y2022,T,beta,T-beta,9/20/22,36,5,S,L,2,""""""
+10/26/22,y2022,T,beta,T-beta,10/10/22,16,5,NA,L,4,""""""
+10/26/22,y2022,T,beta,T-beta,4/6/22,203,5,S,L,5,""""""
+10/26/22,y2022,T,gamma,T-gamma,4/6/22,203,4,S,L,6,""""""
+10/26/22,y2022,T,alpha,T-alpha,4/11/22,198,5,S,L,7,""""""
+10/26/22,y2022,T,delta,T-delta,4/11/22,198,4,S,L,8,""""""
+10/26/22,y2022,T,gamma,T-gamma,10/10/22,16,3,S,L,9,""""""
+10/26/22,y2022,T,alpha,T-alpha,6/22/22,126,4,S,L,10,""""""
+10/26/22,y2022,T,beta,T-beta,4/22/22,187,4,S,L,11,""""""
+10/26/22,y2022,T,alpha,T-alpha,7/17/22,101,3,S,L,12,""""""
+10/26/22,y2022,M,gamma,M-gamma,10/15/22,11,5,NA,K,12,Sample
+10/26/22,y2022,M,beta,M-beta,10/15/22,11,5,NA,I,12,Sample
+10/26/22,y2022,M,gamma,M-gamma,9/14/22,42,2,S,H,12,""""""
+10/26/22,y2022,M,gamma,M-gamma,9/26/22,30,3,S,G,12,""""""
